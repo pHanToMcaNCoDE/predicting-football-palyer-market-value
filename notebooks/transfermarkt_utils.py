@@ -17,7 +17,9 @@ current_positions = [
     "Right Midfield",
     "Left Winger",
     "Right Winger",
-    "Centre-Forward"
+    "Centre-Forward",
+    "Second Striker",
+    "Left Midfield"
 ]
 
 

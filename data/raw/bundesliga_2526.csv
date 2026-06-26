@@ -1,0 +1,517 @@
+player_name,position,Age,market_value_eur,club,season
+Diant Ramaj,Goalkeeper,24.0,7000000.0,1 Fc Heidenheim 1846,2526
+Frank Feller,Goalkeeper,22.0,800000.0,1 Fc Heidenheim 1846,2526
+Paul Tschernuth,Goalkeeper,24.0,100000.0,1 Fc Heidenheim 1846,2526
+Patrick Mainka,Centre-Back,31.0,2500000.0,1 Fc Heidenheim 1846,2526
+Tim Siersleben,Centre-Back,26.0,1800000.0,1 Fc Heidenheim 1846,2526
+Benedikt Gimber,Centre-Back,29.0,1500000.0,1 Fc Heidenheim 1846,2526
+Adam Kölle,Centre-Back,20.0,1000000.0,1 Fc Heidenheim 1846,2526
+Hennes Behrens,Left-Back,21.0,5000000.0,1 Fc Heidenheim 1846,2526
+Jonas Föhrenbach,Left-Back,30.0,1000000.0,1 Fc Heidenheim 1846,2526
+Leart Paçarada,Left-Back,31.0,800000.0,1 Fc Heidenheim 1846,2526
+Leonidas Stergiou,Right-Back,24.0,2500000.0,1 Fc Heidenheim 1846,2526
+Omar Traoré,Right-Back,28.0,2000000.0,1 Fc Heidenheim 1846,2526
+Marnon Busch,Right-Back,31.0,1000000.0,1 Fc Heidenheim 1846,2526
+Niklas Dorsch,Defensive Midfield,28.0,2500000.0,1 Fc Heidenheim 1846,2526
+Julian Niehues,Defensive Midfield,25.0,1500000.0,1 Fc Heidenheim 1846,2526
+Jan Schöppner,Central Midfield,27.0,3000000.0,1 Fc Heidenheim 1846,2526
+Luca Kerber,Central Midfield,24.0,2000000.0,1 Fc Heidenheim 1846,2526
+Nick Rothweiler,Central Midfield,20.0,250000.0,1 Fc Heidenheim 1846,2526
+Arijon Ibrahimovic,Attacking Midfield,20.0,10000000.0,1 Fc Heidenheim 1846,2526
+Adrian Beck,Attacking Midfield,29.0,1500000.0,1 Fc Heidenheim 1846,2526
+Mathias Honsak,Left Winger,29.0,1700000.0,1 Fc Heidenheim 1846,2526
+Yannik Wagner,Left Winger,19.0,800000.0,1 Fc Heidenheim 1846,2526
+Eren Dinkçi,Right Winger,24.0,6000000.0,1 Fc Heidenheim 1846,2526
+Christian Conteh,Right Winger,26.0,1500000.0,1 Fc Heidenheim 1846,2526
+Sirlord Conteh,Right Winger,29.0,1200000.0,1 Fc Heidenheim 1846,2526
+Marvin Pieringer,Centre-Forward,26.0,3000000.0,1 Fc Heidenheim 1846,2526
+Mikkel Kaufmann,Centre-Forward,25.0,1500000.0,1 Fc Heidenheim 1846,2526
+Budu Zivzivadze,Centre-Forward,32.0,1200000.0,1 Fc Heidenheim 1846,2526
+Stefan Schimmer,Centre-Forward,32.0,300000.0,1 Fc Heidenheim 1846,2526
+Marvin Schwäbe,Goalkeeper,31.0,3000000.0,1 Fc Koln,2526
+Ron-Robert Zieler,Goalkeeper,37.0,500000.0,1 Fc Koln,2526
+Matthias Köbbing,Goalkeeper,29.0,100000.0,1 Fc Koln,2526
+Jahmai Simpson-Pusey,Centre-Back,20.0,9000000.0,1 Fc Koln,2526
+Rav van den Berg,Centre-Back,21.0,7000000.0,1 Fc Koln,2526
+Cenk Özkacar,Centre-Back,25.0,4000000.0,1 Fc Koln,2526
+Joël Schmied,Centre-Back,27.0,3000000.0,1 Fc Koln,2526
+Timo Hübers,Centre-Back,29.0,1500000.0,1 Fc Koln,2526
+Dominique Heintz,Centre-Back,32.0,600000.0,1 Fc Koln,2526
+Luca Kilian,Centre-Back,26.0,100000.0,1 Fc Koln,2526
+Kristoffer Lund,Left-Back,24.0,4000000.0,1 Fc Koln,2526
+Sebastian Sebulonsen,Right-Back,26.0,5500000.0,1 Fc Koln,2526
+Eric Martel,Defensive Midfield,24.0,8000000.0,1 Fc Koln,2526
+Tom Krauß,Defensive Midfield,25.0,4500000.0,1 Fc Koln,2526
+Fayssal Harchaoui,Defensive Midfield,20.0,200000.0,1 Fc Koln,2526
+Ísak Jóhannesson,Central Midfield,23.0,8000000.0,1 Fc Koln,2526
+Felipe Chávez,Central Midfield,19.0,4000000.0,1 Fc Koln,2526
+Denis Huseinbasic,Central Midfield,24.0,2000000.0,1 Fc Koln,2526
+Alessio Castro-Montes,Right Midfield,29.0,2500000.0,1 Fc Koln,2526
+Florian Kainz,Attacking Midfield,33.0,1000000.0,1 Fc Koln,2526
+Said El Mala,Left Winger,19.0,45000000.0,1 Fc Koln,2526
+Jakub Kaminski,Left Winger,24.0,17000000.0,1 Fc Koln,2526
+Linton Maina,Left Winger,27.0,3000000.0,1 Fc Koln,2526
+Marius Bülter,Left Winger,33.0,1800000.0,1 Fc Koln,2526
+Jan Thielmann,Right Winger,24.0,5000000.0,1 Fc Koln,2526
+Youssoupha Niang,Right Winger,20.0,2000000.0,1 Fc Koln,2526
+Ragnar Ache,Centre-Forward,27.0,9000000.0,1 Fc Koln,2526
+Luca Waldschmidt,Centre-Forward,30.0,2000000.0,1 Fc Koln,2526
+Fynn Schenten,Centre-Forward,18.0,1000000.0,1 Fc Koln,2526
+Malek El Mala,Centre-Forward,21.0,250000.0,1 Fc Koln,2526
+Frederik Rönnow,Goalkeeper,33.0,2000000.0,1 Fc Union Berlin,2526
+Matheo Raab,Goalkeeper,27.0,600000.0,1 Fc Union Berlin,2526
+Carl Klaus,Goalkeeper,32.0,350000.0,1 Fc Union Berlin,2526
+Leopold Querfeld,Centre-Back,22.0,20000000.0,1 Fc Union Berlin,2526
+Danilho Doekhi,Centre-Back,27.0,13000000.0,1 Fc Union Berlin,2526
+Diogo Leite,Centre-Back,27.0,12000000.0,1 Fc Union Berlin,2526
+Stanley Nsoki,Centre-Back,27.0,2000000.0,1 Fc Union Berlin,2526
+Tom Rothe,Left-Back,21.0,10000000.0,1 Fc Union Berlin,2526
+Derrick Köhn,Left-Back,27.0,4000000.0,1 Fc Union Berlin,2526
+Andrik Markgraf,Left-Back,20.0,300000.0,1 Fc Union Berlin,2526
+Josip Juranovic,Right-Back,30.0,2000000.0,1 Fc Union Berlin,2526
+Christopher Trimmel,Right-Back,39.0,600000.0,1 Fc Union Berlin,2526
+Aljoscha Kemlein,Defensive Midfield,21.0,12000000.0,1 Fc Union Berlin,2526
+Rani Khedira,Defensive Midfield,32.0,2000000.0,1 Fc Union Berlin,2526
+András Schäfer,Central Midfield,27.0,4500000.0,1 Fc Union Berlin,2526
+Alex Král,Central Midfield,28.0,2500000.0,1 Fc Union Berlin,2526
+Janik Haberer,Central Midfield,32.0,2000000.0,1 Fc Union Berlin,2526
+Robert Skov,Left Midfield,30.0,2000000.0,1 Fc Union Berlin,2526
+Woo-yeong Jeong,Attacking Midfield,26.0,3500000.0,1 Fc Union Berlin,2526
+Livan Burcu,Left Winger,21.0,4000000.0,1 Fc Union Berlin,2526
+David Preu,Left Winger,21.0,400000.0,1 Fc Union Berlin,2526
+Ilyas Ansah,Centre-Forward,21.0,12000000.0,1 Fc Union Berlin,2526
+Andrej Ilic,Centre-Forward,26.0,9000000.0,1 Fc Union Berlin,2526
+Oliver Burke,Centre-Forward,29.0,3000000.0,1 Fc Union Berlin,2526
+Tim Skarke,Centre-Forward,29.0,1500000.0,1 Fc Union Berlin,2526
+Dmytro Bogdanov,Centre-Forward,19.0,800000.0,1 Fc Union Berlin,2526
+Robin Zentner,Goalkeeper,31.0,2500000.0,1 Fsv Mainz 05,2526
+Lasse Rieß,Goalkeeper,24.0,500000.0,1 Fsv Mainz 05,2526
+Daniel Batz,Goalkeeper,35.0,350000.0,1 Fsv Mainz 05,2526
+Kacper Potulski,Centre-Back,18.0,18000000.0,1 Fsv Mainz 05,2526
+Stefan Posch,Centre-Back,29.0,6000000.0,1 Fsv Mainz 05,2526
+Andreas Hanche-Olsen,Centre-Back,29.0,3500000.0,1 Fsv Mainz 05,2526
+Dominik Kohr,Centre-Back,32.0,2000000.0,1 Fsv Mainz 05,2526
+Danny da Costa,Centre-Back,32.0,1200000.0,1 Fsv Mainz 05,2526
+Maxim Leitsch,Centre-Back,28.0,800000.0,1 Fsv Mainz 05,2526
+Stefan Bell,Centre-Back,34.0,600000.0,1 Fsv Mainz 05,2526
+Maxim Dal,Centre-Back,20.0,150000.0,1 Fsv Mainz 05,2526
+Phillipp Mwene,Left-Back,32.0,1500000.0,1 Fsv Mainz 05,2526
+Kasey Bos,Left-Back,22.0,400000.0,1 Fsv Mainz 05,2526
+Anthony Caci,Right-Back,28.0,7000000.0,1 Fsv Mainz 05,2526
+Silvan Widmer,Right-Back,33.0,800000.0,1 Fsv Mainz 05,2526
+Kaishu Sano,Defensive Midfield,25.0,40000000.0,1 Fsv Mainz 05,2526
+Lennard Maloney,Defensive Midfield,26.0,2500000.0,1 Fsv Mainz 05,2526
+Sota Kawasaki,Defensive Midfield,24.0,2000000.0,1 Fsv Mainz 05,2526
+Niklas Tauer,Defensive Midfield,25.0,350000.0,1 Fsv Mainz 05,2526
+Nadiem Amiri,Central Midfield,29.0,17000000.0,1 Fsv Mainz 05,2526
+Daniel Gleiber,Central Midfield,21.0,300000.0,1 Fsv Mainz 05,2526
+Nikolas Veratschnig,Right Midfield,23.0,2500000.0,1 Fsv Mainz 05,2526
+Paul Nebel,Attacking Midfield,23.0,18000000.0,1 Fsv Mainz 05,2526
+Jae-sung Lee,Attacking Midfield,33.0,2000000.0,1 Fsv Mainz 05,2526
+Sheraldo Becker,Left Winger,31.0,1500000.0,1 Fsv Mainz 05,2526
+Silas,Right Winger,27.0,2000000.0,1 Fsv Mainz 05,2526
+Armindo Sieb,Second Striker,23.0,2500000.0,1 Fsv Mainz 05,2526
+Benedict Hollerbach,Centre-Forward,25.0,8000000.0,1 Fsv Mainz 05,2526
+Nelson Weiper,Centre-Forward,21.0,7000000.0,1 Fsv Mainz 05,2526
+Phillip Tietz,Centre-Forward,28.0,4000000.0,1 Fsv Mainz 05,2526
+William Bøving,Centre-Forward,23.0,3500000.0,1 Fsv Mainz 05,2526
+Mark Flekken,Goalkeeper,33.0,6000000.0,Bayer 04 Leverkusen,2526
+Jonas Omlin,Goalkeeper,32.0,800000.0,Bayer 04 Leverkusen,2526
+Janis Blaswich,Goalkeeper,35.0,700000.0,Bayer 04 Leverkusen,2526
+Niklas Lomb,Goalkeeper,32.0,250000.0,Bayer 04 Leverkusen,2526
+Jarell Quansah,Centre-Back,23.0,45000000.0,Bayer 04 Leverkusen,2526
+Edmond Tapsoba,Centre-Back,27.0,35000000.0,Bayer 04 Leverkusen,2526
+Loïc Badé,Centre-Back,26.0,20000000.0,Bayer 04 Leverkusen,2526
+Axel Tape,Centre-Back,18.0,8000000.0,Bayer 04 Leverkusen,2526
+Tim Oermann,Centre-Back,22.0,4000000.0,Bayer 04 Leverkusen,2526
+Issa Traoré,Centre-Back,18.0,800000.0,Bayer 04 Leverkusen,2526
+Alejandro Grimaldo,Left-Back,30.0,20000000.0,Bayer 04 Leverkusen,2526
+Arthur,Right-Back,23.0,8000000.0,Bayer 04 Leverkusen,2526
+Lucas Vázquez,Right-Back,34.0,1500000.0,Bayer 04 Leverkusen,2526
+Equi Fernández,Defensive Midfield,23.0,20000000.0,Bayer 04 Leverkusen,2526
+Robert Andrich,Defensive Midfield,31.0,6000000.0,Bayer 04 Leverkusen,2526
+Exequiel Palacios,Central Midfield,27.0,25000000.0,Bayer 04 Leverkusen,2526
+Aleix García,Central Midfield,28.0,20000000.0,Bayer 04 Leverkusen,2526
+Ibrahim Maza,Attacking Midfield,20.0,45000000.0,Bayer 04 Leverkusen,2526
+Malik Tillman,Attacking Midfield,24.0,30000000.0,Bayer 04 Leverkusen,2526
+Jonas Hofmann,Attacking Midfield,33.0,1500000.0,Bayer 04 Leverkusen,2526
+Eliesse Ben Seghir,Left Winger,21.0,20000000.0,Bayer 04 Leverkusen,2526
+Martin Terrier,Left Winger,29.0,8000000.0,Bayer 04 Leverkusen,2526
+Ernest Poku,Right Winger,22.0,25000000.0,Bayer 04 Leverkusen,2526
+Nathan Tella,Right Winger,26.0,15000000.0,Bayer 04 Leverkusen,2526
+Montrell Culbreath,Right Winger,18.0,15000000.0,Bayer 04 Leverkusen,2526
+Christian Kofane,Centre-Forward,19.0,40000000.0,Bayer 04 Leverkusen,2526
+Patrik Schick,Centre-Forward,30.0,18000000.0,Bayer 04 Leverkusen,2526
+Jonas Urbig,Goalkeeper,22.0,18000000.0,Bayern Munich,2526
+Manuel Neuer,Goalkeeper,40.0,4000000.0,Bayern Munich,2526
+Sven Ulreich,Goalkeeper,37.0,500000.0,Bayern Munich,2526
+Leon Klanac,Goalkeeper,19.0,150000.0,Bayern Munich,2526
+Dayot Upamecano,Centre-Back,27.0,70000000.0,Bayern Munich,2526
+Jonathan Tah,Centre-Back,30.0,28000000.0,Bayern Munich,2526
+Min-jae Kim,Centre-Back,29.0,20000000.0,Bayern Munich,2526
+Hiroki Ito,Centre-Back,27.0,18000000.0,Bayern Munich,2526
+Alphonso Davies,Left-Back,25.0,40000000.0,Bayern Munich,2526
+Raphaël Guerreiro,Left-Back,32.0,5000000.0,Bayern Munich,2526
+Josip Stanisic,Right-Back,26.0,40000000.0,Bayern Munich,2526
+Konrad Laimer,Right-Back,29.0,32000000.0,Bayern Munich,2526
+Aleksandar Pavlovic,Defensive Midfield,22.0,90000000.0,Bayern Munich,2526
+Joshua Kimmich,Defensive Midfield,31.0,35000000.0,Bayern Munich,2526
+David Santos Daiber,Defensive Midfield,19.0,3000000.0,Bayern Munich,2526
+Tom Bischof,Central Midfield,20.0,40000000.0,Bayern Munich,2526
+Leon Goretzka,Central Midfield,31.0,12000000.0,Bayern Munich,2526
+Bara Sapoko Ndiaye,Central Midfield,18.0,4000000.0,Bayern Munich,2526
+Jamal Musiala,Attacking Midfield,23.0,100000000.0,Bayern Munich,2526
+Lennart Karl,Attacking Midfield,18.0,60000000.0,Bayern Munich,2526
+Luis Díaz,Left Winger,29.0,70000000.0,Bayern Munich,2526
+Michael Olise,Right Winger,24.0,150000000.0,Bayern Munich,2526
+Serge Gnabry,Second Striker,30.0,18000000.0,Bayern Munich,2526
+Harry Kane,Centre-Forward,32.0,60000000.0,Bayern Munich,2526
+Nicolas Jackson,Centre-Forward,25.0,40000000.0,Bayern Munich,2526
+Gregor Kobel,Goalkeeper,28.0,40000000.0,Borussia Dortmund,2526
+Alexander Meyer,Goalkeeper,35.0,500000.0,Borussia Dortmund,2526
+Patrick Drewes,Goalkeeper,33.0,300000.0,Borussia Dortmund,2526
+Silas Ostrzinski,Goalkeeper,22.0,200000.0,Borussia Dortmund,2526
+Nico Schlotterbeck,Centre-Back,26.0,55000000.0,Borussia Dortmund,2526
+Waldemar Anton,Centre-Back,29.0,18000000.0,Borussia Dortmund,2526
+Luca Reggiani,Centre-Back,18.0,10000000.0,Borussia Dortmund,2526
+Ramy Bensebaini,Centre-Back,31.0,7000000.0,Borussia Dortmund,2526
+Niklas Süle,Centre-Back,30.0,4000000.0,Borussia Dortmund,2526
+Emre Can,Centre-Back,32.0,3000000.0,Borussia Dortmund,2526
+Filippo Mane,Centre-Back,21.0,2500000.0,Borussia Dortmund,2526
+Daniel Svensson,Left-Back,24.0,22000000.0,Borussia Dortmund,2526
+Almugera Kabar,Left-Back,20.0,3000000.0,Borussia Dortmund,2526
+Julian Ryerson,Right-Back,28.0,25000000.0,Borussia Dortmund,2526
+Salih Özcan,Defensive Midfield,28.0,3500000.0,Borussia Dortmund,2526
+Felix Nmecha,Central Midfield,25.0,50000000.0,Borussia Dortmund,2526
+Jobe Bellingham,Central Midfield,20.0,40000000.0,Borussia Dortmund,2526
+Carney Chukwuemeka,Central Midfield,22.0,20000000.0,Borussia Dortmund,2526
+Marcel Sabitzer,Central Midfield,32.0,6000000.0,Borussia Dortmund,2526
+Yan Couto,Right Midfield,24.0,17000000.0,Borussia Dortmund,2526
+Julian Brandt,Attacking Midfield,30.0,15000000.0,Borussia Dortmund,2526
+Karim Adeyemi,Right Winger,24.0,40000000.0,Borussia Dortmund,2526
+Samuele Inácio,Second Striker,18.0,15000000.0,Borussia Dortmund,2526
+Maximilian Beier,Centre-Forward,23.0,40000000.0,Borussia Dortmund,2526
+Serhou Guirassy,Centre-Forward,30.0,32000000.0,Borussia Dortmund,2526
+Fábio Silva,Centre-Forward,23.0,22000000.0,Borussia Dortmund,2526
+Moritz Nicolas,Goalkeeper,28.0,8000000.0,Borussia Monchengladbach,2526
+Tiago Pereira Cardoso,Goalkeeper,20.0,1500000.0,Borussia Monchengladbach,2526
+Jan Olschowsky,Goalkeeper,24.0,450000.0,Borussia Monchengladbach,2526
+Tobias Sippel,Goalkeeper,38.0,300000.0,Borussia Monchengladbach,2526
+Nico Elvedi,Centre-Back,29.0,8000000.0,Borussia Monchengladbach,2526
+Kevin Diks,Centre-Back,29.0,5000000.0,Borussia Monchengladbach,2526
+Kota Takai,Centre-Back,21.0,5000000.0,Borussia Monchengladbach,2526
+Fabio Chiarodia,Centre-Back,21.0,3000000.0,Borussia Monchengladbach,2526
+Marvin Friedrich,Centre-Back,30.0,1800000.0,Borussia Monchengladbach,2526
+Lukas Ullrich,Left-Back,22.0,6000000.0,Borussia Monchengladbach,2526
+Joe Scally,Right-Back,23.0,7000000.0,Borussia Monchengladbach,2526
+Yannik Engelhardt,Defensive Midfield,25.0,7000000.0,Borussia Monchengladbach,2526
+Philipp Sander,Defensive Midfield,28.0,4000000.0,Borussia Monchengladbach,2526
+Niklas Swider,Defensive Midfield,19.0,250000.0,Borussia Monchengladbach,2526
+Rocco Reitz,Central Midfield,24.0,20000000.0,Borussia Monchengladbach,2526
+Jens Castrop,Central Midfield,22.0,10000000.0,Borussia Monchengladbach,2526
+Florian Neuhaus,Central Midfield,29.0,2500000.0,Borussia Monchengladbach,2526
+Wael Mohya,Attacking Midfield,17.0,17000000.0,Borussia Monchengladbach,2526
+Giovanni Reyna,Attacking Midfield,23.0,4000000.0,Borussia Monchengladbach,2526
+Kevin Stöger,Attacking Midfield,32.0,1800000.0,Borussia Monchengladbach,2526
+Robin Hack,Left Winger,27.0,7000000.0,Borussia Monchengladbach,2526
+Hugo Bolin,Left Winger,22.0,6000000.0,Borussia Monchengladbach,2526
+Franck Honorat,Right Winger,29.0,7000000.0,Borussia Monchengladbach,2526
+Nathan Ngoumou,Right Winger,26.0,3500000.0,Borussia Monchengladbach,2526
+Tim Kleindienst,Centre-Forward,30.0,8000000.0,Borussia Monchengladbach,2526
+Shuto Machino,Centre-Forward,26.0,4000000.0,Borussia Monchengladbach,2526
+Haris Tabakovic,Centre-Forward,32.0,3500000.0,Borussia Monchengladbach,2526
+Alejo Sarco,Centre-Forward,20.0,2000000.0,Borussia Monchengladbach,2526
+Kauã Santos,Goalkeeper,23.0,7000000.0,Eintracht Frankfurt,2526
+Michael Zetterer,Goalkeeper,30.0,4000000.0,Eintracht Frankfurt,2526
+Jens Grahl,Goalkeeper,37.0,200000.0,Eintracht Frankfurt,2526
+Amil Siljevic,Goalkeeper,19.0,,Eintracht Frankfurt,2526
+Nnamdi Collins,Centre-Back,22.0,20000000.0,Eintracht Frankfurt,2526
+Arthur Theate,Centre-Back,26.0,17000000.0,Eintracht Frankfurt,2526
+Robin Koch,Centre-Back,29.0,10000000.0,Eintracht Frankfurt,2526
+Aurèle Amenda,Centre-Back,22.0,10000000.0,Eintracht Frankfurt,2526
+Nathaniel Brown,Left-Back,23.0,40000000.0,Eintracht Frankfurt,2526
+Keita Kosugi,Left-Back,20.0,5000000.0,Eintracht Frankfurt,2526
+Rasmus Kristensen,Right-Back,28.0,10000000.0,Eintracht Frankfurt,2526
+Elias Baum,Right-Back,20.0,4000000.0,Eintracht Frankfurt,2526
+Timothy Chandler,Right-Back,36.0,350000.0,Eintracht Frankfurt,2526
+Ellyes Skhiri,Defensive Midfield,31.0,5000000.0,Eintracht Frankfurt,2526
+Hugo Larsson,Central Midfield,21.0,28000000.0,Eintracht Frankfurt,2526
+Oscar Højlund,Central Midfield,21.0,15000000.0,Eintracht Frankfurt,2526
+Mahmoud Dahoud,Central Midfield,30.0,2000000.0,Eintracht Frankfurt,2526
+Can Uzun,Attacking Midfield,20.0,45000000.0,Eintracht Frankfurt,2526
+Farès Chaïbi,Attacking Midfield,23.0,15000000.0,Eintracht Frankfurt,2526
+Love Arrhov,Attacking Midfield,18.0,5000000.0,Eintracht Frankfurt,2526
+Mario Götze,Attacking Midfield,34.0,3000000.0,Eintracht Frankfurt,2526
+Jean-Mattéo Bahoya,Left Winger,21.0,25000000.0,Eintracht Frankfurt,2526
+Ritsu Doan,Right Winger,28.0,17000000.0,Eintracht Frankfurt,2526
+Ansgar Knauff,Right Winger,24.0,15000000.0,Eintracht Frankfurt,2526
+Ayoube Amaimouni-Echghouyab,Right Winger,21.0,10000000.0,Eintracht Frankfurt,2526
+Jonathan Burkardt,Centre-Forward,25.0,30000000.0,Eintracht Frankfurt,2526
+Arnaud Kalimuendo,Centre-Forward,24.0,25000000.0,Eintracht Frankfurt,2526
+Younes Ebnoutalib,Centre-Forward,22.0,8000000.0,Eintracht Frankfurt,2526
+Michy Batshuayi,Centre-Forward,32.0,2000000.0,Eintracht Frankfurt,2526
+Finn Dahmen,Goalkeeper,28.0,12000000.0,Fc Augsburg,2526
+Nediljko Labrovic,Goalkeeper,26.0,2000000.0,Fc Augsburg,2526
+Daniel Klein,Goalkeeper,25.0,150000.0,Fc Augsburg,2526
+Chrislain Matsima,Centre-Back,24.0,22000000.0,Fc Augsburg,2526
+Noahkai Banks,Centre-Back,19.0,20000000.0,Fc Augsburg,2526
+Keven Schlotterbeck,Centre-Back,29.0,6000000.0,Fc Augsburg,2526
+Cédric Zesiger,Centre-Back,28.0,5000000.0,Fc Augsburg,2526
+Arthur Chaves,Centre-Back,25.0,5000000.0,Fc Augsburg,2526
+Jeffrey Gouweleeuw,Centre-Back,34.0,1000000.0,Fc Augsburg,2526
+Felix Meiser,Centre-Back,19.0,150000.0,Fc Augsburg,2526
+Dimitrios Giannoulis,Left-Back,30.0,3000000.0,Fc Augsburg,2526
+Mads Pedersen,Left-Back,29.0,800000.0,Fc Augsburg,2526
+Oliver Sorg,Left-Back,18.0,400000.0,Fc Augsburg,2526
+Marius Wolf,Right-Back,31.0,2500000.0,Fc Augsburg,2526
+Kristijan Jakic,Defensive Midfield,29.0,6000000.0,Fc Augsburg,2526
+Robin Fellhauer,Defensive Midfield,28.0,3500000.0,Fc Augsburg,2526
+Yannik Keitel,Defensive Midfield,26.0,2000000.0,Fc Augsburg,2526
+Mahmut Kücüksahin,Defensive Midfield,22.0,150000.0,Fc Augsburg,2526
+Han-Noah Massengo,Central Midfield,24.0,8000000.0,Fc Augsburg,2526
+Elvis Rexhbecaj,Central Midfield,28.0,3500000.0,Fc Augsburg,2526
+Alexis Claude-Maurice,Attacking Midfield,28.0,15000000.0,Fc Augsburg,2526
+Fabian Rieder,Attacking Midfield,24.0,12000000.0,Fc Augsburg,2526
+Mert Kömür,Attacking Midfield,20.0,12000000.0,Fc Augsburg,2526
+Anton Kade,Attacking Midfield,22.0,10000000.0,Fc Augsburg,2526
+Ismaël Gharbi,Left Winger,22.0,5000000.0,Fc Augsburg,2526
+Rodrigo Ribeiro,Centre-Forward,21.0,4000000.0,Fc Augsburg,2526
+Uchenna Ogundu,Centre-Forward,20.0,4000000.0,Fc Augsburg,2526
+Michael Gregoritsch,Centre-Forward,32.0,1500000.0,Fc Augsburg,2526
+Thomas Kastanaras,Centre-Forward,23.0,300000.0,Fc Augsburg,2526
+Nikola Vasilj,Goalkeeper,30.0,4500000.0,Fc St Pauli,2526
+Ben Voll,Goalkeeper,25.0,500000.0,Fc St Pauli,2526
+Simon Spari,Goalkeeper,24.0,350000.0,Fc St Pauli,2526
+Emil Gazdov,Goalkeeper,22.0,175000.0,Fc St Pauli,2526
+Eric Smith,Centre-Back,29.0,5000000.0,Fc St Pauli,2526
+Tomoya Ando,Centre-Back,27.0,3000000.0,Fc St Pauli,2526
+David Nemeth,Centre-Back,25.0,2500000.0,Fc St Pauli,2526
+Hauke Wahl,Centre-Back,32.0,1500000.0,Fc St Pauli,2526
+Adam Dzwigala,Centre-Back,30.0,800000.0,Fc St Pauli,2526
+Karol Mets,Centre-Back,33.0,600000.0,Fc St Pauli,2526
+Jannik Robatsch,Centre-Back,21.0,500000.0,Fc St Pauli,2526
+Louis Oppie,Left-Back,24.0,2500000.0,Fc St Pauli,2526
+Lars Ritzka,Left-Back,28.0,1000000.0,Fc St Pauli,2526
+Arkadiusz Pyrka,Right-Back,23.0,3500000.0,Fc St Pauli,2526
+Manolis Saliakas,Right-Back,29.0,2000000.0,Fc St Pauli,2526
+Fin Stevens,Right-Back,23.0,500000.0,Fc St Pauli,2526
+James Sands,Defensive Midfield,25.0,5000000.0,Fc St Pauli,2526
+Marwin Schmitz,Defensive Midfield,19.0,200000.0,Fc St Pauli,2526
+Joel Chima Fujita,Central Midfield,24.0,10000000.0,Fc St Pauli,2526
+Mathias Rasmussen,Central Midfield,28.0,2000000.0,Fc St Pauli,2526
+Connor Metcalfe,Central Midfield,26.0,1500000.0,Fc St Pauli,2526
+Jackson Irvine,Central Midfield,33.0,1000000.0,Fc St Pauli,2526
+Nick Schmidt,Central Midfield,18.0,125000.0,Fc St Pauli,2526
+Danel Sinani,Attacking Midfield,29.0,3000000.0,Fc St Pauli,2526
+Mathias Pereira Lage,Left Winger,29.0,2500000.0,Fc St Pauli,2526
+Martijn Kaars,Centre-Forward,27.0,3000000.0,Fc St Pauli,2526
+Andréas Hountondji,Centre-Forward,23.0,3000000.0,Fc St Pauli,2526
+Ricky-Jade Jones,Centre-Forward,23.0,1200000.0,Fc St Pauli,2526
+Abdoulie Ceesay,Centre-Forward,22.0,1000000.0,Fc St Pauli,2526
+Taichi Hara,Centre-Forward,27.0,1000000.0,Fc St Pauli,2526
+Sander Tangvik,Goalkeeper,23.0,3000000.0,Hamburger Sv,2526
+Daniel Heuer Fernandes,Goalkeeper,33.0,1200000.0,Hamburger Sv,2526
+Fernando Dickes,Goalkeeper,18.0,300000.0,Hamburger Sv,2526
+Hannes Hermann,Goalkeeper,21.0,150000.0,Hamburger Sv,2526
+Luka Vuskovic,Centre-Back,19.0,60000000.0,Hamburger Sv,2526
+Nicolás Capaldo,Centre-Back,27.0,8000000.0,Hamburger Sv,2526
+Warmed Omari,Centre-Back,26.0,4000000.0,Hamburger Sv,2526
+Jordan Torunarigha,Centre-Back,28.0,4000000.0,Hamburger Sv,2526
+Daniel Elfadli,Centre-Back,29.0,3000000.0,Hamburger Sv,2526
+Shafiq Nandja,Centre-Back,19.0,500000.0,Hamburger Sv,2526
+Miro Muheim,Left-Back,28.0,5000000.0,Hamburger Sv,2526
+Noah Katterbach,Left-Back,25.0,600000.0,Hamburger Sv,2526
+Louis Lemke,Left-Back,16.0,300000.0,Hamburger Sv,2526
+William Mikelbrencis,Right-Back,22.0,3000000.0,Hamburger Sv,2526
+Giorgi Gocholeishvili,Right-Back,25.0,2000000.0,Hamburger Sv,2526
+Nicolai Remberg,Defensive Midfield,26.0,9000000.0,Hamburger Sv,2526
+Albert Sambi Lokonga,Central Midfield,26.0,12000000.0,Hamburger Sv,2526
+Fábio Vieira,Attacking Midfield,26.0,18000000.0,Hamburger Sv,2526
+Albert Grønbæk,Attacking Midfield,25.0,5000000.0,Hamburger Sv,2526
+Omar Megeed,Attacking Midfield,20.0,150000.0,Hamburger Sv,2526
+Alexander Røssing-Lelesiit,Left Winger,19.0,5000000.0,Hamburger Sv,2526
+Fábio Baldé,Left Winger,20.0,5000000.0,Hamburger Sv,2526
+Philip Otele,Left Winger,27.0,4000000.0,Hamburger Sv,2526
+Jean-Luc Dompé,Left Winger,30.0,2500000.0,Hamburger Sv,2526
+Rayan Philippe,Right Winger,25.0,4000000.0,Hamburger Sv,2526
+Bakery Jatta,Right Winger,28.0,1000000.0,Hamburger Sv,2526
+Ransford Königsdörffer,Centre-Forward,24.0,5000000.0,Hamburger Sv,2526
+Damion Downs,Centre-Forward,21.0,4000000.0,Hamburger Sv,2526
+Otto Stange,Centre-Forward,19.0,4000000.0,Hamburger Sv,2526
+Robert Glatzel,Centre-Forward,32.0,1500000.0,Hamburger Sv,2526
+Yussuf Poulsen,Centre-Forward,32.0,1000000.0,Hamburger Sv,2526
+Maarten Vandevoordt,Goalkeeper,24.0,15000000.0,Rb Leipzig,2526
+Péter Gulácsi,Goalkeeper,36.0,1000000.0,Rb Leipzig,2526
+Leopold Zingerle,Goalkeeper,32.0,300000.0,Rb Leipzig,2526
+Castello Lukeba,Centre-Back,23.0,50000000.0,Rb Leipzig,2526
+El Chadaille Bitshiabu,Centre-Back,21.0,18000000.0,Rb Leipzig,2526
+Willi Orbán,Centre-Back,33.0,5000000.0,Rb Leipzig,2526
+Lukas Klostermann,Centre-Back,30.0,3500000.0,Rb Leipzig,2526
+David Raum,Left-Back,28.0,25000000.0,Rb Leipzig,2526
+Max Finkgräfe,Left-Back,22.0,5000000.0,Rb Leipzig,2526
+Ridle Baku,Right-Back,28.0,12000000.0,Rb Leipzig,2526
+Benjamin Henrichs,Right-Back,29.0,7000000.0,Rb Leipzig,2526
+Kosta Nedeljkovic,Right-Back,20.0,6000000.0,Rb Leipzig,2526
+Nicolas Seiwald,Defensive Midfield,25.0,25000000.0,Rb Leipzig,2526
+Benno Kaltefleiter,Defensive Midfield,18.0,,Rb Leipzig,2526
+Assan Ouédraogo,Central Midfield,20.0,28000000.0,Rb Leipzig,2526
+Ezechiel Banzuzi,Central Midfield,21.0,16000000.0,Rb Leipzig,2526
+Xaver Schlager,Central Midfield,28.0,10000000.0,Rb Leipzig,2526
+Christoph Baumgartner,Attacking Midfield,26.0,40000000.0,Rb Leipzig,2526
+Brajan Gruda,Attacking Midfield,22.0,28000000.0,Rb Leipzig,2526
+Andrija Maksimovic,Attacking Midfield,19.0,9000000.0,Rb Leipzig,2526
+Yan Diomande,Left Winger,19.0,90000000.0,Rb Leipzig,2526
+Antonio Nusa,Left Winger,21.0,32000000.0,Rb Leipzig,2526
+Suleman Sani,Left Winger,19.0,5000000.0,Rb Leipzig,2526
+Tidiam Gomis,Left Winger,19.0,5000000.0,Rb Leipzig,2526
+Ayodele Thomas,Left Winger,18.0,1000000.0,Rb Leipzig,2526
+Johan Bakayoko,Right Winger,23.0,20000000.0,Rb Leipzig,2526
+Rômulo,Centre-Forward,24.0,30000000.0,Rb Leipzig,2526
+Conrad Harder,Centre-Forward,21.0,17000000.0,Rb Leipzig,2526
+Noah Atubolu,Goalkeeper,24.0,25000000.0,Sc Freiburg,2526
+Florian Müller,Goalkeeper,28.0,1200000.0,Sc Freiburg,2526
+Jannik Huth,Goalkeeper,32.0,400000.0,Sc Freiburg,2526
+Bruno Ogbus,Centre-Back,20.0,15000000.0,Sc Freiburg,2526
+Philipp Lienhart,Centre-Back,29.0,10000000.0,Sc Freiburg,2526
+Max Rosenfelder,Centre-Back,23.0,6000000.0,Sc Freiburg,2526
+Matthias Ginter,Centre-Back,32.0,5000000.0,Sc Freiburg,2526
+Anthony Jung,Centre-Back,34.0,600000.0,Sc Freiburg,2526
+Jordy Makengo,Left-Back,24.0,6000000.0,Sc Freiburg,2526
+Christian Günter,Left-Back,33.0,2000000.0,Sc Freiburg,2526
+Philipp Treu,Right-Back,25.0,15000000.0,Sc Freiburg,2526
+Lukas Kübler,Right-Back,33.0,1500000.0,Sc Freiburg,2526
+Patrick Osterhage,Defensive Midfield,26.0,12000000.0,Sc Freiburg,2526
+Nicolas Höfler,Defensive Midfield,36.0,500000.0,Sc Freiburg,2526
+Johan Manzambi,Central Midfield,20.0,50000000.0,Sc Freiburg,2526
+Maximilian Eggestein,Central Midfield,29.0,10000000.0,Sc Freiburg,2526
+Daniel-Kofi Kyereh,Attacking Midfield,30.0,100000.0,Sc Freiburg,2526
+Derry Scherhant,Left Winger,23.0,7500000.0,Sc Freiburg,2526
+Vincenzo Grifo,Left Winger,33.0,4000000.0,Sc Freiburg,2526
+Niklas Beste,Right Winger,27.0,10000000.0,Sc Freiburg,2526
+Cyriaque Irié,Right Winger,21.0,8000000.0,Sc Freiburg,2526
+Yuito Suzuki,Second Striker,24.0,24000000.0,Sc Freiburg,2526
+Maximilian Philipp,Second Striker,32.0,500000.0,Sc Freiburg,2526
+Igor Matanovic,Centre-Forward,23.0,22000000.0,Sc Freiburg,2526
+Lucas Höler,Centre-Forward,31.0,3000000.0,Sc Freiburg,2526
+Mio Backhaus,Goalkeeper,22.0,15000000.0,Sv Werder Bremen,2526
+Karl Hein,Goalkeeper,24.0,3000000.0,Sv Werder Bremen,2526
+Markus Kolke,Goalkeeper,35.0,300000.0,Sv Werder Bremen,2526
+Stefan Smarkalev,Goalkeeper,19.0,150000.0,Sv Werder Bremen,2526
+Karim Coulibaly,Centre-Back,19.0,28000000.0,Sv Werder Bremen,2526
+Marco Friedl,Centre-Back,28.0,10000000.0,Sv Werder Bremen,2526
+Amos Pieper,Centre-Back,28.0,4000000.0,Sv Werder Bremen,2526
+Maximilian Wöber,Centre-Back,28.0,3000000.0,Sv Werder Bremen,2526
+Niklas Stark,Centre-Back,31.0,2500000.0,Sv Werder Bremen,2526
+Julián Malatini,Centre-Back,25.0,2000000.0,Sv Werder Bremen,2526
+Mick Schmetgens,Centre-Back,18.0,700000.0,Sv Werder Bremen,2526
+Felix Agu,Left-Back,26.0,4500000.0,Sv Werder Bremen,2526
+Olivier Deman,Left-Back,26.0,3500000.0,Sv Werder Bremen,2526
+Isaac Schmidt,Left-Back,26.0,2200000.0,Sv Werder Bremen,2526
+Yukinari Sugawara,Right-Back,25.0,5500000.0,Sv Werder Bremen,2526
+Mitchell Weiser,Right-Back,32.0,3000000.0,Sv Werder Bremen,2526
+Senne Lynen,Defensive Midfield,27.0,8000000.0,Sv Werder Bremen,2526
+Wesley Adeh,Defensive Midfield,19.0,250000.0,Sv Werder Bremen,2526
+Jens Stage,Central Midfield,29.0,14000000.0,Sv Werder Bremen,2526
+Cameron Puertas,Central Midfield,27.0,7000000.0,Sv Werder Bremen,2526
+Leonardo Bittencourt,Central Midfield,32.0,900000.0,Sv Werder Bremen,2526
+Romano Schmid,Attacking Midfield,26.0,15000000.0,Sv Werder Bremen,2526
+Patrice Covic,Attacking Midfield,19.0,4000000.0,Sv Werder Bremen,2526
+Samuel Mbangula,Left Winger,22.0,8000000.0,Sv Werder Bremen,2526
+Marco Grüll,Left Winger,27.0,4000000.0,Sv Werder Bremen,2526
+Justin Njinmah,Right Winger,25.0,5000000.0,Sv Werder Bremen,2526
+Jovan Milosevic,Centre-Forward,20.0,7000000.0,Sv Werder Bremen,2526
+Victor Boniface,Centre-Forward,25.0,5000000.0,Sv Werder Bremen,2526
+Keke Topp,Centre-Forward,22.0,3000000.0,Sv Werder Bremen,2526
+Salim Musah,Centre-Forward,20.0,2000000.0,Sv Werder Bremen,2526
+Oliver Baumann,Goalkeeper,36.0,2500000.0,Tsg 1899 Hoffenheim,2526
+Luca Philipp,Goalkeeper,25.0,750000.0,Tsg 1899 Hoffenheim,2526
+Lúkas Petersson,Goalkeeper,22.0,600000.0,Tsg 1899 Hoffenheim,2526
+Albian Hajdari,Centre-Back,23.0,25000000.0,Tsg 1899 Hoffenheim,2526
+Ozan Kabak,Centre-Back,26.0,15000000.0,Tsg 1899 Hoffenheim,2526
+Robin Hranac,Centre-Back,26.0,10000000.0,Tsg 1899 Hoffenheim,2526
+Koki Machida,Centre-Back,28.0,6000000.0,Tsg 1899 Hoffenheim,2526
+Kevin Akpoguma,Centre-Back,31.0,1500000.0,Tsg 1899 Hoffenheim,2526
+Kelven Frees,Centre-Back,21.0,500000.0,Tsg 1899 Hoffenheim,2526
+Bernardo,Left-Back,31.0,4000000.0,Tsg 1899 Hoffenheim,2526
+Valentin Gendrey,Right-Back,26.0,6000000.0,Tsg 1899 Hoffenheim,2526
+Vladimír Coufal,Right-Back,33.0,2500000.0,Tsg 1899 Hoffenheim,2526
+Leon Avdullahu,Defensive Midfield,22.0,30000000.0,Tsg 1899 Hoffenheim,2526
+Wouter Burger,Defensive Midfield,25.0,20000000.0,Tsg 1899 Hoffenheim,2526
+Luis Engelns,Defensive Midfield,19.0,4000000.0,Tsg 1899 Hoffenheim,2526
+Grischa Prömel,Central Midfield,31.0,3500000.0,Tsg 1899 Hoffenheim,2526
+Luka Duric,Central Midfield,23.0,800000.0,Tsg 1899 Hoffenheim,2526
+Alexander Prass,Left Midfield,25.0,9000000.0,Tsg 1899 Hoffenheim,2526
+Muhammed Damar,Attacking Midfield,22.0,5000000.0,Tsg 1899 Hoffenheim,2526
+Andrej Kramaric,Attacking Midfield,35.0,2500000.0,Tsg 1899 Hoffenheim,2526
+Bazoumana Touré,Left Winger,20.0,40000000.0,Tsg 1899 Hoffenheim,2526
+Deniz Zeitler,Left Winger,19.0,4000000.0,Tsg 1899 Hoffenheim,2526
+Cole Campbell,Right Winger,20.0,5000000.0,Tsg 1899 Hoffenheim,2526
+Fisnik Asllani,Centre-Forward,23.0,35000000.0,Tsg 1899 Hoffenheim,2526
+Tim Lemperle,Centre-Forward,24.0,17000000.0,Tsg 1899 Hoffenheim,2526
+Adam Hlozek,Centre-Forward,23.0,10000000.0,Tsg 1899 Hoffenheim,2526
+Max Moerstedt,Centre-Forward,20.0,7000000.0,Tsg 1899 Hoffenheim,2526
+Yannick Eduardo,Centre-Forward,20.0,2500000.0,Tsg 1899 Hoffenheim,2526
+Ihlas Bebou,Centre-Forward,32.0,600000.0,Tsg 1899 Hoffenheim,2526
+Alexander Nübel,Goalkeeper,29.0,12000000.0,Vfb Stuttgart,2526
+Florian Hellstern,Goalkeeper,18.0,4000000.0,Vfb Stuttgart,2526
+Fabian Bredlow,Goalkeeper,31.0,700000.0,Vfb Stuttgart,2526
+Stefan Drljaca,Goalkeeper,27.0,300000.0,Vfb Stuttgart,2526
+Finn Jeltsch,Centre-Back,19.0,35000000.0,Vfb Stuttgart,2526
+Ramon Hendriks,Centre-Back,24.0,25000000.0,Vfb Stuttgart,2526
+Jeff Chabot,Centre-Back,28.0,15000000.0,Vfb Stuttgart,2526
+Luca Jaquez,Centre-Back,23.0,10000000.0,Vfb Stuttgart,2526
+Ameen Al-Dakhil,Centre-Back,24.0,3000000.0,Vfb Stuttgart,2526
+Dan-Axel Zagadou,Centre-Back,27.0,2000000.0,Vfb Stuttgart,2526
+Maximilian Mittelstädt,Left-Back,29.0,18000000.0,Vfb Stuttgart,2526
+Josha Vagnoman,Right-Back,25.0,10000000.0,Vfb Stuttgart,2526
+Lorenz Assignon,Right-Back,26.0,9000000.0,Vfb Stuttgart,2526
+Pascal Stenzel,Right-Back,30.0,1200000.0,Vfb Stuttgart,2526
+Angelo Stiller,Defensive Midfield,25.0,45000000.0,Vfb Stuttgart,2526
+Chema Andrés,Defensive Midfield,21.0,20000000.0,Vfb Stuttgart,2526
+Atakan Karazor,Defensive Midfield,29.0,8000000.0,Vfb Stuttgart,2526
+Mirza Catovic,Defensive Midfield,19.0,4000000.0,Vfb Stuttgart,2526
+Nikolas Nartey,Central Midfield,26.0,10000000.0,Vfb Stuttgart,2526
+Bilal El Khannouss,Attacking Midfield,22.0,35000000.0,Vfb Stuttgart,2526
+Chris Führich,Left Winger,28.0,12000000.0,Vfb Stuttgart,2526
+Justin Diehl,Left Winger,21.0,1200000.0,Vfb Stuttgart,2526
+Jamie Leweling,Right Winger,25.0,40000000.0,Vfb Stuttgart,2526
+Tiago Tomás,Right Winger,24.0,15000000.0,Vfb Stuttgart,2526
+Badredine Bouanani,Right Winger,21.0,10000000.0,Vfb Stuttgart,2526
+Noah Darvich,Right Winger,19.0,4000000.0,Vfb Stuttgart,2526
+Lazar Jovanovic,Right Winger,19.0,3500000.0,Vfb Stuttgart,2526
+Ermedin Demirovic,Centre-Forward,28.0,22000000.0,Vfb Stuttgart,2526
+Deniz Undav,Centre-Forward,29.0,22000000.0,Vfb Stuttgart,2526
+Jeremy Arévalo,Centre-Forward,21.0,7000000.0,Vfb Stuttgart,2526
+Kamil Grabara,Goalkeeper,27.0,12000000.0,Vfl Wolfsburg,2526
+Marius Müller,Goalkeeper,32.0,700000.0,Vfl Wolfsburg,2526
+Jakub Zielinski,Goalkeeper,18.0,500000.0,Vfl Wolfsburg,2526
+Pavao Pervan,Goalkeeper,38.0,300000.0,Vfl Wolfsburg,2526
+Konstantinos Koulierakis,Centre-Back,22.0,25000000.0,Vfl Wolfsburg,2526
+Jeanuël Belocian,Centre-Back,21.0,12000000.0,Vfl Wolfsburg,2526
+Jonas Adjetey,Centre-Back,22.0,6000000.0,Vfl Wolfsburg,2526
+Denis Vavro,Centre-Back,30.0,5000000.0,Vfl Wolfsburg,2526
+Jenson Seelt,Centre-Back,23.0,5000000.0,Vfl Wolfsburg,2526
+Moritz Jenz,Centre-Back,27.0,5000000.0,Vfl Wolfsburg,2526
+Cleiton,Centre-Back,23.0,800000.0,Vfl Wolfsburg,2526
+Joakim Maehle,Left-Back,29.0,7000000.0,Vfl Wolfsburg,2526
+Aaron Zehnter,Left-Back,21.0,5000000.0,Vfl Wolfsburg,2526
+Rogério,Left-Back,28.0,1000000.0,Vfl Wolfsburg,2526
+Saël Kumbedi,Right-Back,21.0,12000000.0,Vfl Wolfsburg,2526
+Kilian Fischer,Right-Back,25.0,4000000.0,Vfl Wolfsburg,2526
+Jan Bürger,Right-Back,19.0,3000000.0,Vfl Wolfsburg,2526
+Vini Souza,Defensive Midfield,27.0,7000000.0,Vfl Wolfsburg,2526
+Mattias Svanberg,Central Midfield,27.0,8000000.0,Vfl Wolfsburg,2526
+Maximilian Arnold,Central Midfield,32.0,3000000.0,Vfl Wolfsburg,2526
+Pharell Hensel,Central Midfield,19.0,3000000.0,Vfl Wolfsburg,2526
+Yannick Gerhardt,Central Midfield,32.0,1800000.0,Vfl Wolfsburg,2526
+Kevin Paredes,Left Midfield,23.0,2000000.0,Vfl Wolfsburg,2526
+Lovro Majer,Attacking Midfield,28.0,8000000.0,Vfl Wolfsburg,2526
+Bence Dárdai,Attacking Midfield,20.0,5000000.0,Vfl Wolfsburg,2526
+Christian Eriksen,Attacking Midfield,34.0,2500000.0,Vfl Wolfsburg,2526
+Patrick Wimmer,Right Winger,25.0,12000000.0,Vfl Wolfsburg,2526
+Adam Daghim,Right Winger,20.0,7500000.0,Vfl Wolfsburg,2526
+Jesper Lindstrøm,Right Winger,26.0,4000000.0,Vfl Wolfsburg,2526
+Mohamed Amoura,Centre-Forward,26.0,20000000.0,Vfl Wolfsburg,2526
+Dzenan Pejcinovic,Centre-Forward,21.0,15000000.0,Vfl Wolfsburg,2526
+Kento Shiogai,Centre-Forward,21.0,8000000.0,Vfl Wolfsburg,2526
+Jonas Wind,Centre-Forward,27.0,4000000.0,Vfl Wolfsburg,2526

@@ -1,0 +1,537 @@
+player_name,position,Age,market_value_eur,club,season
+Mike Maignan,Goalkeeper,30.0,20000000.0,Ac Milan,2526
+Pietro Terracciano,Goalkeeper,36.0,900000.0,Ac Milan,2526
+Lorenzo Torriani,Goalkeeper,21.0,800000.0,Ac Milan,2526
+Strahinja Pavlović,Centre-Back,25.0,40000000.0,Ac Milan,2526
+Koni De Winter,Centre-Back,24.0,23000000.0,Ac Milan,2526
+Fikayo Tomori,Centre-Back,28.0,17000000.0,Ac Milan,2526
+Matteo Gabbia,Centre-Back,26.0,17000000.0,Ac Milan,2526
+David Odogu,Centre-Back,20.0,5000000.0,Ac Milan,2526
+Davide Bartesaghi,Left-Back,20.0,22000000.0,Ac Milan,2526
+Pervis Estupiñán,Left-Back,28.0,12000000.0,Ac Milan,2526
+Zachary Athekame,Right-Back,21.0,15000000.0,Ac Milan,2526
+Ardon Jashari,Defensive Midfield,23.0,25000000.0,Ac Milan,2526
+Youssouf Fofana,Defensive Midfield,27.0,23000000.0,Ac Milan,2526
+Samuele Ricci,Defensive Midfield,24.0,22000000.0,Ac Milan,2526
+Adrien Rabiot,Central Midfield,31.0,18000000.0,Ac Milan,2526
+Ruben Loftus-Cheek,Central Midfield,30.0,8500000.0,Ac Milan,2526
+Luka Modrić,Central Midfield,40.0,3500000.0,Ac Milan,2526
+Alexis Saelemaekers,Right Midfield,26.0,20000000.0,Ac Milan,2526
+Rafael Leão,Left Winger,27.0,50000000.0,Ac Milan,2526
+Christian Pulisic,Right Winger,27.0,40000000.0,Ac Milan,2526
+Christopher Nkunku,Centre-Forward,28.0,25000000.0,Ac Milan,2526
+Santiago Gimenez,Centre-Forward,25.0,18000000.0,Ac Milan,2526
+Niclas Füllkrug,Centre-Forward,33.0,3500000.0,Ac Milan,2526
+David de Gea,Goalkeeper,35.0,3500000.0,Acf Fiorentina,2526
+Oliver Christensen,Goalkeeper,27.0,1400000.0,Acf Fiorentina,2526
+Luca Lezzerini,Goalkeeper,31.0,350000.0,Acf Fiorentina,2526
+Pietro Comuzzo,Centre-Back,21.0,18000000.0,Acf Fiorentina,2526
+Marin Pongracic,Centre-Back,28.0,6500000.0,Acf Fiorentina,2526
+Luca Ranieri,Centre-Back,27.0,6000000.0,Acf Fiorentina,2526
+Eddy Kouadio,Centre-Back,20.0,2500000.0,Acf Fiorentina,2526
+Daniele Rugani,Centre-Back,31.0,2000000.0,Acf Fiorentina,2526
+Eman Košpo,Centre-Back,19.0,1500000.0,Acf Fiorentina,2526
+Niccolò Fortini,Left-Back,20.0,10000000.0,Acf Fiorentina,2526
+Fabiano Parisi,Left-Back,25.0,6000000.0,Acf Fiorentina,2526
+Robin Gosens,Left-Back,31.0,4000000.0,Acf Fiorentina,2526
+Luis Balbo,Left-Back,20.0,3000000.0,Acf Fiorentina,2526
+Dodô,Right-Back,27.0,16000000.0,Acf Fiorentina,2526
+Rolando Mandragora,Defensive Midfield,28.0,9000000.0,Acf Fiorentina,2526
+Cher Ndour,Central Midfield,21.0,20000000.0,Acf Fiorentina,2526
+Nicolò Fagioli,Central Midfield,25.0,16000000.0,Acf Fiorentina,2526
+Marco Brescianini,Central Midfield,26.0,9000000.0,Acf Fiorentina,2526
+Jacopo Fazzini,Central Midfield,23.0,8500000.0,Acf Fiorentina,2526
+Giovanni Fabbian,Attacking Midfield,23.0,10000000.0,Acf Fiorentina,2526
+Abdelhamid Sabiri,Attacking Midfield,29.0,850000.0,Acf Fiorentina,2526
+Manor Solomon,Left Winger,26.0,8000000.0,Acf Fiorentina,2526
+Jack Harrison,Left Winger,29.0,6500000.0,Acf Fiorentina,2526
+Albert Gudmundsson,Second Striker,29.0,12000000.0,Acf Fiorentina,2526
+Moise Kean,Centre-Forward,26.0,32000000.0,Acf Fiorentina,2526
+Roberto Piccoli,Centre-Forward,25.0,14000000.0,Acf Fiorentina,2526
+Riccardo Braschi,Centre-Forward,19.0,2000000.0,Acf Fiorentina,2526
+Mile Svilar,Goalkeeper,26.0,35000000.0,As Roma,2526
+Pierluigi Gollini,Goalkeeper,31.0,800000.0,As Roma,2526
+Radoslaw Zelezny,Goalkeeper,19.0,200000.0,As Roma,2526
+Evan Ndicka,Centre-Back,26.0,35000000.0,As Roma,2526
+Daniele Ghilardi,Centre-Back,23.0,18000000.0,As Roma,2526
+Gianluca Mancini,Centre-Back,30.0,15000000.0,As Roma,2526
+Jan Ziolkowski,Centre-Back,21.0,12000000.0,As Roma,2526
+Mario Hermoso,Centre-Back,31.0,7000000.0,As Roma,2526
+Angeliño,Left-Back,29.0,4500000.0,As Roma,2526
+Konstantinos Tsimikas,Left-Back,30.0,4500000.0,As Roma,2526
+Wesley,Right-Back,22.0,40000000.0,As Roma,2526
+Zeki Çelik,Right-Back,29.0,14000000.0,As Roma,2526
+Devyne Rensch,Right-Back,23.0,8500000.0,As Roma,2526
+Bryan Cristante,Defensive Midfield,31.0,7000000.0,As Roma,2526
+Manu Koné,Central Midfield,25.0,50000000.0,As Roma,2526
+Niccolò Pisilli,Central Midfield,21.0,30000000.0,As Roma,2526
+Neil El Aynaoui,Central Midfield,24.0,23000000.0,As Roma,2526
+Lorenzo Pellegrini,Attacking Midfield,30.0,8000000.0,As Roma,2526
+Bryan Zaragoza,Left Winger,24.0,8000000.0,As Roma,2526
+Stephan El Shaarawy,Left Winger,33.0,2400000.0,As Roma,2526
+Matías Soulé,Right Winger,23.0,35000000.0,As Roma,2526
+Lorenzo Venturino,Right Winger,20.0,5000000.0,As Roma,2526
+Paulo Dybala,Second Striker,32.0,5000000.0,As Roma,2526
+Donyell Malen,Centre-Forward,27.0,45000000.0,As Roma,2526
+Evan Ferguson,Centre-Forward,21.0,20000000.0,As Roma,2526
+Robinio Vaz,Centre-Forward,19.0,18000000.0,As Roma,2526
+Artem Dovbyk,Centre-Forward,29.0,15000000.0,As Roma,2526
+Marco Carnesecchi,Goalkeeper,25.0,30000000.0,Atalanta Bc,2526
+Marco Sportiello,Goalkeeper,34.0,800000.0,Atalanta Bc,2526
+Francesco Rossi,Goalkeeper,35.0,100000.0,Atalanta Bc,2526
+Giorgio Scalvini,Centre-Back,22.0,38000000.0,Atalanta Bc,2526
+Honest Ahanor,Centre-Back,18.0,30000000.0,Atalanta Bc,2526
+Isak Hien,Centre-Back,27.0,22000000.0,Atalanta Bc,2526
+Odilon Kossounou,Centre-Back,25.0,15000000.0,Atalanta Bc,2526
+Berat Djimsiti,Centre-Back,33.0,4000000.0,Atalanta Bc,2526
+Sead Kolasinac,Centre-Back,33.0,4000000.0,Atalanta Bc,2526
+Marten de Roon,Defensive Midfield,35.0,3200000.0,Atalanta Bc,2526
+Éderson,Central Midfield,26.0,45000000.0,Atalanta Bc,2526
+Yunus Musah,Central Midfield,23.0,14000000.0,Atalanta Bc,2526
+Mario Pašalić,Central Midfield,31.0,6000000.0,Atalanta Bc,2526
+Raoul Bellanova,Right Midfield,26.0,15000000.0,Atalanta Bc,2526
+Davide Zappacosta,Right Midfield,34.0,3500000.0,Atalanta Bc,2526
+Lorenzo Bernasconi,Left Midfield,22.0,20000000.0,Atalanta Bc,2526
+Nicola Zalewski,Left Midfield,24.0,20000000.0,Atalanta Bc,2526
+Mitchel Bakker,Left Midfield,26.0,2500000.0,Atalanta Bc,2526
+Charles De Ketelaere,Attacking Midfield,25.0,30000000.0,Atalanta Bc,2526
+Lazar Samardžić,Attacking Midfield,24.0,16000000.0,Atalanta Bc,2526
+Kamaldeen Sulemana,Left Winger,24.0,17000000.0,Atalanta Bc,2526
+Giacomo Raspadori,Second Striker,26.0,22000000.0,Atalanta Bc,2526
+Nikola Krstović,Centre-Forward,26.0,30000000.0,Atalanta Bc,2526
+Gianluca Scamacca,Centre-Forward,27.0,25000000.0,Atalanta Bc,2526
+Massimo Pessina,Goalkeeper,18.0,3500000.0,Bologna Fc 1909,2526
+Lukasz Skorupski,Goalkeeper,35.0,2000000.0,Bologna Fc 1909,2526
+Federico Ravaglia,Goalkeeper,26.0,1800000.0,Bologna Fc 1909,2526
+Jhon Lucumí,Centre-Back,28.0,22000000.0,Bologna Fc 1909,2526
+Torbjørn Heggem,Centre-Back,27.0,13000000.0,Bologna Fc 1909,2526
+Martin Vitík,Centre-Back,23.0,13000000.0,Bologna Fc 1909,2526
+Eivind Helland,Centre-Back,21.0,8000000.0,Bologna Fc 1909,2526
+Nicolò Casale,Centre-Back,28.0,3800000.0,Bologna Fc 1909,2526
+Kevin Bonifazi,Centre-Back,30.0,300000.0,Bologna Fc 1909,2526
+Juan Miranda,Left-Back,26.0,15000000.0,Bologna Fc 1909,2526
+Charalampos Lykogiannis,Left-Back,32.0,1200000.0,Bologna Fc 1909,2526
+João Mário,Right-Back,26.0,8000000.0,Bologna Fc 1909,2526
+Nadir Zortea,Right-Back,27.0,7000000.0,Bologna Fc 1909,2526
+Lorenzo De Silvestri,Right-Back,38.0,600000.0,Bologna Fc 1909,2526
+Nikola Moro,Defensive Midfield,28.0,7000000.0,Bologna Fc 1909,2526
+Lewis Ferguson,Central Midfield,26.0,14000000.0,Bologna Fc 1909,2526
+Tommaso Pobega,Central Midfield,26.0,8000000.0,Bologna Fc 1909,2526
+Simon Sohm,Central Midfield,25.0,8000000.0,Bologna Fc 1909,2526
+Remo Freuler,Central Midfield,34.0,3000000.0,Bologna Fc 1909,2526
+Jens Odgaard,Attacking Midfield,27.0,12000000.0,Bologna Fc 1909,2526
+Jonathan Rowe,Left Winger,23.0,28000000.0,Bologna Fc 1909,2526
+Nicolò Cambiaghi,Left Winger,25.0,14000000.0,Bologna Fc 1909,2526
+Benja Domínguez,Left Winger,22.0,9000000.0,Bologna Fc 1909,2526
+Riccardo Orsolini,Right Winger,29.0,15000000.0,Bologna Fc 1909,2526
+Federico Bernardeschi,Right Winger,32.0,3500000.0,Bologna Fc 1909,2526
+Santiago Castro,Centre-Forward,21.0,32000000.0,Bologna Fc 1909,2526
+Thijs Dallinga,Centre-Forward,25.0,9000000.0,Bologna Fc 1909,2526
+Elia Caprile,Goalkeeper,24.0,15000000.0,Cagliari Calcio,2526
+Alen Sherri,Goalkeeper,28.0,800000.0,Cagliari Calcio,2526
+Giuseppe Ciocci,Goalkeeper,24.0,100000.0,Cagliari Calcio,2526
+Juan Rodríguez,Centre-Back,21.0,10000000.0,Cagliari Calcio,2526
+Alberto Dossena,Centre-Back,27.0,6000000.0,Cagliari Calcio,2526
+Zé Pedro,Centre-Back,29.0,3000000.0,Cagliari Calcio,2526
+Yerry Mina,Centre-Back,31.0,2500000.0,Cagliari Calcio,2526
+Mateusz Wieteska,Centre-Back,29.0,1000000.0,Cagliari Calcio,2526
+Adam Obert,Left-Back,23.0,7000000.0,Cagliari Calcio,2526
+Riyad Idrissi,Left-Back,21.0,4000000.0,Cagliari Calcio,2526
+Marco Palestra,Right-Back,21.0,35000000.0,Cagliari Calcio,2526
+Gabriele Zappa,Right-Back,26.0,3000000.0,Cagliari Calcio,2526
+Othniël Raterink,Right-Back,20.0,1000000.0,Cagliari Calcio,2526
+Gianluca Gaetano,Defensive Midfield,26.0,6500000.0,Cagliari Calcio,2526
+Ibrahim Sulemana,Defensive Midfield,23.0,6000000.0,Cagliari Calcio,2526
+Michel Adopo,Central Midfield,25.0,7000000.0,Cagliari Calcio,2526
+Michael Folorunsho,Central Midfield,28.0,5000000.0,Cagliari Calcio,2526
+Joseph Liteta,Central Midfield,20.0,3500000.0,Cagliari Calcio,2526
+Alessandro Deiola,Central Midfield,30.0,1500000.0,Cagliari Calcio,2526
+Luca Mazzitelli,Central Midfield,30.0,1200000.0,Cagliari Calcio,2526
+Mattia Felici,Left Winger,25.0,2500000.0,Cagliari Calcio,2526
+Agustín Albarracín,Left Winger,20.0,2300000.0,Cagliari Calcio,2526
+Sebastiano Esposito,Second Striker,23.0,15000000.0,Cagliari Calcio,2526
+Semih Kılıçsoy,Centre-Forward,20.0,11000000.0,Cagliari Calcio,2526
+Paul Mendy,Centre-Forward,19.0,7000000.0,Cagliari Calcio,2526
+Gennaro Borrelli,Centre-Forward,26.0,3000000.0,Cagliari Calcio,2526
+Yael Trepy,Centre-Forward,20.0,2000000.0,Cagliari Calcio,2526
+Andrea Belotti,Centre-Forward,32.0,1500000.0,Cagliari Calcio,2526
+Leonardo Pavoletti,Centre-Forward,37.0,600000.0,Cagliari Calcio,2526
+Jean Butez,Goalkeeper,31.0,8000000.0,Como 1907,2526
+Noel Törnqvist,Goalkeeper,24.0,2000000.0,Como 1907,2526
+Henrique Menke,Goalkeeper,19.0,1500000.0,Como 1907,2526
+Nikola Cavlina,Goalkeeper,24.0,750000.0,Como 1907,2526
+Mauro Vigorito,Goalkeeper,36.0,150000.0,Como 1907,2526
+Jacobo Ramón,Centre-Back,21.0,30000000.0,Como 1907,2526
+Diego Carlos,Centre-Back,33.0,5000000.0,Como 1907,2526
+Marc Oliver Kempf,Centre-Back,31.0,3500000.0,Como 1907,2526
+Edoardo Goldaniga,Centre-Back,32.0,2000000.0,Como 1907,2526
+Álex Valle,Left-Back,22.0,12000000.0,Como 1907,2526
+Alberto Moreno,Left-Back,33.0,1000000.0,Como 1907,2526
+Ivan Smolcic,Right-Back,25.0,3500000.0,Como 1907,2526
+Ignace Van der Brempt,Right-Back,24.0,3000000.0,Como 1907,2526
+Mërgim Vojvoda,Right-Back,31.0,2500000.0,Como 1907,2526
+Máximo Perrone,Defensive Midfield,23.0,35000000.0,Como 1907,2526
+Lucas Da Cunha,Central Midfield,25.0,20000000.0,Como 1907,2526
+Maxence Caqueret,Central Midfield,26.0,13000000.0,Como 1907,2526
+Adrian Lahdo,Central Midfield,18.0,10000000.0,Como 1907,2526
+Sergi Roberto,Central Midfield,34.0,1400000.0,Como 1907,2526
+Nico Paz,Attacking Midfield,21.0,80000000.0,Como 1907,2526
+Martin Baturina,Attacking Midfield,23.0,30000000.0,Como 1907,2526
+Jesús Rodríguez,Left Winger,20.0,30000000.0,Como 1907,2526
+Assane Diao,Left Winger,20.0,30000000.0,Como 1907,2526
+Jayden Addai,Right Winger,20.0,20000000.0,Como 1907,2526
+Nicolas Kühn,Right Winger,26.0,10000000.0,Como 1907,2526
+Anastasios Douvikas,Centre-Forward,26.0,25000000.0,Como 1907,2526
+Álvaro Morata,Centre-Forward,33.0,6000000.0,Como 1907,2526
+Justin Bijlow,Goalkeeper,28.0,4000000.0,Genoa Cfc,2526
+Nicola Leali,Goalkeeper,33.0,1000000.0,Genoa Cfc,2526
+Ernestas Lysionok,Goalkeeper,19.0,600000.0,Genoa Cfc,2526
+Benjamin Siegrist,Goalkeeper,34.0,400000.0,Genoa Cfc,2526
+Daniele Sommariva,Goalkeeper,28.0,100000.0,Genoa Cfc,2526
+Alessandro Marcandalli,Centre-Back,23.0,14000000.0,Genoa Cfc,2526
+Leo Østigård,Centre-Back,26.0,13000000.0,Genoa Cfc,2526
+Johan Vásquez,Centre-Back,27.0,12000000.0,Genoa Cfc,2526
+Nils Zätterström,Centre-Back,21.0,3500000.0,Genoa Cfc,2526
+Sebastian Otoa,Centre-Back,22.0,2500000.0,Genoa Cfc,2526
+Aarón Martín,Left-Back,29.0,5000000.0,Genoa Cfc,2526
+Brooke Norton-Cuffy,Right-Back,22.0,15000000.0,Genoa Cfc,2526
+Stefano Sabelli,Right-Back,33.0,1300000.0,Genoa Cfc,2526
+Morten Frendrup,Defensive Midfield,25.0,15000000.0,Genoa Cfc,2526
+Jean Onana,Defensive Midfield,26.0,1000000.0,Genoa Cfc,2526
+Amorim,Central Midfield,21.0,8000000.0,Genoa Cfc,2526
+Mikael Egill Ellertsson,Central Midfield,24.0,6000000.0,Genoa Cfc,2526
+Patrizio Masini,Central Midfield,25.0,4200000.0,Genoa Cfc,2526
+Ruslan Malinovskyi,Central Midfield,33.0,2500000.0,Genoa Cfc,2526
+Tommaso Baldanzi,Attacking Midfield,23.0,8500000.0,Genoa Cfc,2526
+Maxwel Cornet,Left Winger,29.0,2000000.0,Genoa Cfc,2526
+Junior Messias,Right Winger,35.0,1100000.0,Genoa Cfc,2526
+Jeff Ekhator,Centre-Forward,19.0,18000000.0,Genoa Cfc,2526
+Lorenzo Colombo,Centre-Forward,24.0,10000000.0,Genoa Cfc,2526
+Vitinha,Centre-Forward,26.0,8000000.0,Genoa Cfc,2526
+Caleb Ekuban,Centre-Forward,32.0,1200000.0,Genoa Cfc,2526
+Lorenzo Montipò,Goalkeeper,30.0,1200000.0,Hellas Verona,2526
+Simone Perilli,Goalkeeper,31.0,400000.0,Hellas Verona,2526
+Giacomo Toniolo,Goalkeeper,22.0,75000.0,Hellas Verona,2526
+Arthur Borghi,Goalkeeper,18.0,,Hellas Verona,2526
+Armel Bella-Kotchap,Centre-Back,24.0,7000000.0,Hellas Verona,2526
+Victor Nelsson,Centre-Back,27.0,6000000.0,Hellas Verona,2526
+Andrias Edmundsson,Centre-Back,25.0,3000000.0,Hellas Verona,2526
+Nicolás Valentini,Centre-Back,25.0,3000000.0,Hellas Verona,2526
+Tobias Slotsager,Centre-Back,20.0,3000000.0,Hellas Verona,2526
+Martin Frese,Left-Back,28.0,2500000.0,Hellas Verona,2526
+Domagoj Bradarić,Left-Back,26.0,1500000.0,Hellas Verona,2526
+Rafik Belghali,Right-Back,24.0,7000000.0,Hellas Verona,2526
+Pol Lirola,Right-Back,28.0,1500000.0,Hellas Verona,2526
+Daniel Oyegoke,Right-Back,23.0,1000000.0,Hellas Verona,2526
+Fallou Cham,Right-Back,20.0,1000000.0,Hellas Verona,2526
+Moatasem Al-Musrati,Defensive Midfield,30.0,4500000.0,Hellas Verona,2526
+Cheikh Niasse,Defensive Midfield,26.0,2000000.0,Hellas Verona,2526
+Sandi Lovrić,Central Midfield,28.0,3500000.0,Hellas Verona,2526
+Antoine Bernede,Central Midfield,27.0,3500000.0,Hellas Verona,2526
+Suat Serdar,Central Midfield,29.0,2800000.0,Hellas Verona,2526
+Abdou Harroui,Central Midfield,28.0,1600000.0,Hellas Verona,2526
+Roberto Gagliardini,Central Midfield,32.0,1300000.0,Hellas Verona,2526
+Jean-Daniel Akpa Akpro,Central Midfield,33.0,500000.0,Hellas Verona,2526
+Tomas Suslov,Attacking Midfield,24.0,4000000.0,Hellas Verona,2526
+Gift Orban,Centre-Forward,23.0,7000000.0,Hellas Verona,2526
+Kieron Bowie,Centre-Forward,23.0,7000000.0,Hellas Verona,2526
+Amin Sarr,Centre-Forward,25.0,2400000.0,Hellas Verona,2526
+Daniel Mosquera,Centre-Forward,26.0,1800000.0,Hellas Verona,2526
+Isaac,Centre-Forward,22.0,700000.0,Hellas Verona,2526
+Junior Ajayi,Centre-Forward,21.0,300000.0,Hellas Verona,2526
+Josep Martínez,Goalkeeper,28.0,10000000.0,Inter Milan,2526
+Yann Sommer,Goalkeeper,37.0,2000000.0,Inter Milan,2526
+Raffaele Di Gennaro,Goalkeeper,32.0,300000.0,Inter Milan,2526
+Alessandro Bastoni,Centre-Back,27.0,65000000.0,Inter Milan,2526
+Yann Bisseck,Centre-Back,25.0,50000000.0,Inter Milan,2526
+Manuel Akanji,Centre-Back,30.0,17000000.0,Inter Milan,2526
+Stefan de Vrij,Centre-Back,34.0,3000000.0,Inter Milan,2526
+Francesco Acerbi,Centre-Back,38.0,2000000.0,Inter Milan,2526
+Federico Dimarco,Left-Back,28.0,50000000.0,Inter Milan,2526
+Carlos Augusto,Left-Back,27.0,23000000.0,Inter Milan,2526
+Denzel Dumfries,Right-Back,30.0,25000000.0,Inter Milan,2526
+Matteo Darmian,Right-Back,36.0,1400000.0,Inter Milan,2526
+Hakan Çalhanoğlu,Defensive Midfield,32.0,16000000.0,Inter Milan,2526
+Nicolò Barella,Central Midfield,29.0,50000000.0,Inter Milan,2526
+Petar Sučić,Central Midfield,22.0,40000000.0,Inter Milan,2526
+Davide Frattesi,Central Midfield,26.0,22000000.0,Inter Milan,2526
+Andy Diouf,Central Midfield,23.0,20000000.0,Inter Milan,2526
+Piotr Zielinski,Central Midfield,32.0,10000000.0,Inter Milan,2526
+Henrikh Mkhitaryan,Central Midfield,37.0,3000000.0,Inter Milan,2526
+Luis Henrique,Right Midfield,24.0,22000000.0,Inter Milan,2526
+Lautaro Martínez,Centre-Forward,28.0,85000000.0,Inter Milan,2526
+Marcus Thuram,Centre-Forward,28.0,50000000.0,Inter Milan,2526
+Pio Esposito,Centre-Forward,20.0,45000000.0,Inter Milan,2526
+Ange-Yoan Bonny,Centre-Forward,22.0,35000000.0,Inter Milan,2526
+Michele Di Gregorio,Goalkeeper,28.0,10000000.0,Juventus Fc,2526
+Mattia Perin,Goalkeeper,33.0,2000000.0,Juventus Fc,2526
+Carlo Pinsoglio,Goalkeeper,36.0,200000.0,Juventus Fc,2526
+Bremer,Centre-Back,29.0,35000000.0,Juventus Fc,2526
+Pierre Kalulu,Centre-Back,26.0,32000000.0,Juventus Fc,2526
+Lloyd Kelly,Centre-Back,27.0,23000000.0,Juventus Fc,2526
+Federico Gatti,Centre-Back,28.0,14000000.0,Juventus Fc,2526
+Andrea Cambiaso,Left-Back,26.0,20000000.0,Juventus Fc,2526
+Juan Cabal,Left-Back,25.0,7000000.0,Juventus Fc,2526
+Emil Holm,Right-Back,26.0,10000000.0,Juventus Fc,2526
+Manuel Locatelli,Defensive Midfield,28.0,25000000.0,Juventus Fc,2526
+Teun Koopmeiners,Defensive Midfield,28.0,14000000.0,Juventus Fc,2526
+Khéphren Thuram,Central Midfield,25.0,38000000.0,Juventus Fc,2526
+Weston McKennie,Central Midfield,27.0,30000000.0,Juventus Fc,2526
+Fabio Miretti,Central Midfield,22.0,15000000.0,Juventus Fc,2526
+Filip Kostić,Left Midfield,33.0,2000000.0,Juventus Fc,2526
+Vasilije Adžić,Attacking Midfield,20.0,8000000.0,Juventus Fc,2526
+Kenan Yıldız,Left Winger,21.0,75000000.0,Juventus Fc,2526
+Jérémie Boga,Left Winger,29.0,8000000.0,Juventus Fc,2526
+Francisco Conceição,Right Winger,23.0,30000000.0,Juventus Fc,2526
+Edon Zhegrova,Right Winger,27.0,10000000.0,Juventus Fc,2526
+Dušan Vlahović,Centre-Forward,26.0,35000000.0,Juventus Fc,2526
+Jonathan David,Centre-Forward,26.0,30000000.0,Juventus Fc,2526
+Loïs Openda,Centre-Forward,26.0,25000000.0,Juventus Fc,2526
+Arkadiusz Milik,Centre-Forward,32.0,1500000.0,Juventus Fc,2526
+Zion Suzuki,Goalkeeper,23.0,20000000.0,Parma Calcio 1913,2526
+Edoardo Corvi,Goalkeeper,25.0,1500000.0,Parma Calcio 1913,2526
+Filippo Rinaldi,Goalkeeper,23.0,600000.0,Parma Calcio 1913,2526
+Alessandro Circati,Centre-Back,22.0,12000000.0,Parma Calcio 1913,2526
+Mariano Troilo,Centre-Back,22.0,10000000.0,Parma Calcio 1913,2526
+Abdoulaye Ndiaye,Centre-Back,24.0,6000000.0,Parma Calcio 1913,2526
+Lautaro Valenti,Centre-Back,27.0,2000000.0,Parma Calcio 1913,2526
+Emanuele Valeri,Left-Back,27.0,3000000.0,Parma Calcio 1913,2526
+Franco Carboni,Left-Back,23.0,900000.0,Parma Calcio 1913,2526
+Sascha Britschgi,Right-Back,19.0,10000000.0,Parma Calcio 1913,2526
+Enrico Delprato,Right-Back,26.0,6000000.0,Parma Calcio 1913,2526
+Mandela Keita,Defensive Midfield,24.0,20000000.0,Parma Calcio 1913,2526
+Hans Nicolussi Caviglia,Defensive Midfield,26.0,6000000.0,Parma Calcio 1913,2526
+Nahuel Estévez,Defensive Midfield,30.0,1400000.0,Parma Calcio 1913,2526
+Adrián Bernabé,Central Midfield,25.0,15000000.0,Parma Calcio 1913,2526
+Oliver Sørensen,Central Midfield,24.0,6500000.0,Parma Calcio 1913,2526
+Christian Ordóñez,Central Midfield,21.0,6500000.0,Parma Calcio 1913,2526
+Benja Cremaschi,Central Midfield,21.0,4000000.0,Parma Calcio 1913,2526
+Gaetano Oristanio,Attacking Midfield,23.0,5000000.0,Parma Calcio 1913,2526
+Jacob Ondrejka,Left Winger,23.0,5500000.0,Parma Calcio 1913,2526
+Gabriel Strefezza,Right Winger,29.0,6500000.0,Parma Calcio 1913,2526
+Pontus Almqvist,Right Winger,26.0,1800000.0,Parma Calcio 1913,2526
+Mateo Pellegrino,Centre-Forward,24.0,15000000.0,Parma Calcio 1913,2526
+Matija Frigan,Centre-Forward,23.0,7000000.0,Parma Calcio 1913,2526
+Nesta Elphege,Centre-Forward,25.0,4000000.0,Parma Calcio 1913,2526
+Adrian Semper,Goalkeeper,28.0,1800000.0,Pisa Sporting Club,2526
+Simone Scuffet,Goalkeeper,30.0,900000.0,Pisa Sporting Club,2526
+Nícolas,Goalkeeper,38.0,100000.0,Pisa Sporting Club,2526
+Simone Canestrelli,Centre-Back,25.0,4500000.0,Pisa Sporting Club,2526
+Rosen Bozhinov,Centre-Back,21.0,4000000.0,Pisa Sporting Club,2526
+Francesco Coppola,Centre-Back,21.0,3500000.0,Pisa Sporting Club,2526
+Antonio Caracciolo,Centre-Back,35.0,800000.0,Pisa Sporting Club,2526
+Arturo Calabresi,Centre-Back,30.0,800000.0,Pisa Sporting Club,2526
+Raúl Albiol,Centre-Back,40.0,700000.0,Pisa Sporting Club,2526
+Daniel Denoon,Centre-Back,22.0,500000.0,Pisa Sporting Club,2526
+Marius Marin,Defensive Midfield,27.0,2800000.0,Pisa Sporting Club,2526
+Malthe Højholt,Defensive Midfield,25.0,1200000.0,Pisa Sporting Club,2526
+Ebenezer Akinsanmiro,Central Midfield,21.0,7000000.0,Pisa Sporting Club,2526
+Felipe Loyola,Central Midfield,25.0,7000000.0,Pisa Sporting Club,2526
+İsak Vural,Central Midfield,20.0,5000000.0,Pisa Sporting Club,2526
+Michel Aebischer,Central Midfield,29.0,4000000.0,Pisa Sporting Club,2526
+Gabriele Piccinini,Central Midfield,25.0,3000000.0,Pisa Sporting Club,2526
+Idrissa Touré,Right Midfield,28.0,5000000.0,Pisa Sporting Club,2526
+Juan Cuadrado,Right Midfield,38.0,800000.0,Pisa Sporting Club,2526
+Samuel Iling-Junior,Left Midfield,22.0,6500000.0,Pisa Sporting Club,2526
+Samuele Angori,Left Midfield,22.0,4500000.0,Pisa Sporting Club,2526
+Matteo Tramoni,Attacking Midfield,26.0,4500000.0,Pisa Sporting Club,2526
+Calvin Stengs,Attacking Midfield,27.0,4500000.0,Pisa Sporting Club,2526
+Lorran,Attacking Midfield,19.0,4500000.0,Pisa Sporting Club,2526
+Mehdi Léris,Right Winger,28.0,1800000.0,Pisa Sporting Club,2526
+Rafiu Durosinmi,Centre-Forward,23.0,7000000.0,Pisa Sporting Club,2526
+Henrik Meister,Centre-Forward,22.0,3800000.0,Pisa Sporting Club,2526
+Filip Stojilkovic,Centre-Forward,26.0,2500000.0,Pisa Sporting Club,2526
+Stefano Moreo,Centre-Forward,32.0,1200000.0,Pisa Sporting Club,2526
+Edoardo Motta,Goalkeeper,21.0,8000000.0,Ss Lazio,2526
+Ivan Provedel,Goalkeeper,32.0,3000000.0,Ss Lazio,2526
+Alessio Furlanetto,Goalkeeper,24.0,350000.0,Ss Lazio,2526
+Mario Gila,Centre-Back,25.0,30000000.0,Ss Lazio,2526
+Oliver Provstgaard,Centre-Back,23.0,16000000.0,Ss Lazio,2526
+Alessio Romagnoli,Centre-Back,31.0,6000000.0,Ss Lazio,2526
+Patric,Centre-Back,33.0,1500000.0,Ss Lazio,2526
+Samuel Gigot,Centre-Back,32.0,1200000.0,Ss Lazio,2526
+Nuno Tavares,Left-Back,26.0,12000000.0,Ss Lazio,2526
+Luca Pellegrini,Left-Back,27.0,4500000.0,Ss Lazio,2526
+Adam Marusic,Right-Back,33.0,2500000.0,Ss Lazio,2526
+Manuel Lazzari,Right-Back,32.0,2000000.0,Ss Lazio,2526
+Elseid Hysaj,Right-Back,32.0,1200000.0,Ss Lazio,2526
+Nicolò Rovella,Defensive Midfield,24.0,23000000.0,Ss Lazio,2526
+Reda Belahyane,Defensive Midfield,22.0,6800000.0,Ss Lazio,2526
+Danilo Cataldi,Defensive Midfield,31.0,3500000.0,Ss Lazio,2526
+Kenneth Taylor,Central Midfield,24.0,25000000.0,Ss Lazio,2526
+Fisayo Dele-Bashiru,Central Midfield,25.0,6000000.0,Ss Lazio,2526
+Toma Bašić,Central Midfield,29.0,3000000.0,Ss Lazio,2526
+Daniel Maldini,Attacking Midfield,24.0,9000000.0,Ss Lazio,2526
+Adrian Przyborek,Attacking Midfield,19.0,6000000.0,Ss Lazio,2526
+Mattia Zaccagni,Left Winger,31.0,7500000.0,Ss Lazio,2526
+Gustav Isaksen,Right Winger,25.0,15000000.0,Ss Lazio,2526
+Tijjani Noslin,Right Winger,26.0,8000000.0,Ss Lazio,2526
+Matteo Cancellieri,Right Winger,24.0,7000000.0,Ss Lazio,2526
+Pedro,Right Winger,38.0,1000000.0,Ss Lazio,2526
+Petar Ratkov,Centre-Forward,22.0,9000000.0,Ss Lazio,2526
+Boulaye Dia,Centre-Forward,29.0,5000000.0,Ss Lazio,2526
+Vanja Milinković-Savić,Goalkeeper,29.0,20000000.0,Ssc Napoli,2526
+Alex Meret,Goalkeeper,29.0,8000000.0,Ssc Napoli,2526
+Nikita Contini,Goalkeeper,30.0,400000.0,Ssc Napoli,2526
+Mathias Ferrante,Goalkeeper,19.0,200000.0,Ssc Napoli,2526
+Alessandro Buongiorno,Centre-Back,27.0,30000000.0,Ssc Napoli,2526
+Sam Beukema,Centre-Back,27.0,22000000.0,Ssc Napoli,2526
+Amir Rrahmani,Centre-Back,32.0,10000000.0,Ssc Napoli,2526
+Juan Jesus,Centre-Back,35.0,1500000.0,Ssc Napoli,2526
+Miguel Gutiérrez,Left-Back,24.0,22000000.0,Ssc Napoli,2526
+Mathías Olivera,Left-Back,28.0,15000000.0,Ssc Napoli,2526
+Leonardo Spinazzola,Left-Back,33.0,3500000.0,Ssc Napoli,2526
+Giovanni Di Lorenzo,Right-Back,32.0,7500000.0,Ssc Napoli,2526
+Pasquale Mazzocchi,Right-Back,30.0,1500000.0,Ssc Napoli,2526
+Billy Gilmour,Defensive Midfield,25.0,20000000.0,Ssc Napoli,2526
+Stanislav Lobotka,Defensive Midfield,31.0,10000000.0,Ssc Napoli,2526
+Scott McTominay,Central Midfield,29.0,40000000.0,Ssc Napoli,2526
+Frank Anguissa,Central Midfield,30.0,15000000.0,Ssc Napoli,2526
+Antonio Vergara,Attacking Midfield,23.0,15000000.0,Ssc Napoli,2526
+Eljif Elmas,Attacking Midfield,26.0,13000000.0,Ssc Napoli,2526
+Kevin De Bruyne,Attacking Midfield,34.0,8000000.0,Ssc Napoli,2526
+Alisson Santos,Left Winger,23.0,28000000.0,Ssc Napoli,2526
+David Neres,Right Winger,29.0,23000000.0,Ssc Napoli,2526
+Matteo Politano,Right Winger,32.0,5000000.0,Ssc Napoli,2526
+Rasmus Højlund,Centre-Forward,23.0,60000000.0,Ssc Napoli,2526
+Giovane,Centre-Forward,22.0,12000000.0,Ssc Napoli,2526
+Romelu Lukaku,Centre-Forward,33.0,6000000.0,Ssc Napoli,2526
+Franco Israel,Goalkeeper,26.0,2500000.0,Torino Fc,2526
+Alberto Paleari,Goalkeeper,33.0,1200000.0,Torino Fc,2526
+Lapo Siviero,Goalkeeper,19.0,500000.0,Torino Fc,2526
+Saúl Coco,Centre-Back,27.0,7500000.0,Torino Fc,2526
+Luca Marianucci,Centre-Back,21.0,7000000.0,Torino Fc,2526
+Ardian Ismajli,Centre-Back,29.0,5000000.0,Torino Fc,2526
+Enzo Ebosse,Centre-Back,27.0,2800000.0,Torino Fc,2526
+Guillermo Maripán,Centre-Back,32.0,2000000.0,Torino Fc,2526
+Saba Sazonov,Centre-Back,24.0,800000.0,Torino Fc,2526
+Rafa Obrador,Left-Back,22.0,5000000.0,Torino Fc,2526
+Niels Nkounkou,Left-Back,25.0,2600000.0,Torino Fc,2526
+Cristiano Biraghi,Left-Back,33.0,900000.0,Torino Fc,2526
+Marcus Pedersen,Right-Back,25.0,3500000.0,Torino Fc,2526
+Matteo Prati,Defensive Midfield,22.0,5500000.0,Torino Fc,2526
+Adrien Tamèze,Defensive Midfield,32.0,1200000.0,Torino Fc,2526
+Cesare Casadei,Central Midfield,23.0,15000000.0,Torino Fc,2526
+Ivan Ilić,Central Midfield,25.0,7000000.0,Torino Fc,2526
+Emirhan İlkhan,Central Midfield,22.0,6000000.0,Torino Fc,2526
+Gvidas Gineitis,Central Midfield,22.0,5500000.0,Torino Fc,2526
+Valentino Lazaro,Right Midfield,30.0,2500000.0,Torino Fc,2526
+Nikola Vlašić,Attacking Midfield,28.0,10000000.0,Torino Fc,2526
+Tino Anjorin,Attacking Midfield,24.0,4000000.0,Torino Fc,2526
+Sergiu Perciun,Attacking Midfield,20.0,1500000.0,Torino Fc,2526
+Alieu Njie,Left Winger,21.0,3000000.0,Torino Fc,2526
+Zakaria Aboukhlal,Right Winger,26.0,6000000.0,Torino Fc,2526
+Zanos Savva,Right Winger,20.0,200000.0,Torino Fc,2526
+Giovanni Simeone,Centre-Forward,30.0,7000000.0,Torino Fc,2526
+Ché Adams,Centre-Forward,29.0,5000000.0,Torino Fc,2526
+Sandro Kulenović,Centre-Forward,26.0,3500000.0,Torino Fc,2526
+Duván Zapata,Centre-Forward,35.0,2500000.0,Torino Fc,2526
+Maduka Okoye,Goalkeeper,26.0,10000000.0,Udinese Calcio,2526
+Răzvan Sava,Goalkeeper,24.0,2500000.0,Udinese Calcio,2526
+Alessandro Nunziante,Goalkeeper,19.0,1800000.0,Udinese Calcio,2526
+Daniele Padelli,Goalkeeper,40.0,150000.0,Udinese Calcio,2526
+Oumar Solet,Centre-Back,26.0,23000000.0,Udinese Calcio,2526
+Thomas Kristensen,Centre-Back,24.0,12000000.0,Udinese Calcio,2526
+Nicolò Bertola,Centre-Back,23.0,7000000.0,Udinese Calcio,2526
+Branimir Mlacic,Centre-Back,19.0,5000000.0,Udinese Calcio,2526
+Christian Kabasele,Centre-Back,35.0,750000.0,Udinese Calcio,2526
+Jordan Zemura,Left-Back,26.0,5000000.0,Udinese Calcio,2526
+Hassane Kamara,Left-Back,32.0,3000000.0,Udinese Calcio,2526
+Alessandro Zanoli,Right-Back,25.0,4500000.0,Udinese Calcio,2526
+Kingsley Ehizibue,Right-Back,31.0,2000000.0,Udinese Calcio,2526
+Jesper Karlström,Defensive Midfield,31.0,4000000.0,Udinese Calcio,2526
+Abdoulaye Camara,Defensive Midfield,17.0,1500000.0,Udinese Calcio,2526
+Arthur Atta,Central Midfield,23.0,25000000.0,Udinese Calcio,2526
+Jurgen Ekkelenkamp,Central Midfield,26.0,10000000.0,Udinese Calcio,2526
+Lennon Miller,Central Midfield,19.0,10000000.0,Udinese Calcio,2526
+Jakub Piotrowski,Central Midfield,28.0,4500000.0,Udinese Calcio,2526
+Oier Zarraga,Central Midfield,27.0,1500000.0,Udinese Calcio,2526
+Juan Arizala,Left Midfield,20.0,3500000.0,Udinese Calcio,2526
+Nicolò Zaniolo,Second Striker,26.0,15000000.0,Udinese Calcio,2526
+Keinan Davis,Centre-Forward,28.0,10000000.0,Udinese Calcio,2526
+Idrissa Gueye,Centre-Forward,19.0,8000000.0,Udinese Calcio,2526
+Adam Buksa,Centre-Forward,29.0,3500000.0,Udinese Calcio,2526
+Vakoun Bayo,Centre-Forward,29.0,2500000.0,Udinese Calcio,2526
+Emil Audero,Goalkeeper,29.0,2800000.0,Us Cremonese,2526
+Marco Silvestri,Goalkeeper,35.0,500000.0,Us Cremonese,2526
+Lapo Nava,Goalkeeper,22.0,100000.0,Us Cremonese,2526
+Filippo Terracciano,Centre-Back,23.0,4500000.0,Us Cremonese,2526
+Mikayil Faye,Centre-Back,21.0,4500000.0,Us Cremonese,2526
+Sebastiano Luperto,Centre-Back,29.0,4000000.0,Us Cremonese,2526
+Federico Baschirotto,Centre-Back,29.0,3500000.0,Us Cremonese,2526
+Matteo Bianchetti,Centre-Back,33.0,800000.0,Us Cremonese,2526
+Francesco Folino,Centre-Back,24.0,800000.0,Us Cremonese,2526
+Federico Ceccherini,Centre-Back,34.0,400000.0,Us Cremonese,2526
+Giuseppe Pezzella,Left-Back,28.0,2000000.0,Us Cremonese,2526
+Tommaso Barbieri,Right-Back,23.0,3800000.0,Us Cremonese,2526
+Romano Floriani Mussolini,Right-Back,23.0,2500000.0,Us Cremonese,2526
+Alberto Grassi,Defensive Midfield,31.0,1400000.0,Us Cremonese,2526
+Warren Bondo,Central Midfield,22.0,6000000.0,Us Cremonese,2526
+Martín Payero,Central Midfield,27.0,5000000.0,Us Cremonese,2526
+Jari Vandeputte,Central Midfield,30.0,3000000.0,Us Cremonese,2526
+Morten Thorsby,Central Midfield,30.0,2800000.0,Us Cremonese,2526
+Michele Collocolo,Central Midfield,26.0,2400000.0,Us Cremonese,2526
+Youssef Maleh,Central Midfield,27.0,1500000.0,Us Cremonese,2526
+Alessio Zerbin,Right Midfield,27.0,2000000.0,Us Cremonese,2526
+Faris Moumbagna,Centre-Forward,25.0,3500000.0,Us Cremonese,2526
+Federico Bonazzoli,Centre-Forward,29.0,2500000.0,Us Cremonese,2526
+Antonio Sanabria,Centre-Forward,30.0,1800000.0,Us Cremonese,2526
+David Okereke,Centre-Forward,28.0,1400000.0,Us Cremonese,2526
+Milan Djuric,Centre-Forward,36.0,1000000.0,Us Cremonese,2526
+Jamie Vardy,Centre-Forward,39.0,1000000.0,Us Cremonese,2526
+Wladimiro Falcone,Goalkeeper,31.0,3500000.0,Us Lecce,2526
+Christian Früchtl,Goalkeeper,26.0,1000000.0,Us Lecce,2526
+Jasper Samooja,Goalkeeper,22.0,75000.0,Us Lecce,2526
+Tiago Gabriel,Centre-Back,21.0,15000000.0,Us Lecce,2526
+Jamil Siebert,Centre-Back,24.0,4500000.0,Us Lecce,2526
+Gaspar,Centre-Back,28.0,3000000.0,Us Lecce,2526
+Gaby Jean,Centre-Back,26.0,1500000.0,Us Lecce,2526
+Matías Pérez,Centre-Back,21.0,500000.0,Us Lecce,2526
+Antonino Gallo,Left-Back,26.0,3500000.0,Us Lecce,2526
+Corrie Ndaba,Left-Back,26.0,900000.0,Us Lecce,2526
+Danilo Veiga,Right-Back,23.0,2500000.0,Us Lecce,2526
+Oumar Ngom,Defensive Midfield,22.0,3000000.0,Us Lecce,2526
+Ylber Ramadani,Defensive Midfield,30.0,1800000.0,Us Lecce,2526
+Sadik Fofana,Defensive Midfield,23.0,800000.0,Us Lecce,2526
+Medon Berisha,Central Midfield,22.0,5000000.0,Us Lecce,2526
+Lassana Coulibaly,Central Midfield,30.0,2200000.0,Us Lecce,2526
+Thórir Jóhann Helgason,Central Midfield,25.0,1800000.0,Us Lecce,2526
+Álex Sala,Central Midfield,25.0,1000000.0,Us Lecce,2526
+Omri Gandelman,Attacking Midfield,26.0,3000000.0,Us Lecce,2526
+Filip Marchwinski,Attacking Midfield,24.0,1500000.0,Us Lecce,2526
+Lameck Banda,Left Winger,25.0,3500000.0,Us Lecce,2526
+Riccardo Sottil,Left Winger,27.0,3000000.0,Us Lecce,2526
+Santiago Pierotti,Right Winger,25.0,4000000.0,Us Lecce,2526
+Konan N’Dri,Right Winger,25.0,1500000.0,Us Lecce,2526
+Francesco Camarda,Centre-Forward,18.0,15000000.0,Us Lecce,2526
+Nikola Stulic,Centre-Forward,24.0,3500000.0,Us Lecce,2526
+Walid Cheddira,Centre-Forward,28.0,2000000.0,Us Lecce,2526
+Arijanet Murić,Goalkeeper,27.0,7500000.0,Us Sassuolo,2526
+Stefano Turati,Goalkeeper,24.0,3000000.0,Us Sassuolo,2526
+Gioele Zacchi,Goalkeeper,22.0,600000.0,Us Sassuolo,2526
+Giacomo Satalino,Goalkeeper,27.0,400000.0,Us Sassuolo,2526
+Tarik Muharemović,Centre-Back,23.0,25000000.0,Us Sassuolo,2526
+Jay Idzes,Centre-Back,26.0,14000000.0,Us Sassuolo,2526
+Fali Candé,Centre-Back,28.0,3000000.0,Us Sassuolo,2526
+Pedro Felipe,Centre-Back,22.0,1500000.0,Us Sassuolo,2526
+Filippo Romagna,Centre-Back,29.0,800000.0,Us Sassuolo,2526
+Josh Doig,Left-Back,24.0,4500000.0,Us Sassuolo,2526
+Ulisses Garcia,Left-Back,30.0,3000000.0,Us Sassuolo,2526
+Edoardo Pieragnolo,Left-Back,23.0,2000000.0,Us Sassuolo,2526
+Sebastian Walukiewicz,Right-Back,26.0,5000000.0,Us Sassuolo,2526
+Woyo Coulibaly,Right-Back,27.0,2000000.0,Us Sassuolo,2526
+Luca Lipani,Defensive Midfield,21.0,7500000.0,Us Sassuolo,2526
+Daniel Boloca,Defensive Midfield,27.0,4000000.0,Us Sassuolo,2526
+Nemanja Matić,Defensive Midfield,37.0,1600000.0,Us Sassuolo,2526
+Ismaël Koné,Central Midfield,24.0,25000000.0,Us Sassuolo,2526
+Kristian Thorstvedt,Central Midfield,27.0,12000000.0,Us Sassuolo,2526
+Aster Vranckx,Central Midfield,23.0,5000000.0,Us Sassuolo,2526
+Edoardo Iannoni,Central Midfield,25.0,800000.0,Us Sassuolo,2526
+Cristian Volpato,Attacking Midfield,22.0,10000000.0,Us Sassuolo,2526
+Darryl Bakola,Attacking Midfield,18.0,8000000.0,Us Sassuolo,2526
+Armand Laurienté,Left Winger,27.0,19000000.0,Us Sassuolo,2526
+Alieu Fadera,Left Winger,24.0,4500000.0,Us Sassuolo,2526
+Domenico Berardi,Right Winger,31.0,7000000.0,Us Sassuolo,2526
+Andrea Pinamonti,Centre-Forward,27.0,15000000.0,Us Sassuolo,2526
+M'Bala Nzola,Centre-Forward,29.0,4000000.0,Us Sassuolo,2526
+Luca Moro,Centre-Forward,25.0,1800000.0,Us Sassuolo,2526

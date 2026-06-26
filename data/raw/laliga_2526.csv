@@ -1,0 +1,522 @@
+player_name,position,Age,market_value_eur,club,season
+Unai Simón,Goalkeeper,29.0,22000000.0,Athletic Bilbao,2526
+Álex Padilla,Goalkeeper,22.0,3000000.0,Athletic Bilbao,2526
+Dani Vivian,Centre-Back,26.0,20000000.0,Athletic Bilbao,2526
+Aymeric Laporte,Centre-Back,32.0,8000000.0,Athletic Bilbao,2526
+Aitor Paredes,Centre-Back,26.0,7500000.0,Athletic Bilbao,2526
+Yeray Álvarez,Centre-Back,31.0,900000.0,Athletic Bilbao,2526
+Unai Egiluz,Centre-Back,24.0,400000.0,Athletic Bilbao,2526
+Adama Boiro,Left-Back,24.0,2500000.0,Athletic Bilbao,2526
+Yuri Berchiche,Left-Back,36.0,1000000.0,Athletic Bilbao,2526
+Jesús Areso,Right-Back,26.0,5000000.0,Athletic Bilbao,2526
+Andoni Gorosabel,Right-Back,29.0,3000000.0,Athletic Bilbao,2526
+Iñigo Lekue,Right-Back,33.0,1000000.0,Athletic Bilbao,2526
+Mikel Vesga,Defensive Midfield,33.0,1200000.0,Athletic Bilbao,2526
+Mikel Jauregizar,Central Midfield,22.0,30000000.0,Athletic Bilbao,2526
+Beñat Prados,Central Midfield,25.0,15000000.0,Athletic Bilbao,2526
+Alejandro Rego,Central Midfield,23.0,5000000.0,Athletic Bilbao,2526
+Selton Sánchez,Central Midfield,19.0,2800000.0,Athletic Bilbao,2526
+Iñigo Ruiz de Galarreta,Central Midfield,32.0,2000000.0,Athletic Bilbao,2526
+Oihan Sancet,Attacking Midfield,26.0,25000000.0,Athletic Bilbao,2526
+Unai Gómez,Attacking Midfield,23.0,5000000.0,Athletic Bilbao,2526
+Nico Williams,Left Winger,23.0,40000000.0,Athletic Bilbao,2526
+Álex Berenguer,Left Winger,30.0,4000000.0,Athletic Bilbao,2526
+Nico Serrano,Left Winger,23.0,1500000.0,Athletic Bilbao,2526
+Iñaki Williams,Right Winger,32.0,8000000.0,Athletic Bilbao,2526
+Robert Navarro,Right Winger,24.0,6000000.0,Athletic Bilbao,2526
+Gorka Guruzeta,Centre-Forward,29.0,5000000.0,Athletic Bilbao,2526
+Maroan Sannadi,Centre-Forward,25.0,3000000.0,Athletic Bilbao,2526
+Urko Izeta,Centre-Forward,26.0,1400000.0,Athletic Bilbao,2526
+Jan Oblak,Goalkeeper,33.0,15000000.0,Atletico De Madrid,2526
+Juan Musso,Goalkeeper,32.0,3000000.0,Atletico De Madrid,2526
+Dávid Hancko,Centre-Back,28.0,35000000.0,Atletico De Madrid,2526
+Marc Pubill,Centre-Back,23.0,35000000.0,Atletico De Madrid,2526
+Robin Le Normand,Centre-Back,29.0,20000000.0,Atletico De Madrid,2526
+José María Giménez,Centre-Back,31.0,9000000.0,Atletico De Madrid,2526
+Clément Lenglet,Centre-Back,31.0,4000000.0,Atletico De Madrid,2526
+Matteo Ruggeri,Left-Back,23.0,28000000.0,Atletico De Madrid,2526
+Marcos Llorente,Right-Back,31.0,20000000.0,Atletico De Madrid,2526
+Nahuel Molina,Right-Back,28.0,15000000.0,Atletico De Madrid,2526
+Pablo Barrios,Central Midfield,23.0,55000000.0,Atletico De Madrid,2526
+Rodrigo Mendoza,Central Midfield,21.0,20000000.0,Atletico De Madrid,2526
+Johnny Cardoso,Central Midfield,24.0,20000000.0,Atletico De Madrid,2526
+Obed Vargas,Central Midfield,20.0,10000000.0,Atletico De Madrid,2526
+Koke,Central Midfield,34.0,5000000.0,Atletico De Madrid,2526
+Álex Baena,Left Winger,24.0,40000000.0,Atletico De Madrid,2526
+Ademola Lookman,Left Winger,28.0,40000000.0,Atletico De Madrid,2526
+Nico González,Left Winger,28.0,22000000.0,Atletico De Madrid,2526
+Thiago Almada,Left Winger,25.0,15000000.0,Atletico De Madrid,2526
+Giuliano Simeone,Right Winger,23.0,40000000.0,Atletico De Madrid,2526
+Antoine Griezmann,Second Striker,35.0,8000000.0,Atletico De Madrid,2526
+Julián Alvarez,Centre-Forward,26.0,100000000.0,Atletico De Madrid,2526
+Alexander Sørloth,Centre-Forward,30.0,18000000.0,Atletico De Madrid,2526
+Sergio Herrera,Goalkeeper,33.0,2800000.0,Ca Osasuna,2526
+Aitor Fernández,Goalkeeper,35.0,500000.0,Ca Osasuna,2526
+Enzo Boyomo,Centre-Back,24.0,15000000.0,Ca Osasuna,2526
+Jorge Herrando,Centre-Back,25.0,3500000.0,Ca Osasuna,2526
+Alejandro Catena,Centre-Back,31.0,2600000.0,Ca Osasuna,2526
+Abel Bretones,Left-Back,25.0,3500000.0,Ca Osasuna,2526
+Javi Galán,Left-Back,31.0,1800000.0,Ca Osasuna,2526
+Juan Cruz,Left-Back,33.0,1000000.0,Ca Osasuna,2526
+Valentin Rosier,Right-Back,29.0,3000000.0,Ca Osasuna,2526
+Iñigo Arguibide,Right-Back,21.0,800000.0,Ca Osasuna,2526
+Lucas Torró,Defensive Midfield,31.0,2500000.0,Ca Osasuna,2526
+Iker Muñoz,Defensive Midfield,23.0,2000000.0,Ca Osasuna,2526
+Jon Moncayola,Central Midfield,28.0,7000000.0,Ca Osasuna,2526
+Asier Osambela,Central Midfield,21.0,1000000.0,Ca Osasuna,2526
+Aimar Oroz,Attacking Midfield,24.0,7500000.0,Ca Osasuna,2526
+Moi Gómez,Attacking Midfield,32.0,1500000.0,Ca Osasuna,2526
+Víctor Muñoz,Left Winger,22.0,30000000.0,Ca Osasuna,2526
+Raúl Moro,Left Winger,23.0,3500000.0,Ca Osasuna,2526
+Rubén García,Right Winger,32.0,1600000.0,Ca Osasuna,2526
+Kike Barja,Right Winger,29.0,1500000.0,Ca Osasuna,2526
+Iker Benito,Right Winger,23.0,1400000.0,Ca Osasuna,2526
+Raúl García,Centre-Forward,25.0,3000000.0,Ca Osasuna,2526
+Ante Budimir,Centre-Forward,34.0,2800000.0,Ca Osasuna,2526
+Ionuț Radu,Goalkeeper,29.0,9000000.0,Celta De Vigo,2526
+Iván Villar,Goalkeeper,28.0,900000.0,Celta De Vigo,2526
+Marc Vidal,Goalkeeper,26.0,300000.0,Celta De Vigo,2526
+Javi Rodríguez,Centre-Back,22.0,18000000.0,Celta De Vigo,2526
+Carl Starfelt,Centre-Back,31.0,4500000.0,Celta De Vigo,2526
+Yoel Lago,Centre-Back,22.0,4000000.0,Celta De Vigo,2526
+Carlos Domínguez,Centre-Back,25.0,2000000.0,Celta De Vigo,2526
+Manu Fernández,Centre-Back,25.0,1500000.0,Celta De Vigo,2526
+Marcos Alonso,Centre-Back,35.0,1200000.0,Celta De Vigo,2526
+Joseph Aidoo,Centre-Back,30.0,1000000.0,Celta De Vigo,2526
+Mihailo Ristic,Left-Back,30.0,800000.0,Celta De Vigo,2526
+Óscar Mingueza,Right-Back,27.0,18000000.0,Celta De Vigo,2526
+Sergio Carreira,Right-Back,25.0,12000000.0,Celta De Vigo,2526
+Javi Rueda,Right-Back,24.0,6000000.0,Celta De Vigo,2526
+Álvaro Núñez,Right-Back,25.0,4000000.0,Celta De Vigo,2526
+Ilaix Moriba,Central Midfield,23.0,15000000.0,Celta De Vigo,2526
+Miguel Román,Central Midfield,23.0,15000000.0,Celta De Vigo,2526
+Hugo Sotelo,Central Midfield,22.0,5000000.0,Celta De Vigo,2526
+Matías Vecino,Central Midfield,34.0,1000000.0,Celta De Vigo,2526
+Fer López,Attacking Midfield,22.0,16000000.0,Celta De Vigo,2526
+Williot Swedberg,Left Winger,22.0,20000000.0,Celta De Vigo,2526
+Hugo Álvarez,Left Winger,22.0,8000000.0,Celta De Vigo,2526
+Franco Cervi,Left Winger,32.0,600000.0,Celta De Vigo,2526
+Ferran Jutglà,Right Winger,27.0,10000000.0,Celta De Vigo,2526
+Jones El-Abdellaoui,Right Winger,20.0,8000000.0,Celta De Vigo,2526
+Pablo Durán,Centre-Forward,25.0,4000000.0,Celta De Vigo,2526
+Borja Iglesias,Centre-Forward,33.0,2800000.0,Celta De Vigo,2526
+Iago Aspas,Centre-Forward,38.0,1600000.0,Celta De Vigo,2526
+Antonio Sivera,Goalkeeper,29.0,6000000.0,Deportivo Alaves,2526
+Raúl Fernández,Goalkeeper,38.0,100000.0,Deportivo Alaves,2526
+Jon Pacheco,Centre-Back,25.0,5000000.0,Deportivo Alaves,2526
+Ville Koski,Centre-Back,24.0,1500000.0,Deportivo Alaves,2526
+Facundo Garcés,Centre-Back,26.0,,Deportivo Alaves,2526
+Youssef Enríquez,Left-Back,20.0,4000000.0,Deportivo Alaves,2526
+Victor Parada,Left-Back,24.0,4000000.0,Deportivo Alaves,2526
+Nahuel Tenaglia,Right-Back,30.0,3000000.0,Deportivo Alaves,2526
+Jonny Otto,Right-Back,32.0,2200000.0,Deportivo Alaves,2526
+Antonio Blanco,Defensive Midfield,25.0,10000000.0,Deportivo Alaves,2526
+Carlos Protesoni,Defensive Midfield,28.0,1000000.0,Deportivo Alaves,2526
+Pablo Ibáñez,Central Midfield,27.0,4000000.0,Deportivo Alaves,2526
+Carles Aleñá,Central Midfield,28.0,3000000.0,Deportivo Alaves,2526
+Ander Guevara,Central Midfield,28.0,2500000.0,Deportivo Alaves,2526
+Jon Guridi,Central Midfield,31.0,1800000.0,Deportivo Alaves,2526
+Calebe,Attacking Midfield,26.0,1800000.0,Deportivo Alaves,2526
+Denis Suárez,Attacking Midfield,32.0,1000000.0,Deportivo Alaves,2526
+Abde Rebbach,Left Winger,27.0,2500000.0,Deportivo Alaves,2526
+Ángel Pérez,Right Winger,24.0,3000000.0,Deportivo Alaves,2526
+Toni Martínez,Centre-Forward,28.0,7500000.0,Deportivo Alaves,2526
+Lucas Boyé,Centre-Forward,30.0,5000000.0,Deportivo Alaves,2526
+Ibrahim Diabate,Centre-Forward,26.0,1500000.0,Deportivo Alaves,2526
+Aitor Mañas,Centre-Forward,23.0,600000.0,Deportivo Alaves,2526
+Mariano Díaz,Centre-Forward,32.0,300000.0,Deportivo Alaves,2526
+Iñaki Peña,Goalkeeper,27.0,4000000.0,Elche Cf,2526
+Alejandro Iturbe,Goalkeeper,22.0,1400000.0,Elche Cf,2526
+Matías Dituro,Goalkeeper,39.0,100000.0,Elche Cf,2526
+David Affengruber,Centre-Back,25.0,20000000.0,Elche Cf,2526
+Víctor Chust,Centre-Back,26.0,3500000.0,Elche Cf,2526
+John Donald,Centre-Back,25.0,1000000.0,Elche Cf,2526
+Pedro Bigas,Centre-Back,36.0,300000.0,Elche Cf,2526
+Adrià Pedrosa,Left-Back,28.0,2800000.0,Elche Cf,2526
+Léo Pétrot,Left-Back,29.0,1500000.0,Elche Cf,2526
+Héctor Fort,Right-Back,19.0,12000000.0,Elche Cf,2526
+Buba Sangaré,Right-Back,18.0,4500000.0,Elche Cf,2526
+Marc Aguado,Defensive Midfield,26.0,3500000.0,Elche Cf,2526
+Federico Redondo,Defensive Midfield,23.0,2500000.0,Elche Cf,2526
+Aleix Febas,Central Midfield,30.0,5000000.0,Elche Cf,2526
+Martim Neto,Central Midfield,23.0,4000000.0,Elche Cf,2526
+Gonzalo Villar,Central Midfield,28.0,1800000.0,Elche Cf,2526
+Germán Valera,Left Winger,24.0,6000000.0,Elche Cf,2526
+Lucas Cepeda,Left Winger,23.0,2500000.0,Elche Cf,2526
+Tete Morente,Left Winger,29.0,1800000.0,Elche Cf,2526
+Yago Santiago,Left Winger,23.0,1000000.0,Elche Cf,2526
+Grady Diangana,Right Winger,28.0,2000000.0,Elche Cf,2526
+Josan,Right Winger,36.0,100000.0,Elche Cf,2526
+Adam Boayar,Second Striker,20.0,800000.0,Elche Cf,2526
+Álvaro Rodríguez,Centre-Forward,21.0,10000000.0,Elche Cf,2526
+Rafa Mir,Centre-Forward,29.0,4000000.0,Elche Cf,2526
+André Silva,Centre-Forward,30.0,3000000.0,Elche Cf,2526
+Joan García,Goalkeeper,25.0,45000000.0,Fc Barcelona,2526
+Diego Kochen,Goalkeeper,20.0,1500000.0,Fc Barcelona,2526
+Wojciech Szczesny,Goalkeeper,36.0,800000.0,Fc Barcelona,2526
+Pau Cubarsí,Centre-Back,19.0,80000000.0,Fc Barcelona,2526
+Eric García,Centre-Back,25.0,40000000.0,Fc Barcelona,2526
+Gerard Martín,Centre-Back,24.0,35000000.0,Fc Barcelona,2526
+Ronald Araujo,Centre-Back,27.0,20000000.0,Fc Barcelona,2526
+Andreas Christensen,Centre-Back,30.0,8000000.0,Fc Barcelona,2526
+Alejandro Balde,Left-Back,22.0,50000000.0,Fc Barcelona,2526
+Jules Koundé,Right-Back,27.0,60000000.0,Fc Barcelona,2526
+João Cancelo,Right-Back,32.0,8000000.0,Fc Barcelona,2526
+Marc Bernal,Defensive Midfield,19.0,30000000.0,Fc Barcelona,2526
+Marc Casadó,Defensive Midfield,22.0,18000000.0,Fc Barcelona,2526
+Pedri,Central Midfield,23.0,150000000.0,Fc Barcelona,2526
+Frenkie de Jong,Central Midfield,29.0,35000000.0,Fc Barcelona,2526
+Gavi,Central Midfield,21.0,30000000.0,Fc Barcelona,2526
+Fermín López,Attacking Midfield,23.0,100000000.0,Fc Barcelona,2526
+Dani Olmo,Attacking Midfield,28.0,60000000.0,Fc Barcelona,2526
+Raphinha,Left Winger,29.0,70000000.0,Fc Barcelona,2526
+Marcus Rashford,Left Winger,28.0,40000000.0,Fc Barcelona,2526
+Lamine Yamal,Right Winger,18.0,200000000.0,Fc Barcelona,2526
+Roony Bardghji,Right Winger,20.0,15000000.0,Fc Barcelona,2526
+Ferran Torres,Centre-Forward,26.0,50000000.0,Fc Barcelona,2526
+Robert Lewandowski,Centre-Forward,37.0,7000000.0,Fc Barcelona,2526
+David Soria,Goalkeeper,33.0,2800000.0,Getafe Cf,2526
+Jiri Letacek,Goalkeeper,27.0,2000000.0,Getafe Cf,2526
+Abdel Abqar,Centre-Back,27.0,3500000.0,Getafe Cf,2526
+Zaid Romero,Centre-Back,26.0,2500000.0,Getafe Cf,2526
+Sebastián Boselli,Centre-Back,22.0,1500000.0,Getafe Cf,2526
+Dakonam Djené,Centre-Back,34.0,1400000.0,Getafe Cf,2526
+Domingos Duarte,Centre-Back,31.0,800000.0,Getafe Cf,2526
+Diego Rico,Left-Back,33.0,1000000.0,Getafe Cf,2526
+Davinchi,Left-Back,18.0,1000000.0,Getafe Cf,2526
+Juan Iglesias,Right-Back,27.0,5000000.0,Getafe Cf,2526
+Kiko Femenía,Right-Back,35.0,700000.0,Getafe Cf,2526
+Ismael Bekhoucha,Right-Back,21.0,300000.0,Getafe Cf,2526
+Allan Nyom,Right-Back,38.0,100000.0,Getafe Cf,2526
+Mario Martín,Defensive Midfield,22.0,10000000.0,Getafe Cf,2526
+Mauro Arambarri,Central Midfield,30.0,8000000.0,Getafe Cf,2526
+Luis Milla,Central Midfield,31.0,3500000.0,Getafe Cf,2526
+Javi Muñoz,Central Midfield,31.0,1200000.0,Getafe Cf,2526
+Veljko Birmancevic,Left Winger,28.0,3500000.0,Getafe Cf,2526
+Adrián Liso,Left Winger,21.0,3000000.0,Getafe Cf,2526
+Juanmi,Left Winger,33.0,1000000.0,Getafe Cf,2526
+Abu Kamara,Right Winger,22.0,2500000.0,Getafe Cf,2526
+Álex Sancris,Right Winger,29.0,1500000.0,Getafe Cf,2526
+Martín Satriano,Centre-Forward,25.0,10000000.0,Getafe Cf,2526
+Borja Mayoral,Centre-Forward,29.0,6000000.0,Getafe Cf,2526
+Luis Vázquez,Centre-Forward,25.0,2500000.0,Getafe Cf,2526
+Marc-André ter Stegen,Goalkeeper,34.0,3000000.0,Girona Fc,2526
+Paulo Gazzaniga,Goalkeeper,34.0,1800000.0,Girona Fc,2526
+Rubén Blanco,Goalkeeper,30.0,700000.0,Girona Fc,2526
+Vladyslav Krapyvtsov,Goalkeeper,21.0,300000.0,Girona Fc,2526
+Juan Carlos,Goalkeeper,38.0,100000.0,Girona Fc,2526
+Vitor Reis,Centre-Back,20.0,30000000.0,Girona Fc,2526
+Alejandro Francés,Centre-Back,23.0,3000000.0,Girona Fc,2526
+Daley Blind,Centre-Back,36.0,1200000.0,Girona Fc,2526
+David López,Centre-Back,36.0,600000.0,Girona Fc,2526
+Álex Moreno,Left-Back,33.0,3000000.0,Girona Fc,2526
+Arnau Martínez,Right-Back,23.0,10000000.0,Girona Fc,2526
+Hugo Rincón,Right-Back,23.0,3500000.0,Girona Fc,2526
+Axel Witsel,Defensive Midfield,37.0,1200000.0,Girona Fc,2526
+Azzedine Ounahi,Central Midfield,26.0,10000000.0,Girona Fc,2526
+Iván Martín,Central Midfield,27.0,5000000.0,Girona Fc,2526
+Fran Beltrán,Central Midfield,27.0,4000000.0,Girona Fc,2526
+Donny van de Beek,Central Midfield,29.0,1800000.0,Girona Fc,2526
+Lass Kourouma,Central Midfield,22.0,500000.0,Girona Fc,2526
+Claudio Echeverri,Attacking Midfield,20.0,15000000.0,Girona Fc,2526
+Thomas Lemar,Attacking Midfield,30.0,1800000.0,Girona Fc,2526
+Bryan Gil,Left Winger,25.0,8000000.0,Girona Fc,2526
+Joel Roca,Left Winger,21.0,6000000.0,Girona Fc,2526
+Viktor Tsygankov,Right Winger,28.0,15000000.0,Girona Fc,2526
+Portu,Right Winger,34.0,1200000.0,Girona Fc,2526
+Vladyslav Vanat,Centre-Forward,24.0,15000000.0,Girona Fc,2526
+Abel Ruiz,Centre-Forward,26.0,2000000.0,Girona Fc,2526
+Cristhian Stuani,Centre-Forward,39.0,700000.0,Girona Fc,2526
+Mathew Ryan,Goalkeeper,34.0,1800000.0,Levante Ud,2526
+Pablo Campos,Goalkeeper,24.0,1500000.0,Levante Ud,2526
+Matías Moreno,Centre-Back,22.0,6000000.0,Levante Ud,2526
+Alan Matturro,Centre-Back,21.0,4000000.0,Levante Ud,2526
+Adrián Dela,Centre-Back,27.0,4000000.0,Levante Ud,2526
+Unai Elgezabal,Centre-Back,33.0,500000.0,Levante Ud,2526
+Manu Sánchez,Left-Back,25.0,6000000.0,Levante Ud,2526
+Diego Pampín,Left-Back,26.0,1000000.0,Levante Ud,2526
+Jeremy Toljan,Right-Back,31.0,2000000.0,Levante Ud,2526
+Víctor García,Right-Back,28.0,1500000.0,Levante Ud,2526
+Nacho Pérez,Right-Back,17.0,300000.0,Levante Ud,2526
+Ugo Raghouber,Defensive Midfield,22.0,3000000.0,Levante Ud,2526
+Kervin Arriaga,Defensive Midfield,28.0,2000000.0,Levante Ud,2526
+Oriol Rey,Defensive Midfield,28.0,1800000.0,Levante Ud,2526
+Pablo Martínez,Central Midfield,28.0,3000000.0,Levante Ud,2526
+Jon Ander Olasagasti,Central Midfield,25.0,2500000.0,Levante Ud,2526
+Unai Vencedor,Central Midfield,25.0,1600000.0,Levante Ud,2526
+Carlos Álvarez,Attacking Midfield,22.0,15000000.0,Levante Ud,2526
+Roger Brugué,Left Winger,29.0,2000000.0,Levante Ud,2526
+Paco Cortés,Left Winger,18.0,1500000.0,Levante Ud,2526
+Kareem Tunde,Right Winger,20.0,2000000.0,Levante Ud,2526
+Tay Abed,Right Winger,21.0,1000000.0,Levante Ud,2526
+Iker Losada,Second Striker,24.0,1800000.0,Levante Ud,2526
+Carlos Espí,Centre-Forward,20.0,20000000.0,Levante Ud,2526
+Karl Etta Eyong,Centre-Forward,22.0,15000000.0,Levante Ud,2526
+Iván Romero,Centre-Forward,25.0,8000000.0,Levante Ud,2526
+José Luis Morales,Centre-Forward,38.0,200000.0,Levante Ud,2526
+Augusto Batalla,Goalkeeper,30.0,6000000.0,Rayo Vallecano,2526
+Dani Cárdenas,Goalkeeper,29.0,1800000.0,Rayo Vallecano,2526
+Nobel Mendy,Centre-Back,21.0,7500000.0,Rayo Vallecano,2526
+Abdul Mumin,Centre-Back,28.0,3000000.0,Rayo Vallecano,2526
+Luiz Felipe,Centre-Back,29.0,2000000.0,Rayo Vallecano,2526
+Jozhua Vertrouwd,Centre-Back,21.0,2000000.0,Rayo Vallecano,2526
+Florian Lejeune,Centre-Back,35.0,1800000.0,Rayo Vallecano,2526
+Pep Chavarría,Left-Back,28.0,10000000.0,Rayo Vallecano,2526
+Alfonso Espino,Left-Back,34.0,900000.0,Rayo Vallecano,2526
+Andrei Rațiu,Right-Back,28.0,18000000.0,Rayo Vallecano,2526
+Iván Balliu,Right-Back,34.0,1000000.0,Rayo Vallecano,2526
+Gerard Gumbau,Defensive Midfield,31.0,1200000.0,Rayo Vallecano,2526
+Pedro Díaz,Central Midfield,28.0,3000000.0,Rayo Vallecano,2526
+Unai López,Central Midfield,30.0,2500000.0,Rayo Vallecano,2526
+Óscar Valentín,Central Midfield,31.0,2000000.0,Rayo Vallecano,2526
+Pathé Ciss,Central Midfield,32.0,1800000.0,Rayo Vallecano,2526
+Samu Becerra,Central Midfield,20.0,300000.0,Rayo Vallecano,2526
+Randy Nteka,Attacking Midfield,28.0,1000000.0,Rayo Vallecano,2526
+Óscar Trejo,Attacking Midfield,38.0,300000.0,Rayo Vallecano,2526
+Carlos Martín,Left Winger,24.0,1500000.0,Rayo Vallecano,2526
+Álvaro García,Left Winger,33.0,1500000.0,Rayo Vallecano,2526
+Ilias Akhomach,Right Winger,22.0,12000000.0,Rayo Vallecano,2526
+Jorge de Frutos,Right Winger,29.0,12000000.0,Rayo Vallecano,2526
+Fran Pérez,Right Winger,23.0,2500000.0,Rayo Vallecano,2526
+Isi Palazón,Second Striker,31.0,2800000.0,Rayo Vallecano,2526
+Alemão,Centre-Forward,28.0,4000000.0,Rayo Vallecano,2526
+Sergio Camello,Centre-Forward,25.0,3000000.0,Rayo Vallecano,2526
+Marko Dmitrovic,Goalkeeper,34.0,700000.0,Rcd Espanyol Barcelona,2526
+Ángel Fortuño,Goalkeeper,24.0,300000.0,Rcd Espanyol Barcelona,2526
+Pol Tristán,Goalkeeper,24.0,50000.0,Rcd Espanyol Barcelona,2526
+Clemens Riedel,Centre-Back,22.0,4000000.0,Rcd Espanyol Barcelona,2526
+Fernando Calero,Centre-Back,30.0,2000000.0,Rcd Espanyol Barcelona,2526
+Miguel Rubio,Centre-Back,28.0,1500000.0,Rcd Espanyol Barcelona,2526
+Leandro Cabrera,Centre-Back,35.0,900000.0,Rcd Espanyol Barcelona,2526
+Carlos Romero,Left-Back,24.0,25000000.0,Rcd Espanyol Barcelona,2526
+José Salinas,Left-Back,25.0,2000000.0,Rcd Espanyol Barcelona,2526
+Omar El Hilali,Right-Back,22.0,15000000.0,Rcd Espanyol Barcelona,2526
+Rubén Sánchez,Right-Back,25.0,1800000.0,Rcd Espanyol Barcelona,2526
+Urko González de Zárate,Defensive Midfield,25.0,12000000.0,Rcd Espanyol Barcelona,2526
+Charles Pickel,Defensive Midfield,29.0,2500000.0,Rcd Espanyol Barcelona,2526
+Pol Lozano,Central Midfield,26.0,6000000.0,Rcd Espanyol Barcelona,2526
+Edu Expósito,Central Midfield,29.0,5000000.0,Rcd Espanyol Barcelona,2526
+Ramón Terrats,Central Midfield,25.0,3000000.0,Rcd Espanyol Barcelona,2526
+Javi Puado,Left Winger,28.0,7500000.0,Rcd Espanyol Barcelona,2526
+Pere Milla,Left Winger,33.0,1000000.0,Rcd Espanyol Barcelona,2526
+Tyrhys Dolan,Right Winger,24.0,10000000.0,Rcd Espanyol Barcelona,2526
+Cyril Ngonge,Right Winger,26.0,7000000.0,Rcd Espanyol Barcelona,2526
+Jofre Carreras,Right Winger,25.0,3000000.0,Rcd Espanyol Barcelona,2526
+Antoniu Roca,Right Winger,23.0,1800000.0,Rcd Espanyol Barcelona,2526
+Roberto Fernández,Centre-Forward,23.0,10000000.0,Rcd Espanyol Barcelona,2526
+Kike García,Centre-Forward,36.0,700000.0,Rcd Espanyol Barcelona,2526
+Leo Román,Goalkeeper,25.0,6000000.0,Rcd Mallorca,2526
+Lucas Bergström,Goalkeeper,23.0,1400000.0,Rcd Mallorca,2526
+Iván Cuéllar,Goalkeeper,42.0,100000.0,Rcd Mallorca,2526
+Marash Kumbulla,Centre-Back,26.0,3000000.0,Rcd Mallorca,2526
+Martin Valjent,Centre-Back,30.0,3000000.0,Rcd Mallorca,2526
+David López,Centre-Back,23.0,1200000.0,Rcd Mallorca,2526
+Antonio Raíllo,Centre-Back,34.0,1000000.0,Rcd Mallorca,2526
+Johan Mojica,Left-Back,33.0,1500000.0,Rcd Mallorca,2526
+Toni Lato,Left-Back,28.0,1400000.0,Rcd Mallorca,2526
+Pablo Maffeo,Right-Back,28.0,3000000.0,Rcd Mallorca,2526
+Mateu Morey,Right-Back,26.0,1400000.0,Rcd Mallorca,2526
+Samú Costa,Defensive Midfield,25.0,15000000.0,Rcd Mallorca,2526
+Omar Mascarell,Defensive Midfield,33.0,700000.0,Rcd Mallorca,2526
+Sergi Darder,Central Midfield,32.0,3000000.0,Rcd Mallorca,2526
+Manu Morlanes,Central Midfield,27.0,2400000.0,Rcd Mallorca,2526
+Antonio Sánchez,Central Midfield,29.0,2000000.0,Rcd Mallorca,2526
+Jan Salas,Central Midfield,20.0,500000.0,Rcd Mallorca,2526
+Pablo Torre,Attacking Midfield,23.0,5000000.0,Rcd Mallorca,2526
+Jan Virgili,Left Winger,19.0,15000000.0,Rcd Mallorca,2526
+Javi Llabrés,Left Winger,23.0,800000.0,Rcd Mallorca,2526
+Zito Luvumbo,Right Winger,24.0,3000000.0,Rcd Mallorca,2526
+Takuma Asano,Right Winger,31.0,1500000.0,Rcd Mallorca,2526
+Justin Kalumba,Right Winger,21.0,800000.0,Rcd Mallorca,2526
+Vedat Muriqi,Centre-Forward,32.0,4500000.0,Rcd Mallorca,2526
+Mateo Joseph,Centre-Forward,22.0,3500000.0,Rcd Mallorca,2526
+Abdón Prats,Centre-Forward,33.0,800000.0,Rcd Mallorca,2526
+Álvaro Valles,Goalkeeper,28.0,7000000.0,Real Betis Balompie,2526
+Pau López,Goalkeeper,31.0,2500000.0,Real Betis Balompie,2526
+Adrián San Miguel,Goalkeeper,39.0,300000.0,Real Betis Balompie,2526
+Natan,Centre-Back,25.0,25000000.0,Real Betis Balompie,2526
+Valentín Gómez,Centre-Back,23.0,12000000.0,Real Betis Balompie,2526
+Diego Llorente,Centre-Back,32.0,2500000.0,Real Betis Balompie,2526
+Marc Bartra,Centre-Back,35.0,900000.0,Real Betis Balompie,2526
+Junior Firpo,Left-Back,29.0,3500000.0,Real Betis Balompie,2526
+Ricardo Rodríguez,Left-Back,33.0,1400000.0,Real Betis Balompie,2526
+Ángel Ortiz,Right-Back,21.0,4000000.0,Real Betis Balompie,2526
+Héctor Bellerín,Right-Back,31.0,2400000.0,Real Betis Balompie,2526
+Sofyan Amrabat,Defensive Midfield,29.0,10000000.0,Real Betis Balompie,2526
+Marc Roca,Defensive Midfield,29.0,4000000.0,Real Betis Balompie,2526
+Sergi Altimira,Central Midfield,24.0,20000000.0,Real Betis Balompie,2526
+Nelson Deossa,Central Midfield,26.0,9000000.0,Real Betis Balompie,2526
+Pablo Fornals,Central Midfield,30.0,8000000.0,Real Betis Balompie,2526
+Álvaro Fidalgo,Central Midfield,29.0,6000000.0,Real Betis Balompie,2526
+Giovani Lo Celso,Attacking Midfield,30.0,8000000.0,Real Betis Balompie,2526
+Isco,Attacking Midfield,34.0,3500000.0,Real Betis Balompie,2526
+Abde Ezzalzouli,Left Winger,24.0,40000000.0,Real Betis Balompie,2526
+Rodrigo Riquelme,Left Winger,26.0,4000000.0,Real Betis Balompie,2526
+Antony,Right Winger,26.0,40000000.0,Real Betis Balompie,2526
+Pablo García,Right Winger,20.0,8000000.0,Real Betis Balompie,2526
+Aitor Ruibal,Right Winger,30.0,4000000.0,Real Betis Balompie,2526
+Cucho Hernández,Centre-Forward,27.0,18000000.0,Real Betis Balompie,2526
+Chimy Ávila,Centre-Forward,32.0,1200000.0,Real Betis Balompie,2526
+Cédric Bakambu,Centre-Forward,35.0,1200000.0,Real Betis Balompie,2526
+Thibaut Courtois,Goalkeeper,34.0,15000000.0,Real Madrid,2526
+Andriy Lunin,Goalkeeper,27.0,12000000.0,Real Madrid,2526
+Fran González,Goalkeeper,21.0,3000000.0,Real Madrid,2526
+Dean Huijsen,Centre-Back,21.0,60000000.0,Real Madrid,2526
+Éder Militão,Centre-Back,28.0,20000000.0,Real Madrid,2526
+Raúl Asencio,Centre-Back,23.0,20000000.0,Real Madrid,2526
+Antonio Rüdiger,Centre-Back,33.0,6000000.0,Real Madrid,2526
+David Alaba,Centre-Back,34.0,3000000.0,Real Madrid,2526
+Álvaro Carreras,Left-Back,23.0,50000000.0,Real Madrid,2526
+Fran García,Left-Back,26.0,10000000.0,Real Madrid,2526
+Ferland Mendy,Left-Back,31.0,4000000.0,Real Madrid,2526
+Trent Alexander-Arnold,Right-Back,27.0,60000000.0,Real Madrid,2526
+Daniel Carvajal,Right-Back,34.0,4000000.0,Real Madrid,2526
+Aurélien Tchouaméni,Defensive Midfield,26.0,70000000.0,Real Madrid,2526
+Federico Valverde,Central Midfield,27.0,90000000.0,Real Madrid,2526
+Eduardo Camavinga,Central Midfield,23.0,50000000.0,Real Madrid,2526
+Thiago Pitarch,Central Midfield,18.0,20000000.0,Real Madrid,2526
+Jorge Cestero,Central Midfield,20.0,7500000.0,Real Madrid,2526
+Dani Ceballos,Central Midfield,29.0,7000000.0,Real Madrid,2526
+Manuel Ángel,Central Midfield,22.0,5000000.0,Real Madrid,2526
+Jude Bellingham,Attacking Midfield,22.0,130000000.0,Real Madrid,2526
+Arda Güler,Attacking Midfield,21.0,90000000.0,Real Madrid,2526
+César Palacios,Attacking Midfield,21.0,7500000.0,Real Madrid,2526
+Vinicius Junior,Left Winger,25.0,140000000.0,Real Madrid,2526
+Rodrygo,Right Winger,25.0,45000000.0,Real Madrid,2526
+Franco Mastantuono,Right Winger,18.0,45000000.0,Real Madrid,2526
+Brahim Díaz,Right Winger,26.0,35000000.0,Real Madrid,2526
+Kylian Mbappé,Centre-Forward,27.0,180000000.0,Real Madrid,2526
+Gonzalo García,Centre-Forward,22.0,30000000.0,Real Madrid,2526
+Aarón Escandell,Goalkeeper,30.0,3000000.0,Real Oviedo,2526
+Horațiu Moldovan,Goalkeeper,28.0,1800000.0,Real Oviedo,2526
+David Carmo,Centre-Back,26.0,5000000.0,Real Oviedo,2526
+Eric Bailly,Centre-Back,32.0,1200000.0,Real Oviedo,2526
+David Costas,Centre-Back,31.0,1200000.0,Real Oviedo,2526
+Dani Calvo,Centre-Back,32.0,900000.0,Real Oviedo,2526
+Javi López,Left-Back,24.0,5000000.0,Real Oviedo,2526
+Rahim Alhassane,Left-Back,24.0,1500000.0,Real Oviedo,2526
+Nacho Vidal,Right-Back,31.0,1200000.0,Real Oviedo,2526
+Lucas Ahijado,Right-Back,31.0,600000.0,Real Oviedo,2526
+Nicolás Fonseca,Defensive Midfield,27.0,3000000.0,Real Oviedo,2526
+Santiago Colombatto,Defensive Midfield,29.0,2500000.0,Real Oviedo,2526
+Leander Dendoncker,Defensive Midfield,31.0,1800000.0,Real Oviedo,2526
+Alberto Reina,Central Midfield,28.0,2000000.0,Real Oviedo,2526
+Kwasi Sibo,Central Midfield,28.0,1400000.0,Real Oviedo,2526
+Santi Cazorla,Central Midfield,41.0,200000.0,Real Oviedo,2526
+Luka Ilic,Attacking Midfield,26.0,1400000.0,Real Oviedo,2526
+Pablo Agudín,Attacking Midfield,18.0,1000000.0,Real Oviedo,2526
+Thiago Fernández,Left Winger,22.0,4500000.0,Real Oviedo,2526
+Ilyas Chaira,Left Winger,25.0,4000000.0,Real Oviedo,2526
+Brandon Dominguès,Left Winger,26.0,500000.0,Real Oviedo,2526
+Ovie Ejaria,Left Winger,28.0,400000.0,Real Oviedo,2526
+Haissem Hassan,Right Winger,24.0,3500000.0,Real Oviedo,2526
+Federico Viñas,Centre-Forward,27.0,4000000.0,Real Oviedo,2526
+Thiago Borbas,Centre-Forward,24.0,3500000.0,Real Oviedo,2526
+Álex Forés,Centre-Forward,25.0,700000.0,Real Oviedo,2526
+Álex Remiro,Goalkeeper,31.0,9000000.0,Real Sociedad,2526
+Unai Marrero,Goalkeeper,24.0,1000000.0,Real Sociedad,2526
+Jon Martín,Centre-Back,20.0,25000000.0,Real Sociedad,2526
+Igor Zubeldia,Centre-Back,29.0,6000000.0,Real Sociedad,2526
+Duje Caleta-Car,Centre-Back,29.0,2800000.0,Real Sociedad,2526
+Aritz Elustondo,Centre-Back,32.0,1500000.0,Real Sociedad,2526
+Sergio Gómez,Left-Back,25.0,15000000.0,Real Sociedad,2526
+Aihen Muñoz,Left-Back,28.0,2500000.0,Real Sociedad,2526
+Jon Aramburu,Right-Back,23.0,15000000.0,Real Sociedad,2526
+Álvaro Odriozola,Right-Back,30.0,800000.0,Real Sociedad,2526
+Jon Gorrotxategi,Defensive Midfield,24.0,25000000.0,Real Sociedad,2526
+Beñat Turrientes,Central Midfield,24.0,10000000.0,Real Sociedad,2526
+Luka Sucic,Central Midfield,23.0,10000000.0,Real Sociedad,2526
+Carlos Soler,Central Midfield,29.0,7000000.0,Real Sociedad,2526
+Yangel Herrera,Central Midfield,28.0,6000000.0,Real Sociedad,2526
+Arsen Zakharyan,Attacking Midfield,23.0,9000000.0,Real Sociedad,2526
+Brais Méndez,Attacking Midfield,29.0,8000000.0,Real Sociedad,2526
+Pablo Marín,Attacking Midfield,22.0,7000000.0,Real Sociedad,2526
+Ander Barrenetxea,Left Winger,24.0,18000000.0,Real Sociedad,2526
+Gonçalo Guedes,Left Winger,29.0,6000000.0,Real Sociedad,2526
+Wesley,Left Winger,21.0,4000000.0,Real Sociedad,2526
+Takefusa Kubo,Right Winger,25.0,20000000.0,Real Sociedad,2526
+Mikel Oyarzabal,Centre-Forward,29.0,25000000.0,Real Sociedad,2526
+Orri Óskarsson,Centre-Forward,21.0,20000000.0,Real Sociedad,2526
+Jon Karrikaburu,Centre-Forward,23.0,1800000.0,Real Sociedad,2526
+Odysseas Vlachodimos,Goalkeeper,32.0,3000000.0,Sevilla Fc,2526
+Ørjan Nyland,Goalkeeper,35.0,800000.0,Sevilla Fc,2526
+Kike Salas,Centre-Back,24.0,14000000.0,Sevilla Fc,2526
+Andrés Castrín,Centre-Back,23.0,6000000.0,Sevilla Fc,2526
+Marcão,Centre-Back,30.0,2500000.0,Sevilla Fc,2526
+Fábio Cardoso,Centre-Back,32.0,1500000.0,Sevilla Fc,2526
+Tanguy Nianzou,Centre-Back,24.0,1200000.0,Sevilla Fc,2526
+César Azpilicueta,Centre-Back,36.0,1000000.0,Sevilla Fc,2526
+Federico Gattoni,Centre-Back,27.0,800000.0,Sevilla Fc,2526
+Oso,Left-Back,22.0,10000000.0,Sevilla Fc,2526
+Gabriel Suazo,Left-Back,28.0,6000000.0,Sevilla Fc,2526
+José Ángel Carmona,Right-Back,24.0,12000000.0,Sevilla Fc,2526
+Juanlu Sánchez,Right-Back,22.0,10000000.0,Sevilla Fc,2526
+Lucien Agoumé,Defensive Midfield,24.0,15000000.0,Sevilla Fc,2526
+Batista Mendy,Defensive Midfield,26.0,7500000.0,Sevilla Fc,2526
+Nemanja Gudelj,Defensive Midfield,34.0,2000000.0,Sevilla Fc,2526
+Djibril Sow,Central Midfield,29.0,7500000.0,Sevilla Fc,2526
+Manu Bueno,Central Midfield,21.0,1500000.0,Sevilla Fc,2526
+Joan Jordán,Central Midfield,31.0,1000000.0,Sevilla Fc,2526
+Rubén Vargas,Left Winger,27.0,12000000.0,Sevilla Fc,2526
+Chidera Ejuke,Left Winger,28.0,4000000.0,Sevilla Fc,2526
+Adnan Januzaj,Right Winger,31.0,1000000.0,Sevilla Fc,2526
+Miguel Sierra,Right Winger,21.0,300000.0,Sevilla Fc,2526
+Peque Fernández,Second Striker,23.0,3000000.0,Sevilla Fc,2526
+Alexis Sánchez,Second Striker,37.0,1200000.0,Sevilla Fc,2526
+Akor Adams,Centre-Forward,26.0,15000000.0,Sevilla Fc,2526
+Isaac Romero,Centre-Forward,26.0,5000000.0,Sevilla Fc,2526
+Neal Maupay,Centre-Forward,29.0,4000000.0,Sevilla Fc,2526
+Julen Agirrezabala,Goalkeeper,25.0,9000000.0,Valencia Cf,2526
+Stole Dimitrievski,Goalkeeper,32.0,2000000.0,Valencia Cf,2526
+Cristian Rivero,Goalkeeper,28.0,100000.0,Valencia Cf,2526
+César Tárrega,Centre-Back,24.0,9000000.0,Valencia Cf,2526
+José Copete,Centre-Back,26.0,5000000.0,Valencia Cf,2526
+Unai Núñez,Centre-Back,29.0,3500000.0,Valencia Cf,2526
+Eray Cömert,Centre-Back,28.0,2500000.0,Valencia Cf,2526
+Mouctar Diakhaby,Centre-Back,29.0,1500000.0,Valencia Cf,2526
+José Gayà,Left-Back,31.0,4000000.0,Valencia Cf,2526
+Jesús Vázquez,Left-Back,23.0,4000000.0,Valencia Cf,2526
+Thierry Correia,Right-Back,27.0,2500000.0,Valencia Cf,2526
+Renzo Saravia,Right-Back,33.0,1400000.0,Valencia Cf,2526
+Dimitri Foulquier,Right-Back,33.0,900000.0,Valencia Cf,2526
+Pepelu,Defensive Midfield,27.0,8000000.0,Valencia Cf,2526
+Guido Rodríguez,Defensive Midfield,32.0,4000000.0,Valencia Cf,2526
+Baptiste Santamaria,Defensive Midfield,31.0,2500000.0,Valencia Cf,2526
+Javi Guerra,Central Midfield,23.0,25000000.0,Valencia Cf,2526
+Filip Ugrinic,Central Midfield,27.0,6000000.0,Valencia Cf,2526
+André Almeida,Attacking Midfield,26.0,6000000.0,Valencia Cf,2526
+Largie Ramazani,Left Winger,25.0,8000000.0,Valencia Cf,2526
+Arnaut Danjuma,Left Winger,29.0,3000000.0,Valencia Cf,2526
+Diego López,Right Winger,24.0,9000000.0,Valencia Cf,2526
+Luis Rioja,Right Winger,32.0,1800000.0,Valencia Cf,2526
+Dani Raba,Second Striker,30.0,1200000.0,Valencia Cf,2526
+Hugo Duro,Centre-Forward,26.0,12000000.0,Valencia Cf,2526
+Lucas Beltrán,Centre-Forward,25.0,8000000.0,Valencia Cf,2526
+Umar Sadiq,Centre-Forward,29.0,4000000.0,Valencia Cf,2526
+Luiz Júnior,Goalkeeper,25.0,12000000.0,Villarreal Cf,2526
+Arnau Tenas,Goalkeeper,25.0,4000000.0,Villarreal Cf,2526
+Diego Conde,Goalkeeper,27.0,3000000.0,Villarreal Cf,2526
+Renato Veiga,Centre-Back,22.0,25000000.0,Villarreal Cf,2526
+Logan Costa,Centre-Back,25.0,15000000.0,Villarreal Cf,2526
+Pau Navarro,Centre-Back,21.0,15000000.0,Villarreal Cf,2526
+Rafa Marín,Centre-Back,24.0,12000000.0,Villarreal Cf,2526
+Juan Foyth,Centre-Back,28.0,8000000.0,Villarreal Cf,2526
+Willy Kambwala,Centre-Back,21.0,3000000.0,Villarreal Cf,2526
+Sergi Cardona,Left-Back,26.0,9000000.0,Villarreal Cf,2526
+Alfonso Pedraza,Left-Back,30.0,2500000.0,Villarreal Cf,2526
+Santiago Mouriño,Right-Back,24.0,20000000.0,Villarreal Cf,2526
+Alex Freeman,Right-Back,21.0,3500000.0,Villarreal Cf,2526
+Thomas Partey,Defensive Midfield,33.0,2000000.0,Villarreal Cf,2526
+Pape Gueye,Central Midfield,27.0,40000000.0,Villarreal Cf,2526
+Santi Comesaña,Central Midfield,29.0,8000000.0,Villarreal Cf,2526
+Carlos Macià,Central Midfield,17.0,3000000.0,Villarreal Cf,2526
+Dani Parejo,Central Midfield,37.0,1000000.0,Villarreal Cf,2526
+Alberto Moleiro,Left Winger,22.0,50000000.0,Villarreal Cf,2526
+Alfon González,Left Winger,27.0,3000000.0,Villarreal Cf,2526
+Hugo López,Left Winger,19.0,1000000.0,Villarreal Cf,2526
+Tajon Buchanan,Right Winger,27.0,12000000.0,Villarreal Cf,2526
+Nicolas Pépé,Right Winger,31.0,6000000.0,Villarreal Cf,2526
+Georges Mikautadze,Centre-Forward,25.0,30000000.0,Villarreal Cf,2526
+Tani Oluwaseyi,Centre-Forward,26.0,7000000.0,Villarreal Cf,2526
+Ayoze Pérez,Centre-Forward,32.0,5000000.0,Villarreal Cf,2526
+Gerard Moreno,Centre-Forward,34.0,2500000.0,Villarreal Cf,2526
