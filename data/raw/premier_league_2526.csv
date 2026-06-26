@@ -1,0 +1,556 @@
+player_name,position,Age,market_value_eur,club,season
+Djordje Petrovic,Goalkeeper,26.0,28000000.0,Afc Bournemouth,2526
+Christos Mandas,Goalkeeper,24.0,8000000.0,Afc Bournemouth,2526
+Fraser Forster,Goalkeeper,38.0,400000.0,Afc Bournemouth,2526
+Marcos Senesi,Centre-Back,29.0,25000000.0,Afc Bournemouth,2526
+Bafodé Diakité,Centre-Back,25.0,25000000.0,Afc Bournemouth,2526
+James Hill,Centre-Back,24.0,23000000.0,Afc Bournemouth,2526
+Veljko Milosavljevic,Centre-Back,18.0,20000000.0,Afc Bournemouth,2526
+Matai Akinmboni,Centre-Back,19.0,1000000.0,Afc Bournemouth,2526
+Adrien Truffert,Left-Back,24.0,30000000.0,Afc Bournemouth,2526
+Julio Soler,Left-Back,21.0,8000000.0,Afc Bournemouth,2526
+Álex Jiménez,Right-Back,21.0,22000000.0,Afc Bournemouth,2526
+Adam Smith,Right-Back,35.0,300000.0,Afc Bournemouth,2526
+Tyler Adams,Defensive Midfield,27.0,25000000.0,Afc Bournemouth,2526
+Alex Scott,Central Midfield,22.0,50000000.0,Afc Bournemouth,2526
+Alex Tóth,Central Midfield,20.0,12000000.0,Afc Bournemouth,2526
+Lewis Cook,Central Midfield,29.0,11000000.0,Afc Bournemouth,2526
+Ryan Christie,Central Midfield,31.0,8000000.0,Afc Bournemouth,2526
+Marcus Tavernier,Attacking Midfield,27.0,25000000.0,Afc Bournemouth,2526
+Justin Kluivert,Attacking Midfield,27.0,25000000.0,Afc Bournemouth,2526
+Amine Adli,Left Winger,26.0,20000000.0,Afc Bournemouth,2526
+Rayan,Right Winger,19.0,60000000.0,Afc Bournemouth,2526
+Ben Gannon-Doak,Right Winger,20.0,15000000.0,Afc Bournemouth,2526
+David Brooks,Right Winger,28.0,12000000.0,Afc Bournemouth,2526
+Junior Kroupi,Centre-Forward,20.0,70000000.0,Afc Bournemouth,2526
+Evanilson,Centre-Forward,26.0,35000000.0,Afc Bournemouth,2526
+Enes Ünal,Centre-Forward,29.0,7000000.0,Afc Bournemouth,2526
+David Raya,Goalkeeper,30.0,30000000.0,Arsenal Fc,2526
+Kepa Arrizabalaga,Goalkeeper,31.0,5000000.0,Arsenal Fc,2526
+William Saliba,Centre-Back,25.0,100000000.0,Arsenal Fc,2526
+Gabriel,Centre-Back,28.0,75000000.0,Arsenal Fc,2526
+Piero Hincapié,Centre-Back,24.0,50000000.0,Arsenal Fc,2526
+Cristhian Mosquera,Centre-Back,21.0,40000000.0,Arsenal Fc,2526
+Riccardo Calafiori,Left-Back,24.0,55000000.0,Arsenal Fc,2526
+Jurriën Timber,Right-Back,25.0,70000000.0,Arsenal Fc,2526
+Ben White,Right-Back,28.0,30000000.0,Arsenal Fc,2526
+Martín Zubimendi,Defensive Midfield,27.0,75000000.0,Arsenal Fc,2526
+Christian Nørgaard,Defensive Midfield,32.0,5000000.0,Arsenal Fc,2526
+Declan Rice,Central Midfield,27.0,120000000.0,Arsenal Fc,2526
+Myles Lewis-Skelly,Central Midfield,19.0,45000000.0,Arsenal Fc,2526
+Mikel Merino,Central Midfield,30.0,25000000.0,Arsenal Fc,2526
+Martin Ødegaard,Attacking Midfield,27.0,65000000.0,Arsenal Fc,2526
+Eberechi Eze,Attacking Midfield,27.0,65000000.0,Arsenal Fc,2526
+Gabriel Martinelli,Left Winger,25.0,45000000.0,Arsenal Fc,2526
+Leandro Trossard,Left Winger,31.0,18000000.0,Arsenal Fc,2526
+Bukayo Saka,Right Winger,24.0,110000000.0,Arsenal Fc,2526
+Noni Madueke,Right Winger,24.0,50000000.0,Arsenal Fc,2526
+Max Dowman,Right Winger,16.0,30000000.0,Arsenal Fc,2526
+Viktor Gyökeres,Centre-Forward,28.0,65000000.0,Arsenal Fc,2526
+Kai Havertz,Centre-Forward,27.0,55000000.0,Arsenal Fc,2526
+Gabriel Jesus,Centre-Forward,29.0,17000000.0,Arsenal Fc,2526
+Emiliano Martínez,Goalkeeper,33.0,12000000.0,Aston Villa,2526
+Marco Bizot,Goalkeeper,35.0,1500000.0,Aston Villa,2526
+Ezri Konsa,Centre-Back,28.0,40000000.0,Aston Villa,2526
+Pau Torres,Centre-Back,29.0,20000000.0,Aston Villa,2526
+Victor Lindelöf,Centre-Back,31.0,5000000.0,Aston Villa,2526
+Tyrone Mings,Centre-Back,33.0,3000000.0,Aston Villa,2526
+Ian Maatsen,Left-Back,24.0,30000000.0,Aston Villa,2526
+Lucas Digne,Left-Back,32.0,6000000.0,Aston Villa,2526
+Matty Cash,Right-Back,28.0,22000000.0,Aston Villa,2526
+Andrés García,Right-Back,23.0,6000000.0,Aston Villa,2526
+Amadou Onana,Defensive Midfield,24.0,45000000.0,Aston Villa,2526
+Boubacar Kamara,Defensive Midfield,26.0,40000000.0,Aston Villa,2526
+Lamare Bogarde,Defensive Midfield,22.0,18000000.0,Aston Villa,2526
+Youri Tielemans,Central Midfield,29.0,30000000.0,Aston Villa,2526
+Douglas Luiz,Central Midfield,28.0,18000000.0,Aston Villa,2526
+John McGinn,Central Midfield,31.0,13000000.0,Aston Villa,2526
+Ross Barkley,Central Midfield,32.0,4000000.0,Aston Villa,2526
+Morgan Rogers,Attacking Midfield,23.0,90000000.0,Aston Villa,2526
+Harvey Elliott,Attacking Midfield,23.0,20000000.0,Aston Villa,2526
+Jadon Sancho,Left Winger,26.0,18000000.0,Aston Villa,2526
+Emiliano Buendía,Left Winger,29.0,16000000.0,Aston Villa,2526
+Lewis Dobbin,Left Winger,23.0,7000000.0,Aston Villa,2526
+Leon Bailey,Right Winger,28.0,14000000.0,Aston Villa,2526
+Alysson,Right Winger,20.0,10000000.0,Aston Villa,2526
+Ollie Watkins,Centre-Forward,30.0,25000000.0,Aston Villa,2526
+Tammy Abraham,Centre-Forward,28.0,18000000.0,Aston Villa,2526
+Caoimhín Kelleher,Goalkeeper,27.0,28000000.0,Brentford Fc,2526
+Hákon Valdimarsson,Goalkeeper,24.0,2500000.0,Brentford Fc,2526
+Matthew Cox,Goalkeeper,23.0,700000.0,Brentford Fc,2526
+Ellery Balcombe,Goalkeeper,26.0,400000.0,Brentford Fc,2526
+Julian Eyestone,Goalkeeper,20.0,,Brentford Fc,2526
+Sepp van den Berg,Centre-Back,24.0,32000000.0,Brentford Fc,2526
+Nathan Collins,Centre-Back,25.0,30000000.0,Brentford Fc,2526
+Kristoffer Ajer,Centre-Back,28.0,18000000.0,Brentford Fc,2526
+Ethan Pinnock,Centre-Back,33.0,3000000.0,Brentford Fc,2526
+Rico Henry,Left-Back,28.0,13000000.0,Brentford Fc,2526
+Jayden Meghoma,Left-Back,19.0,2000000.0,Brentford Fc,2526
+Michael Kayode,Right-Back,21.0,40000000.0,Brentford Fc,2526
+Aaron Hickey,Right-Back,24.0,16000000.0,Brentford Fc,2526
+Vitaly Janelt,Defensive Midfield,28.0,16000000.0,Brentford Fc,2526
+Yunus Konak,Defensive Midfield,20.0,3500000.0,Brentford Fc,2526
+Jordan Henderson,Defensive Midfield,36.0,1200000.0,Brentford Fc,2526
+Yegor Yarmolyuk,Central Midfield,22.0,32000000.0,Brentford Fc,2526
+Mathias Jensen,Central Midfield,30.0,10000000.0,Brentford Fc,2526
+Frank Onyeka,Central Midfield,28.0,8000000.0,Brentford Fc,2526
+Josh Dasilva,Central Midfield,27.0,1500000.0,Brentford Fc,2526
+Ryan Trevitt,Central Midfield,23.0,275000.0,Brentford Fc,2526
+Keane Lewis-Potter Left Midfield,,25.0,25000000.0,Brentford Fc,2526
+Mikkel Damsgaard,Attacking Midfield,25.0,30000000.0,Brentford Fc,2526
+Antoni Milambo,Attacking Midfield,21.0,15000000.0,Brentford Fc,2526
+Fábio Carvalho,Attacking Midfield,23.0,8000000.0,Brentford Fc,2526
+Kevin Schade,Left Winger,24.0,35000000.0,Brentford Fc,2526
+Reiss Nelson,Left Winger,26.0,8000000.0,Brentford Fc,2526
+Dango Ouattara,Right Winger,24.0,35000000.0,Brentford Fc,2526
+Romelle Donovan,Right Winger,19.0,3500000.0,Brentford Fc,2526
+Igor Thiago,Centre-Forward,25.0,65000000.0,Brentford Fc,2526
+Kaye Furo,Centre-Forward,19.0,8000000.0,Brentford Fc,2526
+Bart Verbruggen,Goalkeeper,23.0,40000000.0,Brighton And Hove Albion,2526
+Carl Rushworth,Goalkeeper,24.0,16000000.0,Brighton And Hove Albion,2526
+James Beadle,Goalkeeper,21.0,6000000.0,Brighton And Hove Albion,2526
+Jason Steele,Goalkeeper,35.0,500000.0,Brighton And Hove Albion,2526
+Tom McGill,Goalkeeper,26.0,500000.0,Brighton And Hove Albion,2526
+Jan Paul van Hecke,Centre-Back,26.0,45000000.0,Brighton And Hove Albion,2526
+Olivier Boscagli,Centre-Back,28.0,15000000.0,Brighton And Hove Albion,2526
+Igor Julio,Centre-Back,28.0,10000000.0,Brighton And Hove Albion,2526
+Eiran Cashin,Centre-Back,24.0,5000000.0,Brighton And Hove Albion,2526
+Lewis Dunk,Centre-Back,34.0,3500000.0,Brighton And Hove Albion,2526
+Adam Webster,Centre-Back,31.0,3000000.0,Brighton And Hove Albion,2526
+Ferdi Kadıoğlu,Left-Back,26.0,35000000.0,Brighton And Hove Albion,2526
+Maxim De Cuyper,Left-Back,25.0,22000000.0,Brighton And Hove Albion,2526
+Mats Wieffer,Right-Back,26.0,25000000.0,Brighton And Hove Albion,2526
+Joël Veltman,Right-Back,34.0,1500000.0,Brighton And Hove Albion,2526
+Carlos Baleba,Defensive Midfield,22.0,55000000.0,Brighton And Hove Albion,2526
+Jack Hinshelwood,Defensive Midfield,21.0,28000000.0,Brighton And Hove Albion,2526
+Yasin Ayari,Central Midfield,22.0,35000000.0,Brighton And Hove Albion,2526
+Diego Gómez,Central Midfield,23.0,25000000.0,Brighton And Hove Albion,2526
+Matt O'Riley,Central Midfield,25.0,18000000.0,Brighton And Hove Albion,2526
+Malick Yalcouyé,Central Midfield,20.0,12000000.0,Brighton And Hove Albion,2526
+Pascal Groß,Central Midfield,35.0,2500000.0,Brighton And Hove Albion,2526
+James Milner,Central Midfield,40.0,500000.0,Brighton And Hove Albion,2526
+Kaoru Mitoma,Left Winger,29.0,22000000.0,Brighton And Hove Albion,2526
+Ibrahim Osman,Left Winger,21.0,7000000.0,Brighton And Hove Albion,2526
+Tom Watson,Left Winger,20.0,7000000.0,Brighton And Hove Albion,2526
+Yankuba Minteh,Right Winger,21.0,45000000.0,Brighton And Hove Albion,2526
+Amario Cozier-Duberry,Right Winger,21.0,5000000.0,Brighton And Hove Albion,2526
+Solly March,Right Winger,31.0,1000000.0,Brighton And Hove Albion,2526
+Georginio Rutter,Centre-Forward,24.0,30000000.0,Brighton And Hove Albion,2526
+Charalampos Kostoulas,Centre-Forward,19.0,25000000.0,Brighton And Hove Albion,2526
+Stefanos Tzimas,Centre-Forward,20.0,18000000.0,Brighton And Hove Albion,2526
+Danny Welbeck,Centre-Forward,35.0,3000000.0,Brighton And Hove Albion,2526
+Max Weiß,Goalkeeper,22.0,4000000.0,Burnley Fc,2526
+Martin Dúbravka,Goalkeeper,37.0,500000.0,Burnley Fc,2526
+Václav Hladký,Goalkeeper,35.0,150000.0,Burnley Fc,2526
+Maxime Estève,Centre-Back,24.0,28000000.0,Burnley Fc,2526
+Bashir Humphreys,Centre-Back,23.0,12000000.0,Burnley Fc,2526
+Axel Tuanzebe,Centre-Back,28.0,5000000.0,Burnley Fc,2526
+Hjalmar Ekdal,Centre-Back,27.0,5000000.0,Burnley Fc,2526
+Joe Worrall,Centre-Back,29.0,2000000.0,Burnley Fc,2526
+Jordan Beyer,Centre-Back,26.0,1500000.0,Burnley Fc,2526
+Quilindschy Hartman,Left-Back,24.0,16000000.0,Burnley Fc,2526
+Lucas Pires,Left-Back,25.0,4000000.0,Burnley Fc,2526
+Kyle Walker,Right-Back,36.0,1500000.0,Burnley Fc,2526
+Connor Roberts,Right-Back,30.0,1500000.0,Burnley Fc,2526
+Lesley Ugochukwu,Defensive Midfield,22.0,22000000.0,Burnley Fc,2526
+Florentino,Defensive Midfield,26.0,16000000.0,Burnley Fc,2526
+James Ward-Prowse,Central Midfield,31.0,5000000.0,Burnley Fc,2526
+Josh Cullen,Central Midfield,30.0,4000000.0,Burnley Fc,2526
+Josh Laurent,Central Midfield,31.0,1500000.0,Burnley Fc,2526
+Hannibal,Attacking Midfield,23.0,15000000.0,Burnley Fc,2526
+Aaron Ramsey,Attacking Midfield,23.0,6000000.0,Burnley Fc,2526
+Mike Tresor,Attacking Midfield,27.0,2000000.0,Burnley Fc,2526
+Jaidon Anthony,Left Winger,26.0,20000000.0,Burnley Fc,2526
+Jacob Bruun Larsen,Left Winger,27.0,4000000.0,Burnley Fc,2526
+Loum Tchaouna,Right Winger,22.0,13000000.0,Burnley Fc,2526
+Marcus Edwards,Right Winger,27.0,6000000.0,Burnley Fc,2526
+Zian Flemming,Centre-Forward,27.0,12000000.0,Burnley Fc,2526
+Lyle Foster,Centre-Forward,25.0,8000000.0,Burnley Fc,2526
+Zeki Amdouni,Centre-Forward,25.0,7000000.0,Burnley Fc,2526
+Armando Broja,Centre-Forward,24.0,5000000.0,Burnley Fc,2526
+Michael Obafemi,Centre-Forward,25.0,600000.0,Burnley Fc,2526
+Ashley Barnes,Centre-Forward,36.0,150000.0,Burnley Fc,2526
+Robert Sánchez,Goalkeeper,28.0,22000000.0,Chelsea Fc,2526
+Filip Jørgensen,Goalkeeper,24.0,15000000.0,Chelsea Fc,2526
+Gabriel Slonina,Goalkeeper,22.0,3000000.0,Chelsea Fc,2526
+Teddy Sharman-Lowe,Goalkeeper,23.0,500000.0,Chelsea Fc,2526
+Levi Colwill,Centre-Back,23.0,50000000.0,Chelsea Fc,2526
+Trevoh Chalobah,Centre-Back,26.0,40000000.0,Chelsea Fc,2526
+Wesley Fofana,Centre-Back,25.0,28000000.0,Chelsea Fc,2526
+Mamadou Sarr,Centre-Back,20.0,22000000.0,Chelsea Fc,2526
+Tosin Adarabioyo,Centre-Back,28.0,16000000.0,Chelsea Fc,2526
+Benoît Badiashile,Centre-Back,25.0,15000000.0,Chelsea Fc,2526
+Marc Cucurella,Left-Back,27.0,50000000.0,Chelsea Fc,2526
+Jorrel Hato,Left-Back,20.0,40000000.0,Chelsea Fc,2526
+Caleb Wiley,Left-Back,21.0,8000000.0,Chelsea Fc,2526
+Reece James,Right-Back,26.0,60000000.0,Chelsea Fc,2526
+Malo Gusto,Right-Back,23.0,35000000.0,Chelsea Fc,2526
+Josh Acheampong,Right-Back,20.0,25000000.0,Chelsea Fc,2526
+Moisés Caicedo,Defensive Midfield,24.0,100000000.0,Chelsea Fc,2526
+Roméo Lavia,Defensive Midfield,22.0,22000000.0,Chelsea Fc,2526
+Dário Essugo,Defensive Midfield,21.0,15000000.0,Chelsea Fc,2526
+Enzo Fernández,Central Midfield,25.0,90000000.0,Chelsea Fc,2526
+Andrey Santos,Central Midfield,22.0,40000000.0,Chelsea Fc,2526
+Cole Palmer,Attacking Midfield,24.0,100000000.0,Chelsea Fc,2526
+Jamie Gittens,Left Winger,21.0,30000000.0,Chelsea Fc,2526
+Alejandro Garnacho,Left Winger,21.0,28000000.0,Chelsea Fc,2526
+Mykhaylo Mudryk,Left Winger,25.0,,Chelsea Fc,2526
+Estêvão,Right Winger,19.0,80000000.0,Chelsea Fc,2526
+Pedro Neto,Right Winger,26.0,60000000.0,Chelsea Fc,2526
+João Pedro,Centre-Forward,24.0,80000000.0,Chelsea Fc,2526
+Liam Delap,Centre-Forward,23.0,28000000.0,Chelsea Fc,2526
+Marc Guiu,Centre-Forward,20.0,12000000.0,Chelsea Fc,2526
+Dean Henderson,Goalkeeper,29.0,28000000.0,Crystal Palace,2526
+Walter Benítez,Goalkeeper,33.0,4000000.0,Crystal Palace,2526
+Remi Matthews,Goalkeeper,32.0,200000.0,Crystal Palace,2526
+Maxence Lacroix,Centre-Back,26.0,50000000.0,Crystal Palace,2526
+Jaydee Canvot,Centre-Back,19.0,28000000.0,Crystal Palace,2526
+Chris Richards,Centre-Back,26.0,28000000.0,Crystal Palace,2526
+Chadi Riad,Centre-Back,23.0,15000000.0,Crystal Palace,2526
+Tyrick Mitchell,Left-Back,26.0,25000000.0,Crystal Palace,2526
+Borna Sosa,Left-Back,28.0,3000000.0,Crystal Palace,2526
+Rio Cardines,Left-Back,19.0,300000.0,Crystal Palace,2526
+Daniel Muñoz,Right-Back,30.0,22000000.0,Crystal Palace,2526
+Caleb Kporha,Right-Back,19.0,1000000.0,Crystal Palace,2526
+Nathaniel Clyne,Right-Back,35.0,300000.0,Crystal Palace,2526
+Adam Wharton,Defensive Midfield,22.0,70000000.0,Crystal Palace,2526
+Cheick Doucouré,Defensive Midfield,26.0,10000000.0,Crystal Palace,2526
+Jefferson Lerma,Defensive Midfield,31.0,6000000.0,Crystal Palace,2526
+David Ozoh,Defensive Midfield,21.0,2200000.0,Crystal Palace,2526
+Will Hughes,Central Midfield,31.0,5000000.0,Crystal Palace,2526
+Justin Devenny,Attacking Midfield,22.0,12000000.0,Crystal Palace,2526
+Daichi Kamada,Attacking Midfield,29.0,10000000.0,Crystal Palace,2526
+Ismaïla Sarr,Right Winger,28.0,40000000.0,Crystal Palace,2526
+Yéremy Pino,Right Winger,23.0,30000000.0,Crystal Palace,2526
+Brennan Johnson,Right Winger,25.0,30000000.0,Crystal Palace,2526
+Evann Guessand,Right Winger,24.0,25000000.0,Crystal Palace,2526
+Romain Esse,Right Winger,21.0,10000000.0,Crystal Palace,2526
+Jesurun Rak-Sakyi,Right Winger,23.0,6000000.0,Crystal Palace,2526
+Jørgen Strand Larsen,Centre-Forward,26.0,40000000.0,Crystal Palace,2526
+Jean-Philippe Mateta,Centre-Forward,28.0,30000000.0,Crystal Palace,2526
+Christantus Uche,Centre-Forward,23.0,12000000.0,Crystal Palace,2526
+Eddie Nketiah,Centre-Forward,27.0,10000000.0,Crystal Palace,2526
+Jordan Pickford,Goalkeeper,32.0,13000000.0,Everton Fc,2526
+Mark Travers,Goalkeeper,27.0,3000000.0,Everton Fc,2526
+Tom King,Goalkeeper,31.0,100000.0,Everton Fc,2526
+Jarrad Branthwaite,Centre-Back,23.0,40000000.0,Everton Fc,2526
+James Tarkowski,Centre-Back,33.0,5000000.0,Everton Fc,2526
+Michael Keane,Centre-Back,33.0,3000000.0,Everton Fc,2526
+Vitaliy Mykolenko,Left-Back,27.0,25000000.0,Everton Fc,2526
+Adam Aznou,Left-Back,20.0,6000000.0,Everton Fc,2526
+Jake O'Brien,Right-Back,25.0,18000000.0,Everton Fc,2526
+Nathan Patterson,Right-Back,24.0,10000000.0,Everton Fc,2526
+Séamus Coleman,Right-Back,37.0,200000.0,Everton Fc,2526
+James Garner,Defensive Midfield,25.0,45000000.0,Everton Fc,2526
+Idrissa Gueye,Defensive Midfield,36.0,500000.0,Everton Fc,2526
+Kiernan Dewsbury-Hall,Central Midfield,27.0,35000000.0,Everton Fc,2526
+Tim Iroegbunam,Central Midfield,22.0,18000000.0,Everton Fc,2526
+Carlos Alcaraz,Central Midfield,23.0,15000000.0,Everton Fc,2526
+Harrison Armstrong,Central Midfield,19.0,12000000.0,Everton Fc,2526
+Tyler Onyango,Central Midfield,23.0,350000.0,Everton Fc,2526
+Merlin Röhl,Attacking Midfield,23.0,16000000.0,Everton Fc,2526
+Jack Grealish,Left Winger,30.0,20000000.0,Everton Fc,2526
+Tyrique George,Left Winger,20.0,20000000.0,Everton Fc,2526
+Dwight McNeil,Left Winger,26.0,18000000.0,Everton Fc,2526
+Iliman Ndiaye,Right Winger,26.0,55000000.0,Everton Fc,2526
+Tyler Dibling,Right Winger,20.0,17000000.0,Everton Fc,2526
+Thierno Barry,Centre-Forward,23.0,30000000.0,Everton Fc,2526
+Beto,Centre-Forward,28.0,18000000.0,Everton Fc,2526
+Bernd Leno,Goalkeeper,34.0,6000000.0,Fulham Fc,2526
+Benjamin Lecomte,Goalkeeper,35.0,800000.0,Fulham Fc,2526
+Calvin Bassey,Centre-Back,26.0,28000000.0,Fulham Fc,2526
+Joachim Andersen,Centre-Back,30.0,20000000.0,Fulham Fc,2526
+Jorge Cuenca,Centre-Back,26.0,8000000.0,Fulham Fc,2526
+Issa Diop,Centre-Back,29.0,8000000.0,Fulham Fc,2526
+Ryan Sessegnon,Left-Back,26.0,22000000.0,Fulham Fc,2526
+Antonee Robinson,Left-Back,28.0,22000000.0,Fulham Fc,2526
+Kenny Tete,Right-Back,30.0,8000000.0,Fulham Fc,2526
+Timothy Castagne,Right-Back,30.0,8000000.0,Fulham Fc,2526
+Sander Berge,Defensive Midfield,28.0,25000000.0,Fulham Fc,2526
+Saša Lukić,Central Midfield,29.0,10000000.0,Fulham Fc,2526
+Harrison Reed,Central Midfield,31.0,2000000.0,Fulham Fc,2526
+Tom Cairney,Central Midfield,35.0,500000.0,Fulham Fc,2526
+Josh King,Attacking Midfield,19.0,25000000.0,Fulham Fc,2526
+Emile Smith Rowe,Attacking Midfield,25.0,20000000.0,Fulham Fc,2526
+Luke Harris,Attacking Midfield,21.0,900000.0,Fulham Fc,2526
+Kevin,Left Winger,23.0,25000000.0,Fulham Fc,2526
+Alex Iwobi,Left Winger,30.0,20000000.0,Fulham Fc,2526
+Oscar Bobb,Right Winger,22.0,28000000.0,Fulham Fc,2526
+Harry Wilson,Right Winger,29.0,25000000.0,Fulham Fc,2526
+Samuel Chukwueze,Right Winger,27.0,18000000.0,Fulham Fc,2526
+Rodrigo Muniz,Centre-Forward,25.0,20000000.0,Fulham Fc,2526
+Raúl Jiménez,Centre-Forward,35.0,3000000.0,Fulham Fc,2526
+Jonah Kusi-Asare,Centre-Forward,18.0,3000000.0,Fulham Fc,2526
+Lucas Perri,Goalkeeper,28.0,10000000.0,Leeds United,2526
+Illan Meslier,Goalkeeper,26.0,8000000.0,Leeds United,2526
+Karl Darlow,Goalkeeper,35.0,200000.0,Leeds United,2526
+Alex Cairns,Goalkeeper,33.0,50000.0,Leeds United,2526
+Pascal Struijk,Centre-Back,26.0,22000000.0,Leeds United,2526
+Jaka Bijol,Centre-Back,27.0,20000000.0,Leeds United,2526
+Joe Rodon,Centre-Back,28.0,18000000.0,Leeds United,2526
+Sebastiaan Bornauw,Centre-Back,27.0,8000000.0,Leeds United,2526
+Gabriel Gudmundsson,Left-Back,27.0,20000000.0,Leeds United,2526
+Sam Byram,Left-Back,32.0,400000.0,Leeds United,2526
+Jayden Bogle,Right-Back,25.0,15000000.0,Leeds United,2526
+James Justin,Right-Back,28.0,12000000.0,Leeds United,2526
+Ethan Ampadu,Defensive Midfield,25.0,30000000.0,Leeds United,2526
+Anton Stach,Defensive Midfield,27.0,28000000.0,Leeds United,2526
+Ilia Gruev,Defensive Midfield,26.0,12000000.0,Leeds United,2526
+Charlie Crew,Defensive Midfield,20.0,150000.0,Leeds United,2526
+Sean Longstaff,Central Midfield,28.0,15000000.0,Leeds United,2526
+Ao Tanaka,Central Midfield,27.0,13000000.0,Leeds United,2526
+Brenden Aaronson,Attacking Midfield,25.0,22000000.0,Leeds United,2526
+Facundo Buonanotte,Attacking Midfield,21.0,12000000.0,Leeds United,2526
+Noah Okafor,Left Winger,26.0,25000000.0,Leeds United,2526
+Wilfried Gnonto,Right Winger,22.0,16000000.0,Leeds United,2526
+Daniel James,Right Winger,28.0,10000000.0,Leeds United,2526
+Dominic Calvert-Lewin,Centre-Forward,29.0,22000000.0,Leeds United,2526
+Joël Piroe,Centre-Forward,26.0,10000000.0,Leeds United,2526
+Lukas Nmecha,Centre-Forward,27.0,10000000.0,Leeds United,2526
+Giorgi Mamardashvili,Goalkeeper,25.0,28000000.0,Liverpool Fc,2526
+Alisson,Goalkeeper,33.0,15000000.0,Liverpool Fc,2526
+Freddie Woodman,Goalkeeper,29.0,3000000.0,Liverpool Fc,2526
+Harvey Davies,Goalkeeper,22.0,500000.0,Liverpool Fc,2526
+Ibrahima Konaté,Centre-Back,27.0,45000000.0,Liverpool Fc,2526
+Giovanni Leoni,Centre-Back,19.0,25000000.0,Liverpool Fc,2526
+Virgil van Dijk,Centre-Back,34.0,15000000.0,Liverpool Fc,2526
+Joe Gomez,Centre-Back,29.0,13000000.0,Liverpool Fc,2526
+Rhys Williams,Centre-Back,25.0,500000.0,Liverpool Fc,2526
+Milos Kerkez,Left-Back,22.0,35000000.0,Liverpool Fc,2526
+Andrew Robertson,Left-Back,32.0,7000000.0,Liverpool Fc,2526
+Jeremie Frimpong,Right-Back,25.0,35000000.0,Liverpool Fc,2526
+Conor Bradley,Right-Back,22.0,25000000.0,Liverpool Fc,2526
+Calvin Ramsay,Right-Back,22.0,1500000.0,Liverpool Fc,2526
+Ryan Gravenberch,Defensive Midfield,24.0,80000000.0,Liverpool Fc,2526
+Wataru Endo,Defensive Midfield,33.0,4000000.0,Liverpool Fc,2526
+Stefan Bajcetic,Defensive Midfield,21.0,4000000.0,Liverpool Fc,2526
+Alexis Mac Allister,Central Midfield,27.0,70000000.0,Liverpool Fc,2526
+Curtis Jones,Central Midfield,25.0,35000000.0,Liverpool Fc,2526
+Trey Nyoni,Central Midfield,18.0,8000000.0,Liverpool Fc,2526
+Florian Wirtz,Attacking Midfield,23.0,100000000.0,Liverpool Fc,2526
+Dominik Szoboszlai,Attacking Midfield,25.0,100000000.0,Liverpool Fc,2526
+Cody Gakpo,Left Winger,27.0,60000000.0,Liverpool Fc,2526
+Rio Ngumoha,Left Winger,17.0,30000000.0,Liverpool Fc,2526
+Mohamed Salah,Right Winger,34.0,22000000.0,Liverpool Fc,2526
+Federico Chiesa,Right Winger,28.0,13000000.0,Liverpool Fc,2526
+Alexander Isak,Centre-Forward,26.0,85000000.0,Liverpool Fc,2526
+Hugo Ekitiké,Centre-Forward,24.0,80000000.0,Liverpool Fc,2526
+Gianluigi Donnarumma,Goalkeeper,27.0,45000000.0,Manchester City,2526
+James Trafford,Goalkeeper,23.0,25000000.0,Manchester City,2526
+Marcus Bettinelli,Goalkeeper,34.0,300000.0,Manchester City,2526
+Marc Guéhi,Centre-Back,25.0,70000000.0,Manchester City,2526
+Josko Gvardiol,Centre-Back,24.0,70000000.0,Manchester City,2526
+Rúben Dias,Centre-Back,29.0,55000000.0,Manchester City,2526
+Abdukodir Khusanov,Centre-Back,22.0,50000000.0,Manchester City,2526
+John Stones,Centre-Back,32.0,12000000.0,Manchester City,2526
+Nathan Aké,Centre-Back,31.0,12000000.0,Manchester City,2526
+Max Alleyne,Centre-Back,20.0,8000000.0,Manchester City,2526
+Nico O'Reilly,Left-Back,21.0,70000000.0,Manchester City,2526
+Rayan Aït-Nouri,Left-Back,25.0,40000000.0,Manchester City,2526
+Matheus Nunes,Right-Back,27.0,50000000.0,Manchester City,2526
+Rico Lewis,Right-Back,21.0,28000000.0,Manchester City,2526
+Rodri,Defensive Midfield,30.0,50000000.0,Manchester City,2526
+Nico González,Defensive Midfield,24.0,40000000.0,Manchester City,2526
+Kalvin Phillips,Defensive Midfield,30.0,2500000.0,Manchester City,2526
+Tijjani Reijnders,Central Midfield,27.0,50000000.0,Manchester City,2526
+Sverre Nypan,Central Midfield,19.0,13000000.0,Manchester City,2526
+Mateo Kovacic,Central Midfield,32.0,10000000.0,Manchester City,2526
+Rayan Cherki,Attacking Midfield,22.0,90000000.0,Manchester City,2526
+Phil Foden,Attacking Midfield,26.0,70000000.0,Manchester City,2526
+Bernardo Silva,Attacking Midfield,31.0,22000000.0,Manchester City,2526
+Jérémy Doku,Left Winger,24.0,75000000.0,Manchester City,2526
+Savinho,Left Winger,22.0,35000000.0,Manchester City,2526
+Antoine Semenyo,Right Winger,26.0,80000000.0,Manchester City,2526
+Erling Haaland,Centre-Forward,25.0,200000000.0,Manchester City,2526
+Omar Marmoush,Centre-Forward,27.0,50000000.0,Manchester City,2526
+Senne Lammens,Goalkeeper,23.0,35000000.0,Manchester United,2526
+Altay Bayındır,Goalkeeper,28.0,5000000.0,Manchester United,2526
+Tom Heaton,Goalkeeper,40.0,100000.0,Manchester United,2526
+Leny Yoro,Centre-Back,20.0,50000000.0,Manchester United,2526
+Lisandro Martínez,Centre-Back,28.0,40000000.0,Manchester United,2526
+Matthijs de Ligt,Centre-Back,26.0,30000000.0,Manchester United,2526
+Ayden Heaven,Centre-Back,19.0,30000000.0,Manchester United,2526
+Harry Maguire,Centre-Back,33.0,8000000.0,Manchester United,2526
+Tyler Fredricson,Centre-Back,21.0,3000000.0,Manchester United,2526
+Luke Shaw,Left-Back,30.0,8000000.0,Manchester United,2526
+Tyrell Malacia,Left-Back,26.0,4000000.0,Manchester United,2526
+Diogo Dalot,Right-Back,27.0,30000000.0,Manchester United,2526
+Noussair Mazraoui,Right-Back,28.0,18000000.0,Manchester United,2526
+Manuel Ugarte,Defensive Midfield,25.0,25000000.0,Manchester United,2526
+Casemiro,Defensive Midfield,34.0,6000000.0,Manchester United,2526
+Kobbie Mainoo,Central Midfield,21.0,70000000.0,Manchester United,2526
+Bruno Fernandes,Attacking Midfield,31.0,35000000.0,Manchester United,2526
+Mason Mount,Attacking Midfield,27.0,25000000.0,Manchester United,2526
+Patrick Dorgu,Left Winger,21.0,35000000.0,Manchester United,2526
+Bryan Mbeumo,Right Winger,26.0,75000000.0,Manchester United,2526
+Amad Diallo,Right Winger,23.0,45000000.0,Manchester United,2526
+Matheus Cunha,Centre-Forward,27.0,75000000.0,Manchester United,2526
+Benjamin Sesko,Centre-Forward,23.0,75000000.0,Manchester United,2526
+Joshua Zirkzee,Centre-Forward,25.0,20000000.0,Manchester United,2526
+Chido Obi,Centre-Forward,18.0,5000000.0,Manchester United,2526
+Aaron Ramsdale,Goalkeeper,28.0,12000000.0,Newcastle United,2526
+Nick Pope,Goalkeeper,34.0,5000000.0,Newcastle United,2526
+John Ruddy,Goalkeeper,39.0,100000.0,Newcastle United,2526
+Mark Gillespie,Goalkeeper,34.0,100000.0,Newcastle United,2526
+Malick Thiaw,Centre-Back,24.0,45000000.0,Newcastle United,2526
+Sven Botman,Centre-Back,26.0,35000000.0,Newcastle United,2526
+Fabian Schär,Centre-Back,34.0,4000000.0,Newcastle United,2526
+Dan Burn,Centre-Back,34.0,4000000.0,Newcastle United,2526
+Lewis Hall,Left-Back,21.0,40000000.0,Newcastle United,2526
+Matt Targett,Left-Back,30.0,3000000.0,Newcastle United,2526
+Alex Murphy,Left-Back,22.0,1500000.0,Newcastle United,2526
+Tino Livramento,Right-Back,23.0,45000000.0,Newcastle United,2526
+Kieran Trippier,Right-Back,35.0,1500000.0,Newcastle United,2526
+Harrison Ashby,Right-Back,24.0,1200000.0,Newcastle United,2526
+Emil Krafth,Right-Back,31.0,750000.0,Newcastle United,2526
+Sandro Tonali,Defensive Midfield,26.0,80000000.0,Newcastle United,2526
+Bruno Guimarães,Central Midfield,28.0,70000000.0,Newcastle United,2526
+Jacob Ramsey,Central Midfield,25.0,35000000.0,Newcastle United,2526
+Joelinton,Central Midfield,29.0,25000000.0,Newcastle United,2526
+Lewis Miley,Central Midfield,20.0,25000000.0,Newcastle United,2526
+Joe Willock,Central Midfield,26.0,14000000.0,Newcastle United,2526
+Joe White,Attacking Midfield,23.0,200000.0,Newcastle United,2526
+Anthony Gordon,Left Winger,25.0,65000000.0,Newcastle United,2526
+Harvey Barnes,Left Winger,28.0,32000000.0,Newcastle United,2526
+Anthony Elanga,Right Winger,24.0,32000000.0,Newcastle United,2526
+Jacob Murphy,Right Winger,31.0,12000000.0,Newcastle United,2526
+Nick Woltemade,Centre-Forward,24.0,55000000.0,Newcastle United,2526
+William Osula,Centre-Forward,22.0,28000000.0,Newcastle United,2526
+Yoane Wissa,Centre-Forward,29.0,25000000.0,Newcastle United,2526
+John Victor,Goalkeeper,30.0,5000000.0,Nottingham Forest,2526
+Stefan Ortega,Goalkeeper,33.0,4000000.0,Nottingham Forest,2526
+Matz Sels,Goalkeeper,34.0,3500000.0,Nottingham Forest,2526
+Angus Gunn,Goalkeeper,30.0,1000000.0,Nottingham Forest,2526
+Murillo,Centre-Back,23.0,50000000.0,Nottingham Forest,2526
+Nikola Milenković,Centre-Back,28.0,28000000.0,Nottingham Forest,2526
+Jair Cunha,Centre-Back,21.0,15000000.0,Nottingham Forest,2526
+Morato,Centre-Back,24.0,14000000.0,Nottingham Forest,2526
+Zach Abbott,Centre-Back,20.0,4000000.0,Nottingham Forest,2526
+Willy Boly,Centre-Back,35.0,300000.0,Nottingham Forest,2526
+Neco Williams,Left-Back,25.0,28000000.0,Nottingham Forest,2526
+Luca Netz,Left-Back,23.0,8000000.0,Nottingham Forest,2526
+Ola Aina,Right-Back,29.0,18000000.0,Nottingham Forest,2526
+Nicolò Savona,Right-Back,23.0,15000000.0,Nottingham Forest,2526
+Eric da Silva Moreira,Right-Back,20.0,800000.0,Nottingham Forest,2526
+Ibrahim Sangaré,Defensive Midfield,28.0,20000000.0,Nottingham Forest,2526
+Elliot Anderson,Central Midfield,23.0,75000000.0,Nottingham Forest,2526
+Nicolás Domínguez,Central Midfield,27.0,15000000.0,Nottingham Forest,2526
+Ryan Yates,Central Midfield,28.0,7000000.0,Nottingham Forest,2526
+Morgan Gibbs-White,Attacking Midfield,26.0,70000000.0,Nottingham Forest,2526
+Omari Hutchinson,Attacking Midfield,22.0,30000000.0,Nottingham Forest,2526
+James McAtee,Attacking Midfield,23.0,18000000.0,Nottingham Forest,2526
+Callum Hudson-Odoi,Left Winger,25.0,30000000.0,Nottingham Forest,2526
+Dan Ndoye,Right Winger,25.0,32000000.0,Nottingham Forest,2526
+Dilane Bakwa,Right Winger,23.0,28000000.0,Nottingham Forest,2526
+Igor Jesus,Centre-Forward,25.0,25000000.0,Nottingham Forest,2526
+Lorenzo Lucca,Centre-Forward,25.0,20000000.0,Nottingham Forest,2526
+Taiwo Awoniyi,Centre-Forward,28.0,8000000.0,Nottingham Forest,2526
+Chris Wood,Centre-Forward,34.0,5000000.0,Nottingham Forest,2526
+Robin Roefs,Goalkeeper,23.0,28000000.0,Sunderland Afc,2526
+Melker Ellborg,Goalkeeper,23.0,3000000.0,Sunderland Afc,2526
+Simon Moore,Goalkeeper,36.0,75000.0,Sunderland Afc,2526
+Dan Ballard,Centre-Back,26.0,20000000.0,Sunderland Afc,2526
+Omar Alderete,Centre-Back,29.0,13000000.0,Sunderland Afc,2526
+Luke O'Nien,Centre-Back,31.0,700000.0,Sunderland Afc,2526
+Dennis Cirkin,Left-Back,24.0,6000000.0,Sunderland Afc,2526
+Reinildo Mandava,Left-Back,32.0,4000000.0,Sunderland Afc,2526
+Trai Hume,Right-Back,24.0,22000000.0,Sunderland Afc,2526
+Lutsharel Geertruida,Right-Back,25.0,20000000.0,Sunderland Afc,2526
+Nordi Mukiele,Right-Back,28.0,16000000.0,Sunderland Afc,2526
+Granit Xhaka,Defensive Midfield,33.0,8000000.0,Sunderland Afc,2526
+Habib Diarra,Central Midfield,22.0,35000000.0,Sunderland Afc,2526
+Noah Sadiki,Central Midfield,21.0,35000000.0,Sunderland Afc,2526
+Enzo Le Fée,Central Midfield,26.0,28000000.0,Sunderland Afc,2526
+Abdoullah Ba,Right Midfield,22.0,1500000.0,Sunderland Afc,2526
+Chris Rigg,Attacking Midfield,19.0,25000000.0,Sunderland Afc,2526
+Milan Aleksic,Attacking Midfield,20.0,700000.0,Sunderland Afc,2526
+Harrison Jones,Attacking Midfield,21.0,150000.0,Sunderland Afc,2526
+Nilson Angulo,Left Winger,23.0,17000000.0,Sunderland Afc,2526
+Romaine Mundle,Left Winger,23.0,7000000.0,Sunderland Afc,2526
+Chemsdine Talbi,Right Winger,21.0,25000000.0,Sunderland Afc,2526
+Bertrand Traoré,Right Winger,30.0,4000000.0,Sunderland Afc,2526
+Jocelin Ta Bi,Right Winger,21.0,2500000.0,Sunderland Afc,2526
+Brian Brobbey,Centre-Forward,24.0,30000000.0,Sunderland Afc,2526
+Wilson Isidor,Centre-Forward,25.0,18000000.0,Sunderland Afc,2526
+Eliezer Mayenda,Centre-Forward,21.0,16000000.0,Sunderland Afc,2526
+Ahmed Abdullahi,Centre-Forward,22.0,800000.0,Sunderland Afc,2526
+Guglielmo Vicario,Goalkeeper,29.0,18000000.0,Tottenham Hotspur,2526
+Antonín Kinský,Goalkeeper,23.0,15000000.0,Tottenham Hotspur,2526
+Brandon Austin,Goalkeeper,27.0,500000.0,Tottenham Hotspur,2526
+Micky van de Ven,Centre-Back,25.0,50000000.0,Tottenham Hotspur,2526
+Cristian Romero,Centre-Back,28.0,45000000.0,Tottenham Hotspur,2526
+Kevin Danso,Centre-Back,27.0,20000000.0,Tottenham Hotspur,2526
+Radu Drăgușin,Centre-Back,24.0,16000000.0,Tottenham Hotspur,2526
+Ashley Phillips,Centre-Back,21.0,7000000.0,Tottenham Hotspur,2526
+Ben Davies,Centre-Back,33.0,3000000.0,Tottenham Hotspur,2526
+Destiny Udogie,Left-Back,23.0,30000000.0,Tottenham Hotspur,2526
+Djed Spence,Left-Back,25.0,30000000.0,Tottenham Hotspur,2526
+Souza,Left-Back,20.0,12000000.0,Tottenham Hotspur,2526
+Pedro Porro,Right-Back,26.0,35000000.0,Tottenham Hotspur,2526
+Rodrigo Bentancur,Defensive Midfield,29.0,20000000.0,Tottenham Hotspur,2526
+João Palhinha,Defensive Midfield,30.0,15000000.0,Tottenham Hotspur,2526
+Yves Bissouma,Defensive Midfield,29.0,10000000.0,Tottenham Hotspur,2526
+Archie Gray,Central Midfield,20.0,35000000.0,Tottenham Hotspur,2526
+Lucas Bergvall,Central Midfield,20.0,35000000.0,Tottenham Hotspur,2526
+Conor Gallagher,Central Midfield,26.0,32000000.0,Tottenham Hotspur,2526
+Pape Matar Sarr,Central Midfield,23.0,30000000.0,Tottenham Hotspur,2526
+Xavi Simons,Attacking Midfield,23.0,40000000.0,Tottenham Hotspur,2526
+James Maddison,Attacking Midfield,29.0,20000000.0,Tottenham Hotspur,2526
+Dejan Kulusevski,Attacking Midfield,26.0,17000000.0,Tottenham Hotspur,2526
+Wilson Odobert,Left Winger,21.0,18000000.0,Tottenham Hotspur,2526
+Mohammed Kudus,Right Winger,25.0,50000000.0,Tottenham Hotspur,2526
+Dominic Solanke,Centre-Forward,28.0,28000000.0,Tottenham Hotspur,2526
+Richarlison,Centre-Forward,29.0,25000000.0,Tottenham Hotspur,2526
+Mathys Tel,Centre-Forward,21.0,22000000.0,Tottenham Hotspur,2526
+Randal Kolo Muani,Centre-Forward,27.0,20000000.0,Tottenham Hotspur,2526
+Dane Scarlett,Centre-Forward,22.0,1500000.0,Tottenham Hotspur,2526
+Mads Hermansen,Goalkeeper,25.0,15000000.0,West Ham United,2526
+Alphonse Areola,Goalkeeper,33.0,4000000.0,West Ham United,2526
+Lukasz Fabianski,Goalkeeper,41.0,150000.0,West Ham United,2526
+Jean-Clair Todibo,Centre-Back,26.0,22000000.0,West Ham United,2526
+Konstantinos Mavropanos,Centre-Back,28.0,18000000.0,West Ham United,2526
+Axel Disasi,Centre-Back,28.0,15000000.0,West Ham United,2526
+Maximilian Kilman,Centre-Back,29.0,13000000.0,West Ham United,2526
+El Hadji Malick Diouf,Left-Back,21.0,28000000.0,West Ham United,2526
+Oliver Scarles,Left-Back,20.0,10000000.0,West Ham United,2526
+Aaron Wan-Bissaka,Right-Back,28.0,15000000.0,West Ham United,2526
+Kyle Walker-Peters,Right-Back,29.0,12000000.0,West Ham United,2526
+Soungoutou Magassa,Defensive Midfield,22.0,17000000.0,West Ham United,2526
+Tomáš Souček,Defensive Midfield,31.0,10000000.0,West Ham United,2526
+Freddie Potts,Defensive Midfield,22.0,10000000.0,West Ham United,2526
+Mohamadou Kanté,Defensive Midfield,20.0,1000000.0,West Ham United,2526
+Mateus Fernandes,Central Midfield,21.0,50000000.0,West Ham United,2526
+Crysencio Summerville,Left Winger,24.0,35000000.0,West Ham United,2526
+Keiber Lamadrid,Left Winger,22.0,1200000.0,West Ham United,2526
+Jarrod Bowen,Right Winger,29.0,30000000.0,West Ham United,2526
+Adama Traoré,Right Winger,30.0,6000000.0,West Ham United,2526
+Taty Castellanos,Centre-Forward,27.0,28000000.0,West Ham United,2526
+Pablo,Centre-Forward,22.0,18000000.0,West Ham United,2526
+Callum Wilson,Centre-Forward,34.0,4000000.0,West Ham United,2526
+José Sá,Goalkeeper,33.0,3500000.0,Wolverhampton Wanderers,2526
+Sam Johnstone,Goalkeeper,33.0,2000000.0,Wolverhampton Wanderers,2526
+Daniel Bentley,Goalkeeper,32.0,800000.0,Wolverhampton Wanderers,2526
+Ladislav Krejčí,Centre-Back,27.0,22000000.0,Wolverhampton Wanderers,2526
+Toti,Centre-Back,27.0,18000000.0,Wolverhampton Wanderers,2526
+Yerson Mosquera,Centre-Back,25.0,12000000.0,Wolverhampton Wanderers,2526
+Santiago Bueno,Centre-Back,27.0,10000000.0,Wolverhampton Wanderers,2526
+Nasser Djiga,Centre-Back,23.0,6000000.0,Wolverhampton Wanderers,2526
+Hugo Bueno,Left-Back,23.0,12000000.0,Wolverhampton Wanderers,2526
+David Møller Wolfe,Left-Back,24.0,8000000.0,Wolverhampton Wanderers,2526
+Jackson Tchatchoua,Right-Back,24.0,12000000.0,Wolverhampton Wanderers,2526
+Pedro Lima,Right-Back,19.0,4000000.0,Wolverhampton Wanderers,2526
+Ki-Jana Hoever,Right-Back,24.0,3500000.0,Wolverhampton Wanderers,2526
+Matt Doherty,Right-Back,34.0,1000000.0,Wolverhampton Wanderers,2526
+André,Defensive Midfield,24.0,25000000.0,Wolverhampton Wanderers,2526
+João Gomes,Central Midfield,25.0,40000000.0,Wolverhampton Wanderers,2526
+Jean-Ricner Bellegarde,Central Midfield,27.0,16000000.0,Wolverhampton Wanderers,2526
+Tommy Doyle,Central Midfield,24.0,7000000.0,Wolverhampton Wanderers,2526
+Rodrigo Gomes Left Midfield,,22.0,15000000.0,Wolverhampton Wanderers,2526
+Mateus Mané,Attacking Midfield,18.0,20000000.0,Wolverhampton Wanderers,2526
+Angel Gomes,Attacking Midfield,25.0,10000000.0,Wolverhampton Wanderers,2526
+Tawanda Chirewa,Attacking Midfield,22.0,450000.0,Wolverhampton Wanderers,2526
+Enso González,Left Winger,21.0,2500000.0,Wolverhampton Wanderers,2526
+Tolu Arokodare,Centre-Forward,25.0,20000000.0,Wolverhampton Wanderers,2526
+Adam Armstrong,Centre-Forward,29.0,6000000.0,Wolverhampton Wanderers,2526
+Hee-chan Hwang,Centre-Forward,30.0,6000000.0,Wolverhampton Wanderers,2526
+Nathan Fraser,Centre-Forward,21.0,600000.0,Wolverhampton Wanderers,2526
