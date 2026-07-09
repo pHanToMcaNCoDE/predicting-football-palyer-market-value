@@ -1,0 +1,803 @@
+player_name,position,Age,market_value_eur,club,season
+Kepa Arrizabalaga,Goalkeeper,30.0,10000000.0,Afc Bournemouth,2425
+Mark Travers,Goalkeeper,26.0,4000000.0,Afc Bournemouth,2425
+Neto,Goalkeeper,35.0,1500000.0,Afc Bournemouth,2425
+Callan McKenna,Goalkeeper,18.0,600000.0,Afc Bournemouth,2425
+Will Dennis,Goalkeeper,24.0,350000.0,Afc Bournemouth,2425
+Dean Huijsen,Centre-Back,20.0,60000000.0,Afc Bournemouth,2425
+Ilya Zabarnyi,Centre-Back,22.0,42000000.0,Afc Bournemouth,2425
+Marcos Senesi,Centre-Back,28.0,22000000.0,Afc Bournemouth,2425
+Chris Mepham,Centre-Back,27.0,6000000.0,Afc Bournemouth,2425
+James Hill,Centre-Back,23.0,3000000.0,Afc Bournemouth,2425
+Matai Akinmboni,Centre-Back,18.0,1000000.0,Afc Bournemouth,2425
+Max Kinsey,Centre-Back,20.0,,Afc Bournemouth,2425
+Milos Kerkez,Left-Back,21.0,45000000.0,Afc Bournemouth,2425
+Julio Soler,Left-Back,20.0,8000000.0,Afc Bournemouth,2425
+Archie Harris,Left-Back,20.0,100000.0,Afc Bournemouth,2425
+Julián Araujo,Right-Back,23.0,10000000.0,Afc Bournemouth,2425
+Max Aarons,Right-Back,25.0,6000000.0,Afc Bournemouth,2425
+Adam Smith,Right-Back,34.0,750000.0,Afc Bournemouth,2425
+Tyler Adams,Defensive Midfield,26.0,18000000.0,Afc Bournemouth,2425
+Ben Winterburn,Defensive Midfield,20.0,500000.0,Afc Bournemouth,2425
+Alex Scott,Central Midfield,21.0,20000000.0,Afc Bournemouth,2425
+Lewis Cook,Central Midfield,28.0,15000000.0,Afc Bournemouth,2425
+Philip Billing,Central Midfield,29.0,10000000.0,Afc Bournemouth,2425
+Ryan Christie,Central Midfield,30.0,10000000.0,Afc Bournemouth,2425
+Zain Silcott-Duberry,Left Midfield,19.0,200000.0,Afc Bournemouth,2425
+Justin Kluivert,Attacking Midfield,26.0,35000000.0,Afc Bournemouth,2425
+Marcus Tavernier,Attacking Midfield,26.0,18000000.0,Afc Bournemouth,2425
+Hamed Traoré,Left Winger,25.0,20000000.0,Afc Bournemouth,2425
+Luis Sinisterra,Left Winger,26.0,15000000.0,Afc Bournemouth,2425
+Jaidon Anthony,Left Winger,25.0,9000000.0,Afc Bournemouth,2425
+Antoine Semenyo,Right Winger,25.0,40000000.0,Afc Bournemouth,2425
+Dango Ouattara,Right Winger,23.0,28000000.0,Afc Bournemouth,2425
+David Brooks,Right Winger,27.0,10000000.0,Afc Bournemouth,2425
+Dominic Sadi,Right Winger,21.0,150000.0,Afc Bournemouth,2425
+Evanilson,Centre-Forward,25.0,35000000.0,Afc Bournemouth,2425
+Enes Ünal,Centre-Forward,28.0,10000000.0,Afc Bournemouth,2425
+Daniel Jebbison,Centre-Forward,21.0,4000000.0,Afc Bournemouth,2425
+Remy Rees-Dottin,Centre-Forward,19.0,300000.0,Afc Bournemouth,2425
+Daniel Adu-Adjei,Centre-Forward,20.0,150000.0,Afc Bournemouth,2425
+David Raya,Goalkeeper,29.0,40000000.0,Arsenal Fc,2425
+Aaron Ramsdale,Goalkeeper,27.0,16000000.0,Arsenal Fc,2425
+Neto,Goalkeeper,35.0,1500000.0,Arsenal Fc,2425
+Jack Porter,Goalkeeper,16.0,400000.0,Arsenal Fc,2425
+Alexéi Rojas,Goalkeeper,19.0,250000.0,Arsenal Fc,2425
+Tommy Setford,Goalkeeper,19.0,,Arsenal Fc,2425
+William Saliba,Centre-Back,24.0,80000000.0,Arsenal Fc,2425
+Gabriel,Centre-Back,27.0,75000000.0,Arsenal Fc,2425
+Jakub Kiwior,Centre-Back,25.0,28000000.0,Arsenal Fc,2425
+Takehiro Tomiyasu,Centre-Back,26.0,18000000.0,Arsenal Fc,2425
+Ayden Heaven,Centre-Back,18.0,5000000.0,Arsenal Fc,2425
+Zane Monlouis,Centre-Back,21.0,400000.0,Arsenal Fc,2425
+Maldini Kacurri,Centre-Back,19.0,300000.0,Arsenal Fc,2425
+Brayden Clarke,Centre-Back,17.0,,Arsenal Fc,2425
+Riccardo Calafiori,Left-Back,23.0,35000000.0,Arsenal Fc,2425
+Oleksandr Zinchenko,Left-Back,28.0,20000000.0,Arsenal Fc,2425
+Kieran Tierney,Left-Back,28.0,9000000.0,Arsenal Fc,2425
+Jurriën Timber,Right-Back,24.0,55000000.0,Arsenal Fc,2425
+Ben White,Right-Back,27.0,45000000.0,Arsenal Fc,2425
+Josh Robinson,Right-Back,20.0,,Arsenal Fc,2425
+Josh Nichols,Right-Back,18.0,,Arsenal Fc,2425
+Thomas Partey,Defensive Midfield,32.0,14000000.0,Arsenal Fc,2425
+Jorginho,Defensive Midfield,33.0,6000000.0,Arsenal Fc,2425
+Jack Henry-Francis,Defensive Midfield,21.0,200000.0,Arsenal Fc,2425
+Declan Rice,Central Midfield,26.0,120000000.0,Arsenal Fc,2425
+Myles Lewis-Skelly,Central Midfield,18.0,45000000.0,Arsenal Fc,2425
+Mikel Merino,Central Midfield,29.0,35000000.0,Arsenal Fc,2425
+Salah Oulad,Central Midfield,21.0,400000.0,Arsenal Fc,2425
+Jimi Gower,Central Midfield,20.0,,Arsenal Fc,2425
+Michał Rosiak,Right Midfield,19.0,,Arsenal Fc,2425
+Martin Ødegaard,Attacking Midfield,26.0,85000000.0,Arsenal Fc,2425
+Ethan Nwaneri,Attacking Midfield,18.0,55000000.0,Arsenal Fc,2425
+Gabriel Martinelli,Left Winger,24.0,55000000.0,Arsenal Fc,2425
+Leandro Trossard,Left Winger,30.0,22000000.0,Arsenal Fc,2425
+Reiss Nelson,Left Winger,25.0,16000000.0,Arsenal Fc,2425
+Bukayo Saka,Right Winger,23.0,150000000.0,Arsenal Fc,2425
+Raheem Sterling,Right Winger,30.0,10000000.0,Arsenal Fc,2425
+Ismeal Kabia,Right Winger,19.0,,Arsenal Fc,2425
+Kai Havertz,Centre-Forward,26.0,65000000.0,Arsenal Fc,2425
+Gabriel Jesus,Centre-Forward,28.0,32000000.0,Arsenal Fc,2425
+Eddie Nketiah,Centre-Forward,26.0,18000000.0,Arsenal Fc,2425
+Nathan Butler-Oyedeji,Centre-Forward,22.0,1000000.0,Arsenal Fc,2425
+Emiliano Martínez,Goalkeeper,32.0,20000000.0,Aston Villa,2425
+Joe Gauci,Goalkeeper,24.0,1500000.0,Aston Villa,2425
+Robin Olsen,Goalkeeper,35.0,1000000.0,Aston Villa,2425
+Oliwier Zych,Goalkeeper,21.0,800000.0,Aston Villa,2425
+Sam Proctor,Goalkeeper,18.0,,Aston Villa,2425
+Ezri Konsa,Centre-Back,27.0,35000000.0,Aston Villa,2425
+Pau Torres,Centre-Back,28.0,32000000.0,Aston Villa,2425
+Axel Disasi,Centre-Back,27.0,22000000.0,Aston Villa,2425
+Diego Carlos,Centre-Back,32.0,9500000.0,Aston Villa,2425
+Tyrone Mings,Centre-Back,32.0,5000000.0,Aston Villa,2425
+Kortney Hause,Centre-Back,29.0,1000000.0,Aston Villa,2425
+Sil Swinkels,Centre-Back,21.0,150000.0,Aston Villa,2425
+Ian Maatsen,Left-Back,23.0,28000000.0,Aston Villa,2425
+Lucas Digne,Left-Back,31.0,10000000.0,Aston Villa,2425
+Travis Patterson,Left-Back,19.0,,Aston Villa,2425
+Matty Cash,Right-Back,27.0,25000000.0,Aston Villa,2425
+Kosta Nedeljkovic,Right-Back,19.0,10000000.0,Aston Villa,2425
+Andrés García,Right-Back,22.0,7000000.0,Aston Villa,2425
+Triston Rowe,Right-Back,18.0,,Aston Villa,2425
+Amadou Onana,Defensive Midfield,23.0,50000000.0,Aston Villa,2425
+Boubacar Kamara,Defensive Midfield,25.0,40000000.0,Aston Villa,2425
+Lamare Bogarde,Defensive Midfield,21.0,6000000.0,Aston Villa,2425
+Youri Tielemans,Central Midfield,28.0,38000000.0,Aston Villa,2425
+Jacob Ramsey,Central Midfield,24.0,32000000.0,Aston Villa,2425
+John McGinn,Central Midfield,30.0,16000000.0,Aston Villa,2425
+Ross Barkley,Central Midfield,31.0,6000000.0,Aston Villa,2425
+Aidan Borland,Central Midfield,18.0,,Aston Villa,2425
+Morgan Rogers,Attacking Midfield,22.0,55000000.0,Aston Villa,2425
+Marco Asensio,Attacking Midfield,29.0,20000000.0,Aston Villa,2425
+Jamaldeen Jimoh-Aloba,Attacking Midfield,18.0,300000.0,Aston Villa,2425
+Marcus Rashford,Left Winger,27.0,50000000.0,Aston Villa,2425
+Jaden Philogene,Left Winger,23.0,16000000.0,Aston Villa,2425
+Emiliano Buendía,Left Winger,28.0,15000000.0,Aston Villa,2425
+Kadan Young,Left Winger,19.0,300000.0,Aston Villa,2425
+Ben Broggio,Left Winger,18.0,,Aston Villa,2425
+Leon Bailey,Right Winger,27.0,28000000.0,Aston Villa,2425
+Bradley Burrowes,Right Winger,17.0,,Aston Villa,2425
+Ollie Watkins,Centre-Forward,29.0,40000000.0,Aston Villa,2425
+Jhon Durán,Centre-Forward,21.0,35000000.0,Aston Villa,2425
+Donyell Malen,Centre-Forward,26.0,25000000.0,Aston Villa,2425
+Kobei Moore,Centre-Forward,20.0,,Aston Villa,2425
+Mark Flekken,Goalkeeper,32.0,10000000.0,Brentford Fc,2425
+Hákon Valdimarsson,Goalkeeper,23.0,2500000.0,Brentford Fc,2425
+Matthew Cox,Goalkeeper,22.0,800000.0,Brentford Fc,2425
+Ben Winterbottom,Goalkeeper,23.0,,Brentford Fc,2425
+Julian Eyestone,Goalkeeper,19.0,,Brentford Fc,2425
+Nathan Collins,Centre-Back,24.0,28000000.0,Brentford Fc,2425
+Sepp van den Berg,Centre-Back,23.0,22000000.0,Brentford Fc,2425
+Kristoffer Ajer,Centre-Back,27.0,18000000.0,Brentford Fc,2425
+Ethan Pinnock,Centre-Back,32.0,7000000.0,Brentford Fc,2425
+Ben Mee,Centre-Back,35.0,700000.0,Brentford Fc,2425
+Ji-soo Kim,Centre-Back,20.0,600000.0,Brentford Fc,2425
+Benjamin Fredrick,Centre-Back,20.0,150000.0,Brentford Fc,2425
+Benjamin Arthur,Centre-Back,19.0,,Brentford Fc,2425
+Rico Henry,Left-Back,27.0,15000000.0,Brentford Fc,2425
+Jayden Meghoma,Left-Back,19.0,500000.0,Brentford Fc,2425
+Michael Kayode,Right-Back,20.0,18000000.0,Brentford Fc,2425
+Aaron Hickey,Right-Back,23.0,10000000.0,Brentford Fc,2425
+Mads Roerslev,Right-Back,26.0,6000000.0,Brentford Fc,2425
+Vitaly Janelt,Defensive Midfield,27.0,20000000.0,Brentford Fc,2425
+Christian Nørgaard,Defensive Midfield,31.0,11000000.0,Brentford Fc,2425
+Yunus Konak,Defensive Midfield,19.0,4500000.0,Brentford Fc,2425
+Yegor Yarmolyuk,Central Midfield,21.0,15000000.0,Brentford Fc,2425
+Mathias Jensen,Central Midfield,29.0,14000000.0,Brentford Fc,2425
+Frank Onyeka,Central Midfield,27.0,7000000.0,Brentford Fc,2425
+Josh Dasilva,Central Midfield,26.0,5000000.0,Brentford Fc,2425
+Paris Maghoma,Central Midfield,24.0,800000.0,Brentford Fc,2425
+Ryan Trevitt,Central Midfield,22.0,275000.0,Brentford Fc,2425
+Keane Lewis-Potter,Left Midfield,24.0,23000000.0,Brentford Fc,2425
+Mikkel Damsgaard,Attacking Midfield,24.0,28000000.0,Brentford Fc,2425
+Fábio Carvalho,Attacking Midfield,22.0,14000000.0,Brentford Fc,2425
+Myles Peart-Harris,Attacking Midfield,22.0,900000.0,Brentford Fc,2425
+Kevin Schade,Left Winger,23.0,30000000.0,Brentford Fc,2425
+Gustavo Nunes,Left Winger,19.0,10000000.0,Brentford Fc,2425
+Tony Yogane,Left Winger,19.0,125000.0,Brentford Fc,2425
+Bryan Mbeumo,Right Winger,25.0,55000000.0,Brentford Fc,2425
+Yoane Wissa,Centre-Forward,28.0,32000000.0,Brentford Fc,2425
+Igor Thiago,Centre-Forward,24.0,18000000.0,Brentford Fc,2425
+Iwan Morgan,Centre-Forward,19.0,,Brentford Fc,2425
+Bart Verbruggen,Goalkeeper,22.0,30000000.0,Brighton And Hove Albion,2425
+Carl Rushworth,Goalkeeper,23.0,3000000.0,Brighton And Hove Albion,2425
+Jason Steele,Goalkeeper,34.0,1500000.0,Brighton And Hove Albion,2425
+Tom McGill,Goalkeeper,25.0,600000.0,Brighton And Hove Albion,2425
+Killian Cahill,Goalkeeper,21.0,150000.0,Brighton And Hove Albion,2425
+Jan Paul van Hecke,Centre-Back,25.0,32000000.0,Brighton And Hove Albion,2425
+Igor Julio,Centre-Back,27.0,20000000.0,Brighton And Hove Albion,2425
+Adam Webster,Centre-Back,30.0,11000000.0,Brighton And Hove Albion,2425
+Eiran Cashin,Centre-Back,23.0,8000000.0,Brighton And Hove Albion,2425
+Lewis Dunk,Centre-Back,33.0,6000000.0,Brighton And Hove Albion,2425
+Ruairi McConville,Centre-Back,20.0,1800000.0,Brighton And Hove Albion,2425
+Odeluga Offiah,Centre-Back,22.0,600000.0,Brighton And Hove Albion,2425
+Ed Turns,Centre-Back,22.0,350000.0,Brighton And Hove Albion,2425
+Freddie Simmonds,Centre-Back,17.0,,Brighton And Hove Albion,2425
+Pervis Estupiñán,Left-Back,27.0,30000000.0,Brighton And Hove Albion,2425
+Ferdi Kadıoğlu,Left-Back,25.0,25000000.0,Brighton And Hove Albion,2425
+Jacob Slater,Left-Back,20.0,200000.0,Brighton And Hove Albion,2425
+Imari Samuels,Left-Back,22.0,100000.0,Brighton And Hove Albion,2425
+Mats Wieffer,Right-Back,25.0,25000000.0,Brighton And Hove Albion,2425
+Tariq Lamptey,Right-Back,24.0,11000000.0,Brighton And Hove Albion,2425
+Joël Veltman,Right-Back,33.0,4000000.0,Brighton And Hove Albion,2425
+Charlie Tasker,Right-Back,19.0,200000.0,Brighton And Hove Albion,2425
+Carlos Baleba,Defensive Midfield,21.0,40000000.0,Brighton And Hove Albion,2425
+Jack Hinshelwood,Defensive Midfield,20.0,24000000.0,Brighton And Hove Albion,2425
+Billy Gilmour,Defensive Midfield,24.0,20000000.0,Brighton And Hove Albion,2425
+Yasin Ayari,Central Midfield,21.0,22000000.0,Brighton And Hove Albion,2425
+Matt O'Riley,Central Midfield,24.0,22000000.0,Brighton And Hove Albion,2425
+Malick Yalcouyé,Central Midfield,19.0,17000000.0,Brighton And Hove Albion,2425
+Diego Gómez,Central Midfield,22.0,14000000.0,Brighton And Hove Albion,2425
+Jakub Moder,Central Midfield,26.0,12000000.0,Brighton And Hove Albion,2425
+Valentín Barco,Central Midfield,20.0,12000000.0,Brighton And Hove Albion,2425
+James Milner,Central Midfield,39.0,1000000.0,Brighton And Hove Albion,2425
+Jensen Weir,Central Midfield,23.0,350000.0,Brighton And Hove Albion,2425
+Joe Knight,Central Midfield,19.0,,Brighton And Hove Albion,2425
+Brajan Gruda,Attacking Midfield,21.0,25000000.0,Brighton And Hove Albion,2425
+Julio Enciso,Attacking Midfield,21.0,22000000.0,Brighton And Hove Albion,2425
+Harry Howell,Attacking Midfield,17.0,,Brighton And Hove Albion,2425
+Kaoru Mitoma,Left Winger,28.0,40000000.0,Brighton And Hove Albion,2425
+Simon Adingra,Left Winger,23.0,28000000.0,Brighton And Hove Albion,2425
+Jeremy Sarmiento,Left Winger,23.0,7000000.0,Brighton And Hove Albion,2425
+Cameron Peupion,Left Winger,22.0,225000.0,Brighton And Hove Albion,2425
+Yankuba Minteh,Right Winger,20.0,30000000.0,Brighton And Hove Albion,2425
+Solly March,Right Winger,30.0,6000000.0,Brighton And Hove Albion,2425
+Amario Cozier-Duberry,Right Winger,20.0,2000000.0,Brighton And Hove Albion,2425
+João Pedro,Centre-Forward,23.0,50000000.0,Brighton And Hove Albion,2425
+Georginio Rutter,Centre-Forward,23.0,32000000.0,Brighton And Hove Albion,2425
+Evan Ferguson,Centre-Forward,20.0,25000000.0,Brighton And Hove Albion,2425
+Danny Welbeck,Centre-Forward,34.0,5000000.0,Brighton And Hove Albion,2425
+Mark O'Mahony,Centre-Forward,20.0,500000.0,Brighton And Hove Albion,2425
+Robert Sánchez,Goalkeeper,27.0,20000000.0,Chelsea Fc,2425
+Filip Jørgensen,Goalkeeper,23.0,18000000.0,Chelsea Fc,2425
+Mike Penders,Goalkeeper,19.0,12000000.0,Chelsea Fc,2425
+Gabriel Slonina,Goalkeeper,21.0,3500000.0,Chelsea Fc,2425
+Lucas Bergström,Goalkeeper,22.0,700000.0,Chelsea Fc,2425
+Marcus Bettinelli,Goalkeeper,33.0,600000.0,Chelsea Fc,2425
+Max Merrick,Goalkeeper,19.0,,Chelsea Fc,2425
+Ted Curd,Goalkeeper,19.0,,Chelsea Fc,2425
+Levi Colwill,Centre-Back,22.0,55000000.0,Chelsea Fc,2425
+Renato Veiga,Centre-Back,21.0,25000000.0,Chelsea Fc,2425
+Trevoh Chalobah,Centre-Back,25.0,25000000.0,Chelsea Fc,2425
+Wesley Fofana,Centre-Back,24.0,25000000.0,Chelsea Fc,2425
+Axel Disasi,Centre-Back,27.0,22000000.0,Chelsea Fc,2425
+Benoît Badiashile,Centre-Back,24.0,22000000.0,Chelsea Fc,2425
+Tosin Adarabioyo,Centre-Back,27.0,20000000.0,Chelsea Fc,2425
+Mamadou Sarr,Centre-Back,19.0,20000000.0,Chelsea Fc,2425
+Aarón Anselmino,Centre-Back,20.0,8000000.0,Chelsea Fc,2425
+Harrison Murray-Campbell,Centre-Back,18.0,500000.0,Chelsea Fc,2425
+Kaiden Wilson,Centre-Back,19.0,,Chelsea Fc,2425
+Marc Cucurella,Left-Back,26.0,35000000.0,Chelsea Fc,2425
+Ben Chilwell,Left-Back,28.0,15000000.0,Chelsea Fc,2425
+Ishé Samuels-Smith,Left-Back,19.0,700000.0,Chelsea Fc,2425
+Landon Emenalo,Left-Back,17.0,,Chelsea Fc,2425
+Malo Gusto,Right-Back,22.0,35000000.0,Chelsea Fc,2425
+Reece James,Right-Back,25.0,30000000.0,Chelsea Fc,2425
+Josh Acheampong,Right-Back,19.0,8000000.0,Chelsea Fc,2425
+Genesis Antwi,Right-Back,18.0,350000.0,Chelsea Fc,2425
+Richard Olise,Right-Back,20.0,,Chelsea Fc,2425
+Moisés Caicedo,Defensive Midfield,23.0,90000000.0,Chelsea Fc,2425
+Roméo Lavia,Defensive Midfield,21.0,40000000.0,Chelsea Fc,2425
+Dário Essugo,Defensive Midfield,20.0,20000000.0,Chelsea Fc,2425
+Sam Rak-Sakyi,Defensive Midfield,20.0,800000.0,Chelsea Fc,2425
+Enzo Fernández,Central Midfield,24.0,75000000.0,Chelsea Fc,2425
+Andrey Santos,Central Midfield,21.0,35000000.0,Chelsea Fc,2425
+Kiernan Dewsbury-Hall,Central Midfield,26.0,20000000.0,Chelsea Fc,2425
+Carney Chukwuemeka,Central Midfield,21.0,18000000.0,Chelsea Fc,2425
+Cesare Casadei,Central Midfield,22.0,15000000.0,Chelsea Fc,2425
+Mathis Amougou,Central Midfield,19.0,10000000.0,Chelsea Fc,2425
+Kiano Dyer,Central Midfield,18.0,,Chelsea Fc,2425
+Harvey Vale,Right Midfield,21.0,1500000.0,Chelsea Fc,2425
+Cole Palmer,Attacking Midfield,23.0,120000000.0,Chelsea Fc,2425
+Omari Kellyman,Attacking Midfield,19.0,1500000.0,Chelsea Fc,2425
+Reggie Walsh,Attacking Midfield,16.0,,Chelsea Fc,2425
+Jadon Sancho,Left Winger,25.0,28000000.0,Chelsea Fc,2425
+Tyrique George,Left Winger,19.0,10000000.0,Chelsea Fc,2425
+Mykhaylo Mudryk,Left Winger,24.0,,Chelsea Fc,2425
+Pedro Neto,Right Winger,25.0,50000000.0,Chelsea Fc,2425
+Noni Madueke,Right Winger,23.0,40000000.0,Chelsea Fc,2425
+Ato Ampah,Right Winger,19.0,,Chelsea Fc,2425
+João Félix,Second Striker,25.0,20000000.0,Chelsea Fc,2425
+João Pedro,Centre-Forward,23.0,50000000.0,Chelsea Fc,2425
+Nicolas Jackson,Centre-Forward,24.0,50000000.0,Chelsea Fc,2425
+Liam Delap,Centre-Forward,22.0,40000000.0,Chelsea Fc,2425
+Christopher Nkunku,Centre-Forward,27.0,35000000.0,Chelsea Fc,2425
+Deivid Washington,Centre-Forward,20.0,8000000.0,Chelsea Fc,2425
+Marc Guiu,Centre-Forward,19.0,8000000.0,Chelsea Fc,2425
+David Datro Fofana,Centre-Forward,22.0,6000000.0,Chelsea Fc,2425
+Shumaira Mheuka,Centre-Forward,17.0,800000.0,Chelsea Fc,2425
+Dean Henderson,Goalkeeper,28.0,20000000.0,Crystal Palace,2425
+Sam Johnstone,Goalkeeper,32.0,6000000.0,Crystal Palace,2425
+Matt Turner,Goalkeeper,31.0,2500000.0,Crystal Palace,2425
+Joe Whitworth,Goalkeeper,21.0,1700000.0,Crystal Palace,2425
+Remi Matthews,Goalkeeper,31.0,400000.0,Crystal Palace,2425
+Marc Guéhi,Centre-Back,24.0,45000000.0,Crystal Palace,2425
+Joachim Andersen,Centre-Back,29.0,27000000.0,Crystal Palace,2425
+Trevoh Chalobah,Centre-Back,25.0,25000000.0,Crystal Palace,2425
+Maxence Lacroix,Centre-Back,25.0,25000000.0,Crystal Palace,2425
+Chadi Riad,Centre-Back,22.0,15000000.0,Crystal Palace,2425
+Chris Richards,Centre-Back,25.0,14000000.0,Crystal Palace,2425
+Rob Holding,Centre-Back,29.0,3500000.0,Crystal Palace,2425
+Tyrick Mitchell,Left-Back,25.0,25000000.0,Crystal Palace,2425
+Ben Chilwell,Left-Back,28.0,15000000.0,Crystal Palace,2425
+Daniel Muñoz,Right-Back,29.0,25000000.0,Crystal Palace,2425
+Nathaniel Clyne,Right-Back,34.0,1000000.0,Crystal Palace,2425
+Caleb Kporha,Right-Back,18.0,1000000.0,Crystal Palace,2425
+Joel Ward,Right-Back,35.0,500000.0,Crystal Palace,2425
+Adam Wharton,Defensive Midfield,21.0,45000000.0,Crystal Palace,2425
+Cheick Doucouré,Defensive Midfield,25.0,25000000.0,Crystal Palace,2425
+Jefferson Lerma,Defensive Midfield,30.0,10000000.0,Crystal Palace,2425
+David Ozoh,Defensive Midfield,20.0,700000.0,Crystal Palace,2425
+Kaden Rodney,Defensive Midfield,20.0,200000.0,Crystal Palace,2425
+Will Hughes,Central Midfield,30.0,7000000.0,Crystal Palace,2425
+Naouirou Ahamada,Central Midfield,23.0,3500000.0,Crystal Palace,2425
+Jeffrey Schlupp,Left Midfield,32.0,3000000.0,Crystal Palace,2425
+Eberechi Eze,Attacking Midfield,27.0,55000000.0,Crystal Palace,2425
+Daichi Kamada,Attacking Midfield,28.0,12000000.0,Crystal Palace,2425
+Matheus França,Attacking Midfield,21.0,10000000.0,Crystal Palace,2425
+Justin Devenny,Attacking Midfield,21.0,6000000.0,Crystal Palace,2425
+Asher Agbinone,Left Winger,19.0,75000.0,Crystal Palace,2425
+Ismaïla Sarr,Right Winger,27.0,25000000.0,Crystal Palace,2425
+Romain Esse,Right Winger,20.0,12000000.0,Crystal Palace,2425
+Malcolm Ebiowei,Right Winger,21.0,1200000.0,Crystal Palace,2425
+Franco Umeh,Right Winger,20.0,75000.0,Crystal Palace,2425
+Jean-Philippe Mateta,Centre-Forward,28.0,30000000.0,Crystal Palace,2425
+Eddie Nketiah,Centre-Forward,26.0,18000000.0,Crystal Palace,2425
+Odsonne Édouard,Centre-Forward,27.0,8000000.0,Crystal Palace,2425
+Jordan Ayew,Centre-Forward,33.0,2500000.0,Crystal Palace,2425
+Zach Marsh,Centre-Forward,19.0,,Crystal Palace,2425
+Jordan Pickford,Goalkeeper,31.0,18000000.0,Everton Fc,2425
+João Virgínia,Goalkeeper,25.0,800000.0,Everton Fc,2425
+Asmir Begovic,Goalkeeper,38.0,250000.0,Everton Fc,2425
+Zan-Luk Leban,Goalkeeper,22.0,150000.0,Everton Fc,2425
+Jarrad Branthwaite,Centre-Back,23.0,50000000.0,Everton Fc,2425
+James Tarkowski,Centre-Back,32.0,9000000.0,Everton Fc,2425
+Michael Keane,Centre-Back,32.0,5000000.0,Everton Fc,2425
+Mason Holgate,Centre-Back,28.0,4000000.0,Everton Fc,2425
+Reece Welch,Centre-Back,21.0,350000.0,Everton Fc,2425
+Bradley Moonan,Centre-Back,19.0,,Everton Fc,2425
+Vitaliy Mykolenko,Left-Back,26.0,28000000.0,Everton Fc,2425
+Jake O'Brien,Right-Back,24.0,18000000.0,Everton Fc,2425
+Nathan Patterson,Right-Back,23.0,15000000.0,Everton Fc,2425
+Ashley Young,Right-Back,39.0,500000.0,Everton Fc,2425
+Séamus Coleman,Right-Back,36.0,500000.0,Everton Fc,2425
+Roman Dixon,Right-Back,20.0,200000.0,Everton Fc,2425
+Orel Mangala,Defensive Midfield,27.0,18000000.0,Everton Fc,2425
+James Garner,Defensive Midfield,24.0,18000000.0,Everton Fc,2425
+Idrissa Gueye,Defensive Midfield,35.0,1500000.0,Everton Fc,2425
+Luke Butterfield,Defensive Midfield,21.0,,Everton Fc,2425
+Carlos Alcaraz,Central Midfield,22.0,14000000.0,Everton Fc,2425
+Tim Iroegbunam,Central Midfield,22.0,9000000.0,Everton Fc,2425
+Harrison Armstrong,Central Midfield,18.0,800000.0,Everton Fc,2425
+Jenson Metcalfe,Central Midfield,20.0,175000.0,Everton Fc,2425
+Callum Bates,Central Midfield,19.0,,Everton Fc,2425
+Abdoulaye Doucouré,Attacking Midfield,32.0,7000000.0,Everton Fc,2425
+Owen Barker,Attacking Midfield,20.0,,Everton Fc,2425
+Dwight McNeil,Left Winger,25.0,25000000.0,Everton Fc,2425
+Jack Harrison,Left Winger,28.0,14000000.0,Everton Fc,2425
+Isaac Heath,Left Winger,20.0,,Everton Fc,2425
+Coby Ebere,Left Winger,19.0,,Everton Fc,2425
+Iliman Ndiaye,Right Winger,25.0,22000000.0,Everton Fc,2425
+Jesper Lindstrøm,Right Winger,25.0,18000000.0,Everton Fc,2425
+Beto,Centre-Forward,27.0,22000000.0,Everton Fc,2425
+Dominic Calvert-Lewin,Centre-Forward,28.0,16000000.0,Everton Fc,2425
+Armando Broja,Centre-Forward,23.0,12000000.0,Everton Fc,2425
+Neal Maupay,Centre-Forward,28.0,8000000.0,Everton Fc,2425
+Youssef Chermiti,Centre-Forward,21.0,8000000.0,Everton Fc,2425
+Martin Sherif,Centre-Forward,19.0,,Everton Fc,2425
+Bernd Leno,Goalkeeper,33.0,10000000.0,Fulham Fc,2425
+Steven Benda,Goalkeeper,26.0,1000000.0,Fulham Fc,2425
+Joachim Andersen,Centre-Back,29.0,27000000.0,Fulham Fc,2425
+Calvin Bassey,Centre-Back,25.0,25000000.0,Fulham Fc,2425
+Issa Diop,Centre-Back,28.0,14000000.0,Fulham Fc,2425
+Jorge Cuenca,Centre-Back,25.0,5000000.0,Fulham Fc,2425
+Sam Amissah,Centre-Back,18.0,,Fulham Fc,2425
+Antonee Robinson,Left-Back,27.0,35000000.0,Fulham Fc,2425
+Ryan Sessegnon,Left-Back,25.0,15000000.0,Fulham Fc,2425
+Kenny Tete,Right-Back,29.0,13000000.0,Fulham Fc,2425
+Timothy Castagne,Right-Back,29.0,13000000.0,Fulham Fc,2425
+Sander Berge,Defensive Midfield,27.0,25000000.0,Fulham Fc,2425
+Andreas Pereira,Central Midfield,29.0,18000000.0,Fulham Fc,2425
+Saša Lukić,Central Midfield,28.0,14000000.0,Fulham Fc,2425
+Harrison Reed,Central Midfield,30.0,6000000.0,Fulham Fc,2425
+Tom Cairney,Central Midfield,34.0,1500000.0,Fulham Fc,2425
+Emile Smith Rowe,Attacking Midfield,24.0,30000000.0,Fulham Fc,2425
+Josh King,Attacking Midfield,18.0,1000000.0,Fulham Fc,2425
+Alex Iwobi,Left Winger,29.0,28000000.0,Fulham Fc,2425
+Reiss Nelson,Left Winger,25.0,16000000.0,Fulham Fc,2425
+Willian,Left Winger,36.0,750000.0,Fulham Fc,2425
+Martial Godo,Left Winger,22.0,600000.0,Fulham Fc,2425
+Harry Wilson,Right Winger,28.0,15000000.0,Fulham Fc,2425
+Adama Traoré,Right Winger,29.0,9000000.0,Fulham Fc,2425
+Rodrigo Muniz,Centre-Forward,24.0,20000000.0,Fulham Fc,2425
+Jay Stansfield,Centre-Forward,22.0,11000000.0,Fulham Fc,2425
+Raúl Jiménez,Centre-Forward,34.0,5000000.0,Fulham Fc,2425
+Carlos Vinícius,Centre-Forward,30.0,3500000.0,Fulham Fc,2425
+Arijanet Murić,Goalkeeper,26.0,5000000.0,Ipswich Town,2425
+Christian Walton,Goalkeeper,29.0,1000000.0,Ipswich Town,2425
+Alex Palmer,Goalkeeper,28.0,1000000.0,Ipswich Town,2425
+Cieran Slicker,Goalkeeper,22.0,300000.0,Ipswich Town,2425
+Jacob Greaves,Centre-Back,24.0,18000000.0,Ipswich Town,2425
+Dara O'Shea,Centre-Back,26.0,14000000.0,Ipswich Town,2425
+Ben Godfrey,Centre-Back,27.0,6000000.0,Ipswich Town,2425
+Axel Tuanzebe,Centre-Back,27.0,5000000.0,Ipswich Town,2425
+Luke Woolfenden,Centre-Back,26.0,2000000.0,Ipswich Town,2425
+Cameron Burgess,Centre-Back,29.0,2000000.0,Ipswich Town,2425
+George Edmundson,Centre-Back,27.0,800000.0,Ipswich Town,2425
+Leif Davis,Left-Back,25.0,22000000.0,Ipswich Town,2425
+Conor Townsend,Left-Back,32.0,800000.0,Ipswich Town,2425
+Somto Boniface,Left-Back,19.0,,Ipswich Town,2425
+Ben Johnson,Right-Back,25.0,8000000.0,Ipswich Town,2425
+Harry Clarke,Right-Back,24.0,4500000.0,Ipswich Town,2425
+Kalvin Phillips,Defensive Midfield,29.0,12000000.0,Ipswich Town,2425
+Jens Cajuste,Defensive Midfield,25.0,12000000.0,Ipswich Town,2425
+Jack Taylor,Central Midfield,27.0,3000000.0,Ipswich Town,2425
+Sam Morsy,Central Midfield,33.0,500000.0,Ipswich Town,2425
+Massimo Luongo,Central Midfield,32.0,400000.0,Ipswich Town,2425
+Wes Burns,Right Midfield,30.0,2000000.0,Ipswich Town,2425
+Julio Enciso,Attacking Midfield,21.0,22000000.0,Ipswich Town,2425
+Omari Hutchinson,Attacking Midfield,21.0,22000000.0,Ipswich Town,2425
+Sammie Szmodics,Attacking Midfield,29.0,10000000.0,Ipswich Town,2425
+Marcus Harness,Attacking Midfield,29.0,800000.0,Ipswich Town,2425
+Tom Taylor,Attacking Midfield,19.0,,Ipswich Town,2425
+Jaden Philogene,Left Winger,23.0,16000000.0,Ipswich Town,2425
+Jack Clarke,Left Winger,24.0,15000000.0,Ipswich Town,2425
+Nathan Broadhead,Left Winger,27.0,4500000.0,Ipswich Town,2425
+Chiedozie Ogbene,Right Winger,28.0,7000000.0,Ipswich Town,2425
+Conor Chaplin,Second Striker,28.0,6000000.0,Ipswich Town,2425
+Liam Delap,Centre-Forward,22.0,40000000.0,Ipswich Town,2425
+George Hirst,Centre-Forward,26.0,4000000.0,Ipswich Town,2425
+Ali Al-Hamadi,Centre-Forward,23.0,2500000.0,Ipswich Town,2425
+Mads Hermansen,Goalkeeper,24.0,15000000.0,Leicester City,2425
+Daniel Iversen,Goalkeeper,27.0,2500000.0,Leicester City,2425
+Danny Ward,Goalkeeper,32.0,1200000.0,Leicester City,2425
+Jakub Stolarczyk,Goalkeeper,24.0,1000000.0,Leicester City,2425
+Wout Faes,Centre-Back,27.0,15000000.0,Leicester City,2425
+Caleb Okoli,Centre-Back,23.0,10000000.0,Leicester City,2425
+Harry Souttar,Centre-Back,26.0,6000000.0,Leicester City,2425
+Conor Coady,Centre-Back,32.0,2200000.0,Leicester City,2425
+Jannik Vestergaard,Centre-Back,32.0,2000000.0,Leicester City,2425
+Ben Nelson,Centre-Back,21.0,500000.0,Leicester City,2425
+Tom Wilson-Brown,Centre-Back,20.0,,Leicester City,2425
+Victor Kristiansen,Left-Back,22.0,15000000.0,Leicester City,2425
+Luke Thomas,Left-Back,24.0,6000000.0,Leicester City,2425
+James Justin,Right-Back,27.0,13000000.0,Leicester City,2425
+Ricardo Pereira,Right-Back,31.0,4500000.0,Leicester City,2425
+Woyo Coulibaly,Right-Back,26.0,2000000.0,Leicester City,2425
+Olabade Aluko,Right-Back,18.0,,Leicester City,2425
+Wilfred Ndidi,Defensive Midfield,28.0,15000000.0,Leicester City,2425
+Boubakary Soumaré,Defensive Midfield,26.0,12000000.0,Leicester City,2425
+Oliver Skipp,Defensive Midfield,24.0,10000000.0,Leicester City,2425
+Harry Winks,Defensive Midfield,29.0,9000000.0,Leicester City,2425
+Hamza Choudhury,Defensive Midfield,27.0,4500000.0,Leicester City,2425
+Sammy Braybrooke,Defensive Midfield,21.0,300000.0,Leicester City,2425
+Henry Cartwright,Defensive Midfield,20.0,,Leicester City,2425
+Michael Golding,Central Midfield,19.0,2000000.0,Leicester City,2425
+Kasey McAteer,Right Midfield,23.0,2000000.0,Leicester City,2425
+Bilal El Khannouss,Attacking Midfield,21.0,28000000.0,Leicester City,2425
+Facundo Buonanotte,Attacking Midfield,20.0,20000000.0,Leicester City,2425
+Bobby De Cordova-Reid,Attacking Midfield,32.0,2500000.0,Leicester City,2425
+Will Alves,Attacking Midfield,20.0,400000.0,Leicester City,2425
+Stephy Mavididi,Left Winger,27.0,10000000.0,Leicester City,2425
+Jeremy Monga,Left Winger,15.0,,Leicester City,2425
+Abdul Fatawu,Right Winger,21.0,11000000.0,Leicester City,2425
+Tom Cannon,Centre-Forward,22.0,10000000.0,Leicester City,2425
+Patson Daka,Centre-Forward,26.0,9000000.0,Leicester City,2425
+Odsonne Édouard,Centre-Forward,27.0,8000000.0,Leicester City,2425
+Jordan Ayew,Centre-Forward,33.0,2500000.0,Leicester City,2425
+Jamie Vardy,Centre-Forward,38.0,1000000.0,Leicester City,2425
+Jake Evans,Centre-Forward,16.0,150000.0,Leicester City,2425
+Chris Popov,Centre-Forward,20.0,100000.0,Leicester City,2425
+Alisson,Goalkeeper,32.0,20000000.0,Liverpool Fc,2425
+Caoimhín Kelleher,Goalkeeper,26.0,20000000.0,Liverpool Fc,2425
+Vitezslav Jaros,Goalkeeper,23.0,4000000.0,Liverpool Fc,2425
+Harvey Davies,Goalkeeper,21.0,500000.0,Liverpool Fc,2425
+Ibrahima Konaté,Centre-Back,26.0,60000000.0,Liverpool Fc,2425
+Virgil van Dijk,Centre-Back,33.0,23000000.0,Liverpool Fc,2425
+Joe Gomez,Centre-Back,28.0,20000000.0,Liverpool Fc,2425
+Jarell Quansah,Centre-Back,22.0,20000000.0,Liverpool Fc,2425
+Amara Nallo,Centre-Back,18.0,1000000.0,Liverpool Fc,2425
+Konstantinos Tsimikas,Left-Back,29.0,18000000.0,Liverpool Fc,2425
+Andrew Robertson,Left-Back,31.0,18000000.0,Liverpool Fc,2425
+James Norris,Left-Back,22.0,150000.0,Liverpool Fc,2425
+Trent Alexander-Arnold,Right-Back,26.0,75000000.0,Liverpool Fc,2425
+Conor Bradley,Right-Back,21.0,30000000.0,Liverpool Fc,2425
+Isaac Mabaya,Right-Back,20.0,,Liverpool Fc,2425
+Ryan Gravenberch,Defensive Midfield,23.0,75000000.0,Liverpool Fc,2425
+Wataru Endo,Defensive Midfield,32.0,8000000.0,Liverpool Fc,2425
+Tyler Morton,Defensive Midfield,22.0,7000000.0,Liverpool Fc,2425
+James McConnell,Defensive Midfield,20.0,2000000.0,Liverpool Fc,2425
+Alexis Mac Allister,Central Midfield,26.0,100000000.0,Liverpool Fc,2425
+Curtis Jones,Central Midfield,24.0,45000000.0,Liverpool Fc,2425
+Trey Nyoni,Central Midfield,18.0,4500000.0,Liverpool Fc,2425
+Dominik Szoboszlai,Attacking Midfield,24.0,80000000.0,Liverpool Fc,2425
+Harvey Elliott,Attacking Midfield,22.0,30000000.0,Liverpool Fc,2425
+Luis Díaz,Left Winger,28.0,70000000.0,Liverpool Fc,2425
+Cody Gakpo,Left Winger,26.0,70000000.0,Liverpool Fc,2425
+Diogo Jota,Left Winger,28.0,40000000.0,Liverpool Fc,2425
+Trent Koné-Doherty,Left Winger,19.0,,Liverpool Fc,2425
+Rio Ngumoha,Left Winger,16.0,,Liverpool Fc,2425
+Mohamed Salah,Right Winger,33.0,50000000.0,Liverpool Fc,2425
+Federico Chiesa,Right Winger,27.0,14000000.0,Liverpool Fc,2425
+Ranel Young,Right Winger,19.0,,Liverpool Fc,2425
+Kieran Morrison,Right Winger,18.0,,Liverpool Fc,2425
+Darwin Núñez,Centre-Forward,26.0,45000000.0,Liverpool Fc,2425
+Jayden Danns,Centre-Forward,19.0,800000.0,Liverpool Fc,2425
+Ederson,Goalkeeper,31.0,20000000.0,Manchester City,2425
+Stefan Ortega,Goalkeeper,32.0,8000000.0,Manchester City,2425
+Marcus Bettinelli,Goalkeeper,33.0,600000.0,Manchester City,2425
+Scott Carson,Goalkeeper,39.0,100000.0,Manchester City,2425
+Spike Brits,Goalkeeper,18.0,,Manchester City,2425
+Max Hudson,Goalkeeper,17.0,,Manchester City,2425
+Josko Gvardiol,Centre-Back,23.0,75000000.0,Manchester City,2425
+Rúben Dias,Centre-Back,28.0,65000000.0,Manchester City,2425
+Abdukodir Khusanov,Centre-Back,21.0,35000000.0,Manchester City,2425
+Vitor Reis,Centre-Back,19.0,30000000.0,Manchester City,2425
+Manuel Akanji,Centre-Back,29.0,28000000.0,Manchester City,2425
+John Stones,Centre-Back,31.0,25000000.0,Manchester City,2425
+Nathan Aké,Centre-Back,30.0,25000000.0,Manchester City,2425
+Jahmai Simpson-Pusey,Centre-Back,19.0,5000000.0,Manchester City,2425
+Max Alleyne,Centre-Back,19.0,500000.0,Manchester City,2425
+Kaden Braithwaite,Centre-Back,17.0,,Manchester City,2425
+Rayan Aït-Nouri,Left-Back,24.0,35000000.0,Manchester City,2425
+Nico O'Reilly,Left-Back,20.0,18000000.0,Manchester City,2425
+Josh Wilson-Esbrand,Left-Back,22.0,4000000.0,Manchester City,2425
+Rico Lewis,Right-Back,20.0,40000000.0,Manchester City,2425
+Matheus Nunes,Right-Back,26.0,35000000.0,Manchester City,2425
+Kyle Walker,Right-Back,35.0,4000000.0,Manchester City,2425
+Issa Kaboré,Right-Back,24.0,4000000.0,Manchester City,2425
+Rodri,Defensive Midfield,29.0,110000000.0,Manchester City,2425
+Nico González,Defensive Midfield,23.0,40000000.0,Manchester City,2425
+Kalvin Phillips,Defensive Midfield,29.0,12000000.0,Manchester City,2425
+Jacob Wright,Defensive Midfield,19.0,800000.0,Manchester City,2425
+Tijjani Reijnders,Central Midfield,26.0,60000000.0,Manchester City,2425
+Mateo Kovacic,Central Midfield,31.0,20000000.0,Manchester City,2425
+İlkay Gündoğan,Central Midfield,34.0,5000000.0,Manchester City,2425
+Phil Foden,Attacking Midfield,25.0,100000000.0,Manchester City,2425
+Rayan Cherki,Attacking Midfield,21.0,45000000.0,Manchester City,2425
+Bernardo Silva,Attacking Midfield,30.0,38000000.0,Manchester City,2425
+Kevin De Bruyne,Attacking Midfield,34.0,20000000.0,Manchester City,2425
+James McAtee,Attacking Midfield,22.0,20000000.0,Manchester City,2425
+Claudio Echeverri,Attacking Midfield,19.0,18000000.0,Manchester City,2425
+Jérémy Doku,Left Winger,23.0,50000000.0,Manchester City,2425
+Savinho,Left Winger,21.0,50000000.0,Manchester City,2425
+Jack Grealish,Left Winger,29.0,28000000.0,Manchester City,2425
+Oscar Bobb,Right Winger,21.0,25000000.0,Manchester City,2425
+Farid Alfa-Ruprecht,Right Winger,19.0,,Manchester City,2425
+Erling Haaland,Centre-Forward,24.0,180000000.0,Manchester City,2425
+Omar Marmoush,Centre-Forward,26.0,75000000.0,Manchester City,2425
+Divin Mubama,Centre-Forward,20.0,4000000.0,Manchester City,2425
+André Onana,Goalkeeper,29.0,25000000.0,Manchester United,2425
+Altay Bayındır,Goalkeeper,27.0,8000000.0,Manchester United,2425
+Tom Heaton,Goalkeeper,39.0,200000.0,Manchester United,2425
+Dermot Mee,Goalkeeper,22.0,,Manchester United,2425
+Hubert Graczyk,Goalkeeper,22.0,,Manchester United,2425
+Elyh Harrison,Goalkeeper,19.0,,Manchester United,2425
+Will Murdock,Goalkeeper,18.0,,Manchester United,2425
+Leny Yoro,Centre-Back,19.0,55000000.0,Manchester United,2425
+Lisandro Martínez,Centre-Back,27.0,40000000.0,Manchester United,2425
+Matthijs de Ligt,Centre-Back,25.0,38000000.0,Manchester United,2425
+Harry Maguire,Centre-Back,32.0,13000000.0,Manchester United,2425
+Victor Lindelöf,Centre-Back,30.0,8000000.0,Manchester United,2425
+Ayden Heaven,Centre-Back,18.0,5000000.0,Manchester United,2425
+Tyler Fredricson,Centre-Back,20.0,3000000.0,Manchester United,2425
+Jonny Evans,Centre-Back,37.0,1000000.0,Manchester United,2425
+Godwill Kukonki,Centre-Back,17.0,,Manchester United,2425
+Luke Shaw,Left-Back,29.0,12000000.0,Manchester United,2425
+Tyrell Malacia,Left-Back,25.0,8000000.0,Manchester United,2425
+Harry Amass,Left-Back,18.0,5000000.0,Manchester United,2425
+Diogo Dalot,Right-Back,26.0,30000000.0,Manchester United,2425
+Noussair Mazraoui,Right-Back,27.0,25000000.0,Manchester United,2425
+Habeeb Ogunneye,Right-Back,19.0,,Manchester United,2425
+Jaydan Kamason,Right-Back,18.0,,Manchester United,2425
+Manuel Ugarte,Defensive Midfield,24.0,45000000.0,Manchester United,2425
+Casemiro,Defensive Midfield,33.0,10000000.0,Manchester United,2425
+Toby Collyer,Defensive Midfield,21.0,5000000.0,Manchester United,2425
+Sékou Koné,Defensive Midfield,19.0,,Manchester United,2425
+Scott McTominay,Central Midfield,28.0,50000000.0,Manchester United,2425
+Kobbie Mainoo,Central Midfield,20.0,50000000.0,Manchester United,2425
+Dan Gore,Central Midfield,20.0,800000.0,Manchester United,2425
+Jack Moorhouse,Central Midfield,19.0,,Manchester United,2425
+Jayce Fitzgerald,Central Midfield,18.0,,Manchester United,2425
+Bruno Fernandes,Attacking Midfield,30.0,50000000.0,Manchester United,2425
+Mason Mount,Attacking Midfield,26.0,28000000.0,Manchester United,2425
+Christian Eriksen,Attacking Midfield,33.0,4000000.0,Manchester United,2425
+Jack Fletcher,Attacking Midfield,18.0,,Manchester United,2425
+Marcus Rashford,Left Winger,27.0,50000000.0,Manchester United,2425
+Alejandro Garnacho,Left Winger,20.0,45000000.0,Manchester United,2425
+Jadon Sancho,Left Winger,25.0,28000000.0,Manchester United,2425
+Patrick Dorgu,Left Winger,20.0,25000000.0,Manchester United,2425
+James Scanlon,Left Winger,18.0,,Manchester United,2425
+Amad Diallo,Right Winger,22.0,45000000.0,Manchester United,2425
+Antony,Right Winger,25.0,35000000.0,Manchester United,2425
+Facundo Pellistri,Right Winger,23.0,8000000.0,Manchester United,2425
+Bendito Mantato,Right Winger,17.0,,Manchester United,2425
+Rasmus Højlund,Centre-Forward,22.0,35000000.0,Manchester United,2425
+Joshua Zirkzee,Centre-Forward,24.0,30000000.0,Manchester United,2425
+Chido Obi,Centre-Forward,17.0,5000000.0,Manchester United,2425
+Ethan Wheatley,Centre-Forward,19.0,,Manchester United,2425
+Nick Pope,Goalkeeper,33.0,8000000.0,Newcastle United,2425
+Odysseas Vlachodimos,Goalkeeper,31.0,5000000.0,Newcastle United,2425
+Martin Dúbravka,Goalkeeper,36.0,1000000.0,Newcastle United,2425
+Mark Gillespie,Goalkeeper,33.0,200000.0,Newcastle United,2425
+John Ruddy,Goalkeeper,38.0,150000.0,Newcastle United,2425
+Sven Botman,Centre-Back,25.0,42000000.0,Newcastle United,2425
+Lloyd Kelly,Centre-Back,26.0,16000000.0,Newcastle United,2425
+Fabian Schär,Centre-Back,33.0,7000000.0,Newcastle United,2425
+Dan Burn,Centre-Back,33.0,6000000.0,Newcastle United,2425
+Jamaal Lascelles,Centre-Back,31.0,4000000.0,Newcastle United,2425
+Lewis Hall,Left-Back,20.0,32000000.0,Newcastle United,2425
+Matt Targett,Left-Back,29.0,5000000.0,Newcastle United,2425
+Jamal Lewis,Left-Back,27.0,2500000.0,Newcastle United,2425
+Alex Murphy,Left-Back,21.0,300000.0,Newcastle United,2425
+Tino Livramento,Right-Back,22.0,40000000.0,Newcastle United,2425
+Kieran Trippier,Right-Back,34.0,4000000.0,Newcastle United,2425
+Emil Krafth,Right-Back,30.0,2000000.0,Newcastle United,2425
+Harrison Ashby,Right-Back,23.0,1400000.0,Newcastle United,2425
+Leo Shahar,Right-Back,18.0,,Newcastle United,2425
+Sandro Tonali,Defensive Midfield,25.0,60000000.0,Newcastle United,2425
+Isaac Hayden,Defensive Midfield,30.0,700000.0,Newcastle United,2425
+Bruno Guimarães,Central Midfield,27.0,80000000.0,Newcastle United,2425
+Joelinton,Central Midfield,28.0,35000000.0,Newcastle United,2425
+Joe Willock,Central Midfield,25.0,22000000.0,Newcastle United,2425
+Lewis Miley,Central Midfield,19.0,22000000.0,Newcastle United,2425
+Sean Longstaff,Central Midfield,27.0,20000000.0,Newcastle United,2425
+Joe White,Attacking Midfield,22.0,275000.0,Newcastle United,2425
+Anthony Gordon,Left Winger,24.0,65000000.0,Newcastle United,2425
+Harvey Barnes,Left Winger,27.0,35000000.0,Newcastle United,2425
+Trevan Sanusi,Left Winger,18.0,,Newcastle United,2425
+Jacob Murphy,Right Winger,30.0,16000000.0,Newcastle United,2425
+Miguel Almirón,Right Winger,31.0,10000000.0,Newcastle United,2425
+Alexander Isak,Centre-Forward,25.0,120000000.0,Newcastle United,2425
+Callum Wilson,Centre-Forward,33.0,8000000.0,Newcastle United,2425
+William Osula,Centre-Forward,21.0,7000000.0,Newcastle United,2425
+Sean Neave,Centre-Forward,18.0,,Newcastle United,2425
+Matz Sels,Goalkeeper,33.0,7000000.0,Nottingham Forest,2425
+Carlos Miguel,Goalkeeper,26.0,4000000.0,Nottingham Forest,2425
+Matt Turner,Goalkeeper,31.0,2500000.0,Nottingham Forest,2425
+Wayne Hennessey,Goalkeeper,38.0,150000.0,Nottingham Forest,2425
+Murillo,Centre-Back,22.0,55000000.0,Nottingham Forest,2425
+Nikola Milenković,Centre-Back,27.0,35000000.0,Nottingham Forest,2425
+Morato,Centre-Back,24.0,14000000.0,Nottingham Forest,2425
+Andrew Omobamidele,Centre-Back,23.0,8000000.0,Nottingham Forest,2425
+Willy Boly,Centre-Back,34.0,1500000.0,Nottingham Forest,2425
+Tyler Bindon,Centre-Back,20.0,1200000.0,Nottingham Forest,2425
+Zach Abbott,Centre-Back,19.0,300000.0,Nottingham Forest,2425
+Neco Williams,Left-Back,24.0,20000000.0,Nottingham Forest,2425
+Álex Moreno,Left-Back,32.0,7000000.0,Nottingham Forest,2425
+Harry Toffolo,Left-Back,29.0,3000000.0,Nottingham Forest,2425
+Ola Aina,Right-Back,28.0,22000000.0,Nottingham Forest,2425
+Eric da Silva Moreira,Right-Back,19.0,1000000.0,Nottingham Forest,2425
+Ibrahim Sangaré,Defensive Midfield,27.0,24000000.0,Nottingham Forest,2425
+Ben Perry,Defensive Midfield,20.0,150000.0,Nottingham Forest,2425
+Elliot Anderson,Central Midfield,22.0,32000000.0,Nottingham Forest,2425
+Danilo,Central Midfield,24.0,28000000.0,Nottingham Forest,2425
+Nicolás Domínguez,Central Midfield,27.0,18000000.0,Nottingham Forest,2425
+Ryan Yates,Central Midfield,27.0,12000000.0,Nottingham Forest,2425
+James Ward-Prowse,Central Midfield,30.0,8000000.0,Nottingham Forest,2425
+Lewis O'Brien,Central Midfield,26.0,4000000.0,Nottingham Forest,2425
+Morgan Gibbs-White,Attacking Midfield,25.0,50000000.0,Nottingham Forest,2425
+Callum Hudson-Odoi,Left Winger,24.0,25000000.0,Nottingham Forest,2425
+Jota Silva,Left Winger,25.0,15000000.0,Nottingham Forest,2425
+Anthony Elanga,Right Winger,23.0,42000000.0,Nottingham Forest,2425
+Josh Bowler,Right Winger,26.0,1000000.0,Nottingham Forest,2425
+Ramón Sosa,Second Striker,25.0,12000000.0,Nottingham Forest,2425
+Taiwo Awoniyi,Centre-Forward,27.0,16000000.0,Nottingham Forest,2425
+Chris Wood,Centre-Forward,33.0,10000000.0,Nottingham Forest,2425
+Emmanuel Dennis,Centre-Forward,27.0,2500000.0,Nottingham Forest,2425
+Aaron Ramsdale,Goalkeeper,27.0,16000000.0,Southampton Fc,2425
+Gavin Bazunu,Goalkeeper,23.0,9000000.0,Southampton Fc,2425
+Joe Lumley,Goalkeeper,30.0,500000.0,Southampton Fc,2425
+Alex McCarthy,Goalkeeper,35.0,350000.0,Southampton Fc,2425
+Taylor Harwood-Bellis,Centre-Back,23.0,22000000.0,Southampton Fc,2425
+Jan Bednarek,Centre-Back,29.0,9000000.0,Southampton Fc,2425
+Armel Bella-Kotchap,Centre-Back,23.0,9000000.0,Southampton Fc,2425
+Ronnie Edwards,Centre-Back,22.0,3800000.0,Southampton Fc,2425
+Nathan Wood,Centre-Back,23.0,3500000.0,Southampton Fc,2425
+Jack Stephens,Centre-Back,31.0,1500000.0,Southampton Fc,2425
+Joachim Kayi Sanda,Centre-Back,18.0,1500000.0,Southampton Fc,2425
+Jayden Moore,Centre-Back,18.0,,Southampton Fc,2425
+Juan Larios,Left-Back,21.0,3500000.0,Southampton Fc,2425
+Ryan Manning,Left-Back,29.0,3000000.0,Southampton Fc,2425
+Welington,Left-Back,24.0,3000000.0,Southampton Fc,2425
+Charlie Taylor,Left-Back,31.0,2200000.0,Southampton Fc,2425
+Kyle Walker-Peters,Right-Back,28.0,15000000.0,Southampton Fc,2425
+Yukinari Sugawara,Right-Back,25.0,11000000.0,Southampton Fc,2425
+James Bree,Right-Back,27.0,2500000.0,Southampton Fc,2425
+Lesley Ugochukwu,Defensive Midfield,21.0,18000000.0,Southampton Fc,2425
+Flynn Downes,Defensive Midfield,26.0,13000000.0,Southampton Fc,2425
+Shea Charles,Defensive Midfield,21.0,10000000.0,Southampton Fc,2425
+Mateus Fernandes,Central Midfield,20.0,15000000.0,Southampton Fc,2425
+Carlos Alcaraz,Central Midfield,22.0,14000000.0,Southampton Fc,2425
+Joe Aribo,Central Midfield,28.0,6000000.0,Southampton Fc,2425
+Will Smallbone,Central Midfield,25.0,6000000.0,Southampton Fc,2425
+Joe O'Brien-Whitmarsh,Central Midfield,20.0,300000.0,Southampton Fc,2425
+Albert Grønbæk,Attacking Midfield,24.0,11000000.0,Southampton Fc,2425
+Adam Lallana,Attacking Midfield,37.0,750000.0,Southampton Fc,2425
+Romeo Akachukwu,Attacking Midfield,18.0,150000.0,Southampton Fc,2425
+Kamaldeen Sulemana,Left Winger,23.0,13000000.0,Southampton Fc,2425
+Maxwel Cornet,Left Winger,28.0,8000000.0,Southampton Fc,2425
+Samuel Edozie,Left Winger,22.0,6000000.0,Southampton Fc,2425
+Ryan Fraser,Left Winger,31.0,2000000.0,Southampton Fc,2425
+Jay Robinson,Left Winger,18.0,,Southampton Fc,2425
+Tyler Dibling,Right Winger,19.0,25000000.0,Southampton Fc,2425
+Samuel Amo-Ameyaw,Right Winger,18.0,4000000.0,Southampton Fc,2425
+Adam Armstrong,Centre-Forward,28.0,12000000.0,Southampton Fc,2425
+Cameron Archer,Centre-Forward,23.0,12000000.0,Southampton Fc,2425
+Ben Brereton Díaz,Centre-Forward,26.0,7500000.0,Southampton Fc,2425
+Paul Onuachu,Centre-Forward,31.0,6000000.0,Southampton Fc,2425
+Ross Stewart,Centre-Forward,28.0,4000000.0,Southampton Fc,2425
+Guglielmo Vicario,Goalkeeper,28.0,32000000.0,Tottenham Hotspur,2425
+Antonín Kinský,Goalkeeper,22.0,15000000.0,Tottenham Hotspur,2425
+Fraser Forster,Goalkeeper,37.0,1000000.0,Tottenham Hotspur,2425
+Brandon Austin,Goalkeeper,26.0,600000.0,Tottenham Hotspur,2425
+Alfie Whiteman,Goalkeeper,26.0,500000.0,Tottenham Hotspur,2425
+Cristian Romero,Centre-Back,27.0,50000000.0,Tottenham Hotspur,2425
+Micky van de Ven,Centre-Back,24.0,50000000.0,Tottenham Hotspur,2425
+Kevin Danso,Centre-Back,26.0,25000000.0,Tottenham Hotspur,2425
+Radu Drăgușin,Centre-Back,23.0,25000000.0,Tottenham Hotspur,2425
+Ben Davies,Centre-Back,32.0,6000000.0,Tottenham Hotspur,2425
+Alfie Dorrington,Centre-Back,20.0,700000.0,Tottenham Hotspur,2425
+Malachi Hardy,Centre-Back,17.0,,Tottenham Hotspur,2425
+Destiny Udogie,Left-Back,22.0,40000000.0,Tottenham Hotspur,2425
+Djed Spence,Left-Back,24.0,20000000.0,Tottenham Hotspur,2425
+Sergio Reguilón,Left-Back,28.0,6000000.0,Tottenham Hotspur,2425
+Maeson King,Left-Back,19.0,,Tottenham Hotspur,2425
+Pedro Porro,Right-Back,25.0,38000000.0,Tottenham Hotspur,2425
+Rodrigo Bentancur,Defensive Midfield,28.0,30000000.0,Tottenham Hotspur,2425
+Yves Bissouma,Defensive Midfield,28.0,25000000.0,Tottenham Hotspur,2425
+Dante Cassanova,Defensive Midfield,21.0,,Tottenham Hotspur,2425
+Archie Gray,Central Midfield,19.0,38000000.0,Tottenham Hotspur,2425
+Lucas Bergvall,Central Midfield,19.0,38000000.0,Tottenham Hotspur,2425
+Pape Matar Sarr,Central Midfield,22.0,32000000.0,Tottenham Hotspur,2425
+Callum Olusesi,Central Midfield,18.0,500000.0,Tottenham Hotspur,2425
+Rio Kyerematen,Central Midfield,20.0,,Tottenham Hotspur,2425
+Dejan Kulusevski,Attacking Midfield,25.0,50000000.0,Tottenham Hotspur,2425
+James Maddison,Attacking Midfield,28.0,42000000.0,Tottenham Hotspur,2425
+Alfie Devine,Attacking Midfield,20.0,3500000.0,Tottenham Hotspur,2425
+Luca Williams-Barnett,Attacking Midfield,16.0,,Tottenham Hotspur,2425
+Heung-min Son,Left Winger,32.0,20000000.0,Tottenham Hotspur,2425
+Wilson Odobert,Left Winger,20.0,20000000.0,Tottenham Hotspur,2425
+Mikey Moore,Left Winger,17.0,18000000.0,Tottenham Hotspur,2425
+Brennan Johnson,Right Winger,24.0,40000000.0,Tottenham Hotspur,2425
+Min-hyeok Yang,Right Winger,19.0,3500000.0,Tottenham Hotspur,2425
+Damola Ajayi,Right Winger,19.0,,Tottenham Hotspur,2425
+Dominic Solanke,Centre-Forward,27.0,40000000.0,Tottenham Hotspur,2425
+Mathys Tel,Centre-Forward,20.0,35000000.0,Tottenham Hotspur,2425
+Richarlison,Centre-Forward,28.0,20000000.0,Tottenham Hotspur,2425
+Timo Werner,Centre-Forward,29.0,7000000.0,Tottenham Hotspur,2425
+Will Lankshear,Centre-Forward,20.0,3000000.0,Tottenham Hotspur,2425
+Dane Scarlett,Centre-Forward,21.0,2000000.0,Tottenham Hotspur,2425
+Alphonse Areola,Goalkeeper,32.0,9000000.0,West Ham United,2425
+Wes Foderingham,Goalkeeper,34.0,600000.0,West Ham United,2425
+Lukasz Fabianski,Goalkeeper,40.0,500000.0,West Ham United,2425
+Jean-Clair Todibo,Centre-Back,25.0,25000000.0,West Ham United,2425
+Maximilian Kilman,Centre-Back,28.0,25000000.0,West Ham United,2425
+Konstantinos Mavropanos,Centre-Back,27.0,17000000.0,West Ham United,2425
+Kaelan Casey,Centre-Back,20.0,1000000.0,West Ham United,2425
+Ezra Mayers,Centre-Back,18.0,,West Ham United,2425
+Emerson,Left-Back,30.0,10000000.0,West Ham United,2425
+Oliver Scarles,Left-Back,19.0,8000000.0,West Ham United,2425
+Aaron Cresswell,Left-Back,35.0,500000.0,West Ham United,2425
+Aaron Wan-Bissaka,Right-Back,27.0,24000000.0,West Ham United,2425
+Vladimír Coufal,Right-Back,32.0,5000000.0,West Ham United,2425
+Edson Álvarez,Defensive Midfield,27.0,25000000.0,West Ham United,2425
+Tomáš Souček,Defensive Midfield,30.0,18000000.0,West Ham United,2425
+Guido Rodríguez,Defensive Midfield,31.0,10000000.0,West Ham United,2425
+Carlos Soler,Central Midfield,28.0,18000000.0,West Ham United,2425
+James Ward-Prowse,Central Midfield,30.0,8000000.0,West Ham United,2425
+Andrew Irving,Central Midfield,25.0,4000000.0,West Ham United,2425
+Lewis Orford,Central Midfield,19.0,400000.0,West Ham United,2425
+Lucas Paquetá,Attacking Midfield,27.0,28000000.0,West Ham United,2425
+Crysencio Summerville,Left Winger,23.0,22000000.0,West Ham United,2425
+Mohammed Kudus,Right Winger,24.0,45000000.0,West Ham United,2425
+Jarrod Bowen,Right Winger,28.0,40000000.0,West Ham United,2425
+Luís Guilherme,Right Winger,19.0,15000000.0,West Ham United,2425
+Evan Ferguson,Centre-Forward,20.0,25000000.0,West Ham United,2425
+Niclas Füllkrug,Centre-Forward,32.0,10000000.0,West Ham United,2425
+Danny Ings,Centre-Forward,32.0,6000000.0,West Ham United,2425
+Michail Antonio,Centre-Forward,35.0,700000.0,West Ham United,2425
+José Sá,Goalkeeper,32.0,7000000.0,Wolverhampton Wanderers,2425
+Sam Johnstone,Goalkeeper,32.0,6000000.0,Wolverhampton Wanderers,2425
+Daniel Bentley,Goalkeeper,31.0,1500000.0,Wolverhampton Wanderers,2425
+Tom King,Goalkeeper,30.0,200000.0,Wolverhampton Wanderers,2425
+Toti,Centre-Back,26.0,28000000.0,Wolverhampton Wanderers,2425
+Emmanuel Agbadou,Centre-Back,28.0,20000000.0,Wolverhampton Wanderers,2425
+Santiago Bueno,Centre-Back,26.0,10000000.0,Wolverhampton Wanderers,2425
+Nasser Djiga,Centre-Back,22.0,10000000.0,Wolverhampton Wanderers,2425
+Yerson Mosquera,Centre-Back,24.0,8000000.0,Wolverhampton Wanderers,2425
+Bastien Meupiyou,Centre-Back,19.0,2500000.0,Wolverhampton Wanderers,2425
+Craig Dawson,Centre-Back,35.0,1500000.0,Wolverhampton Wanderers,2425
+Alfie Pond,Centre-Back,21.0,250000.0,Wolverhampton Wanderers,2425
+Rayan Aït-Nouri,Left-Back,24.0,35000000.0,Wolverhampton Wanderers,2425
+Nélson Semedo,Right-Back,31.0,9000000.0,Wolverhampton Wanderers,2425
+Pedro Lima,Right-Back,18.0,5000000.0,Wolverhampton Wanderers,2425
+Matt Doherty,Right-Back,33.0,2000000.0,Wolverhampton Wanderers,2425
+Wesley Okoduwa,Right-Back,17.0,,Wolverhampton Wanderers,2425
+André,Defensive Midfield,23.0,28000000.0,Wolverhampton Wanderers,2425
+Mario Lemina,Defensive Midfield,31.0,7500000.0,Wolverhampton Wanderers,2425
+Boubacar Traoré,Defensive Midfield,23.0,5000000.0,Wolverhampton Wanderers,2425
+Joe Hodge,Defensive Midfield,22.0,1000000.0,Wolverhampton Wanderers,2425
+Luke Rawlings,Defensive Midfield,17.0,,Wolverhampton Wanderers,2425
+João Gomes,Central Midfield,24.0,40000000.0,Wolverhampton Wanderers,2425
+Jean-Ricner Bellegarde,Central Midfield,27.0,18000000.0,Wolverhampton Wanderers,2425
+Marshall Munetsi,Central Midfield,29.0,15000000.0,Wolverhampton Wanderers,2425
+Tommy Doyle,Central Midfield,23.0,10000000.0,Wolverhampton Wanderers,2425
+Luke Cundle,Central Midfield,23.0,3200000.0,Wolverhampton Wanderers,2425
+Rodrigo Gomes,Left Midfield,21.0,15000000.0,Wolverhampton Wanderers,2425
+Pablo Sarabia,Attacking Midfield,33.0,5000000.0,Wolverhampton Wanderers,2425
+Tawanda Chirewa,Attacking Midfield,21.0,500000.0,Wolverhampton Wanderers,2425
+Mateus Mané,Attacking Midfield,17.0,200000.0,Wolverhampton Wanderers,2425
+Gonçalo Guedes,Left Winger,28.0,11000000.0,Wolverhampton Wanderers,2425
+Daniel Podence,Left Winger,29.0,5500000.0,Wolverhampton Wanderers,2425
+Enso González,Left Winger,20.0,4000000.0,Wolverhampton Wanderers,2425
+Chiquinho,Left Winger,25.0,2000000.0,Wolverhampton Wanderers,2425
+Chem Campbell,Left Winger,22.0,900000.0,Wolverhampton Wanderers,2425
+Carlos Forbs,Right Winger,21.0,8000000.0,Wolverhampton Wanderers,2425
+Tom Edozie,Right Winger,19.0,,Wolverhampton Wanderers,2425
+Matheus Cunha,Centre-Forward,26.0,60000000.0,Wolverhampton Wanderers,2425
+Jørgen Strand Larsen,Centre-Forward,25.0,30000000.0,Wolverhampton Wanderers,2425
+Hee-chan Hwang,Centre-Forward,29.0,12000000.0,Wolverhampton Wanderers,2425
+Sasa Kalajdzic,Centre-Forward,27.0,4000000.0,Wolverhampton Wanderers,2425
+Leon Chiwome,Centre-Forward,19.0,700000.0,Wolverhampton Wanderers,2425
+Nathan Fraser,Centre-Forward,20.0,600000.0,Wolverhampton Wanderers,2425

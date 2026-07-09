@@ -1,0 +1,641 @@
+player_name,position,Age,market_value_eur,club,season
+Kevin Müller,Goalkeeper,34.0,700000.0,1 Fc Heidenheim 1846,2425
+Frank Feller,Goalkeeper,21.0,500000.0,1 Fc Heidenheim 1846,2425
+Vitus Eicher,Goalkeeper,34.0,250000.0,1 Fc Heidenheim 1846,2425
+Paul Tschernuth,Goalkeeper,23.0,100000.0,1 Fc Heidenheim 1846,2425
+Benedikt Gimber,Centre-Back,28.0,3000000.0,1 Fc Heidenheim 1846,2425
+Patrick Mainka,Centre-Back,30.0,3000000.0,1 Fc Heidenheim 1846,2425
+Tim Siersleben,Centre-Back,25.0,2000000.0,1 Fc Heidenheim 1846,2425
+Thomas Keller,Centre-Back,25.0,500000.0,1 Fc Heidenheim 1846,2425
+Frans Krätzig,Left-Back,22.0,3500000.0,1 Fc Heidenheim 1846,2425
+Jonas Föhrenbach,Left-Back,29.0,1500000.0,1 Fc Heidenheim 1846,2425
+Omar Traoré,Right-Back,27.0,4000000.0,1 Fc Heidenheim 1846,2425
+Marnon Busch,Right-Back,30.0,1200000.0,1 Fc Heidenheim 1846,2425
+Lennard Maloney,Defensive Midfield,25.0,3500000.0,1 Fc Heidenheim 1846,2425
+Niklas Dorsch,Defensive Midfield,27.0,3500000.0,1 Fc Heidenheim 1846,2425
+Julian Niehues,Defensive Midfield,24.0,1500000.0,1 Fc Heidenheim 1846,2425
+Luka Janes,Defensive Midfield,21.0,200000.0,1 Fc Heidenheim 1846,2425
+Norman Theuerkauf,Defensive Midfield,38.0,175000.0,1 Fc Heidenheim 1846,2425
+Paul Wanner,Central Midfield,19.0,18000000.0,1 Fc Heidenheim 1846,2425
+Jan Schöppner,Central Midfield,26.0,4000000.0,1 Fc Heidenheim 1846,2425
+Luca Kerber,Central Midfield,23.0,1500000.0,1 Fc Heidenheim 1846,2425
+Léo Scienza,Attacking Midfield,26.0,3000000.0,1 Fc Heidenheim 1846,2425
+Adrian Beck,Attacking Midfield,28.0,2000000.0,1 Fc Heidenheim 1846,2425
+Denis Thomalla,Attacking Midfield,32.0,450000.0,1 Fc Heidenheim 1846,2425
+Mathias Honsak,Left Winger,28.0,2000000.0,1 Fc Heidenheim 1846,2425
+Christopher Negele,Left Winger,20.0,250000.0,1 Fc Heidenheim 1846,2425
+Sirlord Conteh,Right Winger,28.0,1500000.0,1 Fc Heidenheim 1846,2425
+Marvin Pieringer,Centre-Forward,25.0,5500000.0,1 Fc Heidenheim 1846,2425
+Budu Zivzivadze,Centre-Forward,31.0,2000000.0,1 Fc Heidenheim 1846,2425
+Maximilian Breunig,Centre-Forward,24.0,1500000.0,1 Fc Heidenheim 1846,2425
+Mikkel Kaufmann,Centre-Forward,24.0,1200000.0,1 Fc Heidenheim 1846,2425
+Stefan Schimmer,Centre-Forward,31.0,500000.0,1 Fc Heidenheim 1846,2425
+Frederik Rönnow,Goalkeeper,32.0,3000000.0,1 Fc Union Berlin,2425
+Alexander Schwolow,Goalkeeper,33.0,500000.0,1 Fc Union Berlin,2425
+Carl Klaus,Goalkeeper,31.0,350000.0,1 Fc Union Berlin,2425
+Diogo Leite,Centre-Back,26.0,17000000.0,1 Fc Union Berlin,2425
+Danilho Doekhi,Centre-Back,27.0,13000000.0,1 Fc Union Berlin,2425
+Leopold Querfeld,Centre-Back,21.0,13000000.0,1 Fc Union Berlin,2425
+Paul Jaeckel,Centre-Back,26.0,1000000.0,1 Fc Union Berlin,2425
+Kevin Vogt,Centre-Back,33.0,1000000.0,1 Fc Union Berlin,2425
+Oluwaseun Ogbemudia,Centre-Back,18.0,,1 Fc Union Berlin,2425
+Tom Rothe,Left-Back,20.0,10000000.0,1 Fc Union Berlin,2425
+Robin Gosens,Left-Back,30.0,8000000.0,1 Fc Union Berlin,2425
+Jérôme Roussillon,Left-Back,32.0,800000.0,1 Fc Union Berlin,2425
+David Preu,Left-Back,20.0,400000.0,1 Fc Union Berlin,2425
+Josip Juranovic,Right-Back,29.0,4000000.0,1 Fc Union Berlin,2425
+Christopher Trimmel,Right-Back,38.0,600000.0,1 Fc Union Berlin,2425
+Aljoscha Kemlein,Defensive Midfield,20.0,7000000.0,1 Fc Union Berlin,2425
+Rani Khedira,Defensive Midfield,31.0,2500000.0,1 Fc Union Berlin,2425
+András Schäfer,Central Midfield,26.0,5000000.0,1 Fc Union Berlin,2425
+László Bénes,Central Midfield,27.0,3000000.0,1 Fc Union Berlin,2425
+Janik Haberer,Central Midfield,31.0,2500000.0,1 Fc Union Berlin,2425
+Lucas Tousart,Central Midfield,28.0,2500000.0,1 Fc Union Berlin,2425
+Robert Skov,Left Midfield,29.0,4000000.0,1 Fc Union Berlin,2425
+Woo-yeong Jeong,Attacking Midfield,25.0,4000000.0,1 Fc Union Berlin,2425
+Kevin Volland,Attacking Midfield,32.0,700000.0,1 Fc Union Berlin,2425
+Benedict Hollerbach,Centre-Forward,24.0,12000000.0,1 Fc Union Berlin,2425
+Yorbe Vertessen,Centre-Forward,24.0,6000000.0,1 Fc Union Berlin,2425
+Andrej Ilic,Centre-Forward,25.0,4000000.0,1 Fc Union Berlin,2425
+Marin Ljubicic,Centre-Forward,23.0,4000000.0,1 Fc Union Berlin,2425
+Jordan,Centre-Forward,29.0,3000000.0,1 Fc Union Berlin,2425
+Tim Skarke,Centre-Forward,28.0,2000000.0,1 Fc Union Berlin,2425
+Ivan Prtajin,Centre-Forward,29.0,1200000.0,1 Fc Union Berlin,2425
+Robin Zentner,Goalkeeper,30.0,4000000.0,1 Fsv Mainz 05,2425
+Lasse Rieß,Goalkeeper,23.0,400000.0,1 Fsv Mainz 05,2425
+Daniel Batz,Goalkeeper,34.0,250000.0,1 Fsv Mainz 05,2425
+Andreas Hanche-Olsen,Centre-Back,28.0,6000000.0,1 Fsv Mainz 05,2425
+Moritz Jenz,Centre-Back,26.0,5000000.0,1 Fsv Mainz 05,2425
+Dominik Kohr,Centre-Back,31.0,3500000.0,1 Fsv Mainz 05,2425
+Maxim Leitsch,Centre-Back,27.0,1500000.0,1 Fsv Mainz 05,2425
+Danny da Costa,Centre-Back,31.0,1500000.0,1 Fsv Mainz 05,2425
+Stefan Bell,Centre-Back,33.0,800000.0,1 Fsv Mainz 05,2425
+Maxim Dal,Centre-Back,19.0,150000.0,1 Fsv Mainz 05,2425
+Phillipp Mwene,Left-Back,31.0,1800000.0,1 Fsv Mainz 05,2425
+Anthony Caci,Right-Back,27.0,12000000.0,1 Fsv Mainz 05,2425
+Silvan Widmer,Right-Back,32.0,1200000.0,1 Fsv Mainz 05,2425
+Kaishu Sano,Defensive Midfield,24.0,20000000.0,1 Fsv Mainz 05,2425
+Lennard Maloney,Defensive Midfield,25.0,3500000.0,1 Fsv Mainz 05,2425
+Edimilson Fernandes,Defensive Midfield,29.0,3000000.0,1 Fsv Mainz 05,2425
+Nadiem Amiri,Central Midfield,28.0,20000000.0,1 Fsv Mainz 05,2425
+Daniel Gleiber,Central Midfield,20.0,225000.0,1 Fsv Mainz 05,2425
+Nikolas Veratschnig,Right Midfield,22.0,1500000.0,1 Fsv Mainz 05,2425
+Paul Nebel,Attacking Midfield,22.0,24000000.0,1 Fsv Mainz 05,2425
+Hyun-seok Hong,Attacking Midfield,26.0,3500000.0,1 Fsv Mainz 05,2425
+Jae-sung Lee,Attacking Midfield,32.0,2500000.0,1 Fsv Mainz 05,2425
+Marco Richter,Attacking Midfield,27.0,1500000.0,1 Fsv Mainz 05,2425
+Aymen Barkok,Attacking Midfield,27.0,500000.0,1 Fsv Mainz 05,2425
+Gabriel Vidovic,Left Winger,21.0,3000000.0,1 Fsv Mainz 05,2425
+Arnaud Nordin,Right Winger,27.0,5000000.0,1 Fsv Mainz 05,2425
+Armindo Sieb,Second Striker,22.0,3000000.0,1 Fsv Mainz 05,2425
+Jonathan Burkardt,Centre-Forward,24.0,35000000.0,1 Fsv Mainz 05,2425
+Nelson Weiper,Centre-Forward,20.0,10000000.0,1 Fsv Mainz 05,2425
+Karim Onisiwo,Centre-Forward,33.0,800000.0,1 Fsv Mainz 05,2425
+Matej Kovar,Goalkeeper,25.0,5000000.0,Bayer 04 Leverkusen,2425
+Lukas Hradecky,Goalkeeper,35.0,2000000.0,Bayer 04 Leverkusen,2425
+Niklas Lomb,Goalkeeper,31.0,250000.0,Bayer 04 Leverkusen,2425
+Simeon Rapsch,Goalkeeper,17.0,,Bayer 04 Leverkusen,2425
+Luca Novodomsky,Goalkeeper,20.0,,Bayer 04 Leverkusen,2425
+Piero Hincapié,Centre-Back,23.0,50000000.0,Bayer 04 Leverkusen,2425
+Edmond Tapsoba,Centre-Back,26.0,35000000.0,Bayer 04 Leverkusen,2425
+Jonathan Tah,Centre-Back,29.0,30000000.0,Bayer 04 Leverkusen,2425
+Odilon Kossounou,Centre-Back,24.0,25000000.0,Bayer 04 Leverkusen,2425
+Jeanuël Belocian,Centre-Back,20.0,15000000.0,Bayer 04 Leverkusen,2425
+Mario Hermoso,Centre-Back,30.0,7000000.0,Bayer 04 Leverkusen,2425
+Andrea Natali,Centre-Back,17.0,,Bayer 04 Leverkusen,2425
+Ben Hawighorst,Centre-Back,17.0,,Bayer 04 Leverkusen,2425
+Alejandro Grimaldo,Left-Back,29.0,30000000.0,Bayer 04 Leverkusen,2425
+Jeremie Frimpong,Right-Back,24.0,50000000.0,Bayer 04 Leverkusen,2425
+Nordi Mukiele,Right-Back,27.0,10000000.0,Bayer 04 Leverkusen,2425
+Arthur,Right-Back,22.0,7000000.0,Bayer 04 Leverkusen,2425
+Othniël Raterink,Right-Back,19.0,,Bayer 04 Leverkusen,2425
+Granit Xhaka,Defensive Midfield,32.0,12000000.0,Bayer 04 Leverkusen,2425
+Robert Andrich,Defensive Midfield,30.0,9000000.0,Bayer 04 Leverkusen,2425
+Exequiel Palacios,Central Midfield,26.0,40000000.0,Bayer 04 Leverkusen,2425
+Aleix García,Central Midfield,28.0,20000000.0,Bayer 04 Leverkusen,2425
+Florian Wirtz,Attacking Midfield,22.0,140000000.0,Bayer 04 Leverkusen,2425
+Jonas Hofmann,Attacking Midfield,32.0,2000000.0,Bayer 04 Leverkusen,2425
+Francis Onyeka,Attacking Midfield,18.0,500000.0,Bayer 04 Leverkusen,2425
+Amine Adli,Left Winger,25.0,18000000.0,Bayer 04 Leverkusen,2425
+Martin Terrier,Left Winger,28.0,17000000.0,Bayer 04 Leverkusen,2425
+Emiliano Buendía,Left Winger,28.0,15000000.0,Bayer 04 Leverkusen,2425
+Kerim Alajbegovic,Left Winger,17.0,,Bayer 04 Leverkusen,2425
+Nathan Tella,Right Winger,25.0,15000000.0,Bayer 04 Leverkusen,2425
+Victor Boniface,Centre-Forward,24.0,40000000.0,Bayer 04 Leverkusen,2425
+Patrik Schick,Centre-Forward,29.0,27000000.0,Bayer 04 Leverkusen,2425
+Artem Stepanov,Centre-Forward,17.0,800000.0,Bayer 04 Leverkusen,2425
+Alejo Sarco,Centre-Forward,19.0,800000.0,Bayer 04 Leverkusen,2425
+Jonas Urbig,Goalkeeper,21.0,12000000.0,Bayern Munich,2425
+Manuel Neuer,Goalkeeper,39.0,4000000.0,Bayern Munich,2425
+Daniel Peretz,Goalkeeper,24.0,3000000.0,Bayern Munich,2425
+Max Schmitt,Goalkeeper,19.0,700000.0,Bayern Munich,2425
+Sven Ulreich,Goalkeeper,36.0,500000.0,Bayern Munich,2425
+Anthony Pavlesic,Goalkeeper,19.0,150000.0,Bayern Munich,2425
+Leon Klanac,Goalkeeper,18.0,,Bayern Munich,2425
+Dayot Upamecano,Centre-Back,26.0,50000000.0,Bayern Munich,2425
+Min-jae Kim,Centre-Back,28.0,40000000.0,Bayern Munich,2425
+Jonathan Tah,Centre-Back,29.0,30000000.0,Bayern Munich,2425
+Hiroki Ito,Centre-Back,26.0,25000000.0,Bayern Munich,2425
+Eric Dier,Centre-Back,31.0,8000000.0,Bayern Munich,2425
+Tarek Buchmann,Centre-Back,20.0,500000.0,Bayern Munich,2425
+Cassiano Kiala,Centre-Back,16.0,,Bayern Munich,2425
+Alphonso Davies,Left-Back,24.0,50000000.0,Bayern Munich,2425
+Raphaël Guerreiro,Left-Back,31.0,8000000.0,Bayern Munich,2425
+Adam Aznou,Left-Back,19.0,4000000.0,Bayern Munich,2425
+Josip Stanisic,Right-Back,25.0,32000000.0,Bayern Munich,2425
+Konrad Laimer,Right-Back,28.0,25000000.0,Bayern Munich,2425
+Sacha Boey,Right-Back,24.0,18000000.0,Bayern Munich,2425
+Aleksandar Pavlovic,Defensive Midfield,21.0,55000000.0,Bayern Munich,2425
+Joshua Kimmich,Defensive Midfield,30.0,45000000.0,Bayern Munich,2425
+João Palhinha,Defensive Midfield,29.0,30000000.0,Bayern Munich,2425
+Noel Aseko,Defensive Midfield,19.0,700000.0,Bayern Munich,2425
+David Santos Daiber,Defensive Midfield,18.0,,Bayern Munich,2425
+Tom Bischof,Central Midfield,20.0,30000000.0,Bayern Munich,2425
+Leon Goretzka,Central Midfield,30.0,22000000.0,Bayern Munich,2425
+Jamal Musiala,Attacking Midfield,22.0,140000000.0,Bayern Munich,2425
+Arijon Ibrahimovic,Attacking Midfield,19.0,4000000.0,Bayern Munich,2425
+Jonathan Asp Jensen,Attacking Midfield,19.0,1500000.0,Bayern Munich,2425
+Lennart Karl,Attacking Midfield,17.0,1500000.0,Bayern Munich,2425
+Kingsley Coman,Left Winger,29.0,30000000.0,Bayern Munich,2425
+Maurice Krattenmacher,Left Winger,19.0,3500000.0,Bayern Munich,2425
+Gabriel Vidovic,Left Winger,21.0,3000000.0,Bayern Munich,2425
+Wisdom Mike,Left Winger,16.0,,Bayern Munich,2425
+Michael Olise,Right Winger,23.0,100000000.0,Bayern Munich,2425
+Leroy Sané,Right Winger,29.0,32000000.0,Bayern Munich,2425
+Nestory Irankunda,Right Winger,19.0,4000000.0,Bayern Munich,2425
+Serge Gnabry,Second Striker,29.0,22000000.0,Bayern Munich,2425
+Thomas Müller,Second Striker,35.0,6000000.0,Bayern Munich,2425
+Harry Kane,Centre-Forward,31.0,75000000.0,Bayern Munich,2425
+Mathys Tel,Centre-Forward,20.0,35000000.0,Bayern Munich,2425
+Jonah Kusi-Asare,Centre-Forward,17.0,2500000.0,Bayern Munich,2425
+Gregor Kobel,Goalkeeper,27.0,40000000.0,Borussia Dortmund,2425
+Alexander Meyer,Goalkeeper,34.0,800000.0,Borussia Dortmund,2425
+Marcel Lotka,Goalkeeper,24.0,800000.0,Borussia Dortmund,2425
+Silas Ostrzinski,Goalkeeper,21.0,200000.0,Borussia Dortmund,2425
+Robin Lisewski,Goalkeeper,19.0,,Borussia Dortmund,2425
+Nico Schlotterbeck,Centre-Back,25.0,40000000.0,Borussia Dortmund,2425
+Waldemar Anton,Centre-Back,28.0,18000000.0,Borussia Dortmund,2425
+Niklas Süle,Centre-Back,29.0,8000000.0,Borussia Dortmund,2425
+Soumaïla Coulibaly,Centre-Back,21.0,8000000.0,Borussia Dortmund,2425
+Ramy Bensebaini,Centre-Back,30.0,7000000.0,Borussia Dortmund,2425
+Emre Can,Centre-Back,31.0,7000000.0,Borussia Dortmund,2425
+Yannik Lührs,Centre-Back,21.0,600000.0,Borussia Dortmund,2425
+Filippo Mane,Centre-Back,20.0,600000.0,Borussia Dortmund,2425
+David Lelle,Centre-Back,22.0,200000.0,Borussia Dortmund,2425
+Elias Benkara,Centre-Back,18.0,,Borussia Dortmund,2425
+Tyler Meiser,Centre-Back,18.0,,Borussia Dortmund,2425
+Daniel Svensson,Left-Back,23.0,12000000.0,Borussia Dortmund,2425
+Almugera Kabar,Left-Back,19.0,1000000.0,Borussia Dortmund,2425
+Yan Couto,Right-Back,23.0,20000000.0,Borussia Dortmund,2425
+Julian Ryerson,Right-Back,27.0,20000000.0,Borussia Dortmund,2425
+Niklas Jessen,Right-Back,21.0,225000.0,Borussia Dortmund,2425
+Salih Özcan,Defensive Midfield,27.0,4000000.0,Borussia Dortmund,2425
+Ayman Azhil,Defensive Midfield,24.0,700000.0,Borussia Dortmund,2425
+Felix Nmecha,Central Midfield,24.0,28000000.0,Borussia Dortmund,2425
+Jobe Bellingham,Central Midfield,19.0,22000000.0,Borussia Dortmund,2425
+Carney Chukwuemeka,Central Midfield,21.0,18000000.0,Borussia Dortmund,2425
+Marcel Sabitzer,Central Midfield,31.0,8000000.0,Borussia Dortmund,2425
+Pascal Groß,Central Midfield,34.0,5000000.0,Borussia Dortmund,2425
+Kjell Wätjen,Central Midfield,19.0,2500000.0,Borussia Dortmund,2425
+Julian Brandt,Attacking Midfield,29.0,25000000.0,Borussia Dortmund,2425
+Giovanni Reyna,Attacking Midfield,22.0,7000000.0,Borussia Dortmund,2425
+Jamie Gittens,Left Winger,20.0,50000000.0,Borussia Dortmund,2425
+Julien Duranville,Left Winger,19.0,8500000.0,Borussia Dortmund,2425
+Rodney Elongo-Yombo,Left Winger,23.0,400000.0,Borussia Dortmund,2425
+Mathis Albert,Left Winger,16.0,,Borussia Dortmund,2425
+Karim Adeyemi,Right Winger,23.0,45000000.0,Borussia Dortmund,2425
+Cole Campbell,Right Winger,19.0,1500000.0,Borussia Dortmund,2425
+Samuele Inácio,Second Striker,17.0,,Borussia Dortmund,2425
+Serhou Guirassy,Centre-Forward,29.0,45000000.0,Borussia Dortmund,2425
+Donyell Malen,Centre-Forward,26.0,25000000.0,Borussia Dortmund,2425
+Maximilian Beier,Centre-Forward,22.0,25000000.0,Borussia Dortmund,2425
+Sébastien Haller,Centre-Forward,31.0,3000000.0,Borussia Dortmund,2425
+Jordi Paulina,Centre-Forward,20.0,250000.0,Borussia Dortmund,2425
+Moritz Nicolas,Goalkeeper,27.0,5000000.0,Borussia Monchengladbach,2425
+Jonas Omlin,Goalkeeper,31.0,2500000.0,Borussia Monchengladbach,2425
+Tiago Pereira Cardoso,Goalkeeper,19.0,1500000.0,Borussia Monchengladbach,2425
+Tobias Sippel,Goalkeeper,37.0,300000.0,Borussia Monchengladbach,2425
+Ko Itakura,Centre-Back,28.0,12000000.0,Borussia Monchengladbach,2425
+Nico Elvedi,Centre-Back,28.0,8000000.0,Borussia Monchengladbach,2425
+Marvin Friedrich,Centre-Back,29.0,3500000.0,Borussia Monchengladbach,2425
+Fabio Chiarodia,Centre-Back,20.0,2000000.0,Borussia Monchengladbach,2425
+Lukas Ullrich,Left-Back,21.0,8000000.0,Borussia Monchengladbach,2425
+Luca Netz,Left-Back,22.0,6000000.0,Borussia Monchengladbach,2425
+Joe Scally,Right-Back,22.0,10000000.0,Borussia Monchengladbach,2425
+Stefan Lainer,Right-Back,32.0,1200000.0,Borussia Monchengladbach,2425
+Julian Weigl,Defensive Midfield,29.0,6000000.0,Borussia Monchengladbach,2425
+Philipp Sander,Defensive Midfield,27.0,4000000.0,Borussia Monchengladbach,2425
+Niklas Swider,Defensive Midfield,18.0,250000.0,Borussia Monchengladbach,2425
+Veit Stange,Defensive Midfield,21.0,150000.0,Borussia Monchengladbach,2425
+Manu Koné,Central Midfield,24.0,40000000.0,Borussia Monchengladbach,2425
+Rocco Reitz,Central Midfield,23.0,15000000.0,Borussia Monchengladbach,2425
+Florian Neuhaus,Central Midfield,28.0,3500000.0,Borussia Monchengladbach,2425
+Kevin Stöger,Attacking Midfield,31.0,3500000.0,Borussia Monchengladbach,2425
+Noah Pesch,Attacking Midfield,20.0,300000.0,Borussia Monchengladbach,2425
+Robin Hack,Left Winger,26.0,12000000.0,Borussia Monchengladbach,2425
+Yvandro Borges Sanches,Left Winger,21.0,500000.0,Borussia Monchengladbach,2425
+Franck Honorat,Right Winger,28.0,12000000.0,Borussia Monchengladbach,2425
+Nathan Ngoumou,Right Winger,25.0,4000000.0,Borussia Monchengladbach,2425
+Charles Herrmann,Right Winger,19.0,300000.0,Borussia Monchengladbach,2425
+Tim Kleindienst,Centre-Forward,29.0,17000000.0,Borussia Monchengladbach,2425
+Alassane Pléa,Centre-Forward,32.0,5000000.0,Borussia Monchengladbach,2425
+Tomas Cvancara,Centre-Forward,24.0,3000000.0,Borussia Monchengladbach,2425
+Grant-Leon Ranos,Centre-Forward,21.0,500000.0,Borussia Monchengladbach,2425
+Shio Fukuda,Centre-Forward,21.0,500000.0,Borussia Monchengladbach,2425
+Kevin Trapp,Goalkeeper,34.0,2500000.0,Eintracht Frankfurt,2425
+Kauã Santos,Goalkeeper,22.0,2500000.0,Eintracht Frankfurt,2425
+Nils Ramming,Goalkeeper,18.0,300000.0,Eintracht Frankfurt,2425
+Jens Grahl,Goalkeeper,36.0,200000.0,Eintracht Frankfurt,2425
+Yurij Obert,Goalkeeper,19.0,50000.0,Eintracht Frankfurt,2425
+Amil Siljevic,Goalkeeper,18.0,,Eintracht Frankfurt,2425
+Arthur Theate,Centre-Back,25.0,24000000.0,Eintracht Frankfurt,2425
+Robin Koch,Centre-Back,28.0,18000000.0,Eintracht Frankfurt,2425
+Tuta,Centre-Back,25.0,15000000.0,Eintracht Frankfurt,2425
+Nnamdi Collins,Centre-Back,21.0,10000000.0,Eintracht Frankfurt,2425
+Aurèle Amenda,Centre-Back,21.0,7500000.0,Eintracht Frankfurt,2425
+Nathaniel Brown,Left-Back,22.0,22000000.0,Eintracht Frankfurt,2425
+Niels Nkounkou,Left-Back,24.0,3500000.0,Eintracht Frankfurt,2425
+Rasmus Kristensen,Right-Back,27.0,14000000.0,Eintracht Frankfurt,2425
+Timothy Chandler,Right-Back,35.0,350000.0,Eintracht Frankfurt,2425
+Ellyes Skhiri,Defensive Midfield,30.0,7500000.0,Eintracht Frankfurt,2425
+Eba Bekir Is,Defensive Midfield,16.0,500000.0,Eintracht Frankfurt,2425
+Noah Fenyő,Defensive Midfield,19.0,350000.0,Eintracht Frankfurt,2425
+Hugo Larsson,Central Midfield,21.0,40000000.0,Eintracht Frankfurt,2425
+Oscar Højlund,Central Midfield,20.0,7500000.0,Eintracht Frankfurt,2425
+Mahmoud Dahoud,Central Midfield,29.0,3500000.0,Eintracht Frankfurt,2425
+Junior Dina Ebimbe,Right Midfield,24.0,6000000.0,Eintracht Frankfurt,2425
+Can Uzun,Attacking Midfield,19.0,18000000.0,Eintracht Frankfurt,2425
+Farès Chaïbi,Attacking Midfield,22.0,9000000.0,Eintracht Frankfurt,2425
+Mario Götze,Attacking Midfield,33.0,4000000.0,Eintracht Frankfurt,2425
+Krisztián Lisztes,Attacking Midfield,20.0,2000000.0,Eintracht Frankfurt,2425
+Jean-Mattéo Bahoya,Left Winger,20.0,17000000.0,Eintracht Frankfurt,2425
+Ansgar Knauff,Right Winger,23.0,15000000.0,Eintracht Frankfurt,2425
+Omar Marmoush,Centre-Forward,26.0,75000000.0,Eintracht Frankfurt,2425
+Hugo Ekitiké,Centre-Forward,23.0,75000000.0,Eintracht Frankfurt,2425
+Elye Wahi,Centre-Forward,22.0,22000000.0,Eintracht Frankfurt,2425
+Igor Matanovic,Centre-Forward,22.0,5000000.0,Eintracht Frankfurt,2425
+Michy Batshuayi,Centre-Forward,31.0,4000000.0,Eintracht Frankfurt,2425
+Finn Dahmen,Goalkeeper,27.0,9000000.0,Fc Augsburg,2425
+Nediljko Labrovic,Goalkeeper,25.0,2500000.0,Fc Augsburg,2425
+Daniel Klein,Goalkeeper,24.0,150000.0,Fc Augsburg,2425
+Chrislain Matsima,Centre-Back,23.0,22000000.0,Fc Augsburg,2425
+Felix Uduokhai,Centre-Back,27.0,7000000.0,Fc Augsburg,2425
+Cédric Zesiger,Centre-Back,27.0,7000000.0,Fc Augsburg,2425
+Keven Schlotterbeck,Centre-Back,28.0,6000000.0,Fc Augsburg,2425
+Noahkai Banks,Centre-Back,18.0,6000000.0,Fc Augsburg,2425
+Maximilian Bauer,Centre-Back,25.0,2000000.0,Fc Augsburg,2425
+Jeffrey Gouweleeuw,Centre-Back,33.0,1500000.0,Fc Augsburg,2425
+Reece Oxford,Centre-Back,26.0,500000.0,Fc Augsburg,2425
+Felix Meiser,Centre-Back,18.0,150000.0,Fc Augsburg,2425
+Dimitrios Giannoulis,Left-Back,29.0,3000000.0,Fc Augsburg,2425
+Mads Pedersen,Left-Back,28.0,2000000.0,Fc Augsburg,2425
+Marius Wolf,Right-Back,30.0,3000000.0,Fc Augsburg,2425
+Henri Koudossou,Right-Back,25.0,2000000.0,Fc Augsburg,2425
+Robert Gumny,Right-Back,27.0,1500000.0,Fc Augsburg,2425
+Kristijan Jakic,Defensive Midfield,28.0,6500000.0,Fc Augsburg,2425
+Niklas Dorsch,Defensive Midfield,27.0,3500000.0,Fc Augsburg,2425
+Tim Breithaupt,Defensive Midfield,23.0,2500000.0,Fc Augsburg,2425
+Mahmut Kücüksahin,Defensive Midfield,21.0,175000.0,Fc Augsburg,2425
+David Deger,Defensive Midfield,25.0,100000.0,Fc Augsburg,2425
+Arne Engels,Central Midfield,21.0,12000000.0,Fc Augsburg,2425
+Frank Onyeka,Central Midfield,27.0,7000000.0,Fc Augsburg,2425
+Arne Maier,Central Midfield,26.0,4000000.0,Fc Augsburg,2425
+Elvis Rexhbecaj,Central Midfield,27.0,3500000.0,Fc Augsburg,2425
+Alexis Claude-Maurice,Attacking Midfield,27.0,12000000.0,Fc Augsburg,2425
+Mert Kömür,Attacking Midfield,19.0,5000000.0,Fc Augsburg,2425
+Fredrik Jensen,Attacking Midfield,27.0,3500000.0,Fc Augsburg,2425
+Juan Cabrera,Attacking Midfield,22.0,300000.0,Fc Augsburg,2425
+Rubén Vargas,Left Winger,26.0,7000000.0,Fc Augsburg,2425
+Yusuf Kabadayi,Left Winger,21.0,1500000.0,Fc Augsburg,2425
+Phillip Tietz,Centre-Forward,27.0,5000000.0,Fc Augsburg,2425
+Samuel Essende,Centre-Forward,27.0,4500000.0,Fc Augsburg,2425
+Mergim Berisha,Centre-Forward,27.0,3500000.0,Fc Augsburg,2425
+Steve Mounié,Centre-Forward,30.0,2000000.0,Fc Augsburg,2425
+Nikola Vasilj,Goalkeeper,29.0,3500000.0,Fc St Pauli,2425
+Ben Voll,Goalkeeper,24.0,500000.0,Fc St Pauli,2425
+Eric Oelschlägel,Goalkeeper,29.0,300000.0,Fc St Pauli,2425
+Sascha Burchert,Goalkeeper,35.0,200000.0,Fc St Pauli,2425
+Ronny Seibt,Goalkeeper,19.0,75000.0,Fc St Pauli,2425
+Sören Ahlers,Goalkeeper,27.0,50000.0,Fc St Pauli,2425
+Eric Smith,Centre-Back,28.0,5000000.0,Fc St Pauli,2425
+David Nemeth,Centre-Back,24.0,4000000.0,Fc St Pauli,2425
+Siebe Van der Heyden,Centre-Back,27.0,2500000.0,Fc St Pauli,2425
+Hauke Wahl,Centre-Back,31.0,1500000.0,Fc St Pauli,2425
+Karol Mets,Centre-Back,32.0,1300000.0,Fc St Pauli,2425
+Adam Dzwigala,Centre-Back,29.0,600000.0,Fc St Pauli,2425
+Emil Staugaard,Centre-Back,23.0,125000.0,Fc St Pauli,2425
+Muhammad Dahaba,Centre-Back,20.0,125000.0,Fc St Pauli,2425
+Lars Ritzka,Left-Back,27.0,1000000.0,Fc St Pauli,2425
+Julien Yanda,Left-Back,17.0,250000.0,Fc St Pauli,2425
+Philipp Treu,Right-Back,24.0,5000000.0,Fc St Pauli,2425
+Manolis Saliakas,Right-Back,28.0,3000000.0,Fc St Pauli,2425
+Fin Stevens,Right-Back,22.0,500000.0,Fc St Pauli,2425
+James Sands,Defensive Midfield,24.0,3000000.0,Fc St Pauli,2425
+Marwin Schmitz,Defensive Midfield,18.0,200000.0,Fc St Pauli,2425
+Robert Wagner,Central Midfield,21.0,3000000.0,Fc St Pauli,2425
+Connor Metcalfe,Central Midfield,25.0,2500000.0,Fc St Pauli,2425
+Jackson Irvine,Central Midfield,32.0,2000000.0,Fc St Pauli,2425
+Erik Ahlstrand,Central Midfield,23.0,500000.0,Fc St Pauli,2425
+Carlo Boukhalfa,Attacking Midfield,26.0,2000000.0,Fc St Pauli,2425
+Danel Sinani,Attacking Midfield,28.0,1500000.0,Fc St Pauli,2425
+Noah Weißhaupt,Left Winger,23.0,5000000.0,Fc St Pauli,2425
+Elias Saad,Left Winger,25.0,4000000.0,Fc St Pauli,2425
+Oladapo Afolayan,Right Winger,27.0,4000000.0,Fc St Pauli,2425
+Morgan Guilavogui,Right Winger,27.0,4000000.0,Fc St Pauli,2425
+Scott Banks,Right Winger,23.0,500000.0,Fc St Pauli,2425
+Johannes Eggestein,Centre-Forward,27.0,2500000.0,Fc St Pauli,2425
+Abdoulie Ceesay,Centre-Forward,21.0,500000.0,Fc St Pauli,2425
+Maurides,Centre-Forward,31.0,350000.0,Fc St Pauli,2425
+Andreas Albers,Centre-Forward,35.0,300000.0,Fc St Pauli,2425
+Simon Zoller,Centre-Forward,34.0,300000.0,Fc St Pauli,2425
+Romeo Aigbekaen,Centre-Forward,21.0,100000.0,Fc St Pauli,2425
+Timon Weiner,Goalkeeper,26.0,1000000.0,Holstein Kiel,2425
+Thomas Dähne,Goalkeeper,31.0,400000.0,Holstein Kiel,2425
+Marcel Engelhardt,Goalkeeper,32.0,175000.0,Holstein Kiel,2425
+David Zec,Centre-Back,25.0,2500000.0,Holstein Kiel,2425
+Marko Ivezic,Centre-Back,23.0,2000000.0,Holstein Kiel,2425
+Max Geschwill,Centre-Back,23.0,1500000.0,Holstein Kiel,2425
+Timo Becker,Centre-Back,28.0,1500000.0,Holstein Kiel,2425
+Colin Kleine-Bekel,Centre-Back,22.0,1500000.0,Holstein Kiel,2425
+Marco Komenda,Centre-Back,28.0,800000.0,Holstein Kiel,2425
+Patrick Erras,Centre-Back,30.0,800000.0,Holstein Kiel,2425
+Ivan Nekic,Centre-Back,24.0,800000.0,Holstein Kiel,2425
+Carl Johansson,Centre-Back,31.0,500000.0,Holstein Kiel,2425
+John Tolkin,Left-Back,22.0,2500000.0,Holstein Kiel,2425
+Tymoteusz Puchacz,Left-Back,26.0,1500000.0,Holstein Kiel,2425
+Dominik Javorcek,Left-Back,22.0,550000.0,Holstein Kiel,2425
+Lasse Rosenboom,Right-Back,23.0,1500000.0,Holstein Kiel,2425
+Nicolai Remberg,Defensive Midfield,25.0,3000000.0,Holstein Kiel,2425
+Armin Gigovic,Central Midfield,23.0,3000000.0,Holstein Kiel,2425
+Magnus Knudsen,Central Midfield,24.0,2500000.0,Holstein Kiel,2425
+Marvin Schulz,Central Midfield,30.0,700000.0,Holstein Kiel,2425
+Lewis Holtby,Central Midfield,34.0,500000.0,Holstein Kiel,2425
+Finn Porath,Right Midfield,28.0,1700000.0,Holstein Kiel,2425
+Aurel Wagbe,Left Midfield,21.0,100000.0,Holstein Kiel,2425
+Fiete Arp,Attacking Midfield,25.0,800000.0,Holstein Kiel,2425
+Andu Kelati,Left Winger,22.0,800000.0,Holstein Kiel,2425
+Alexander Bernhardsson,Right Winger,26.0,3000000.0,Holstein Kiel,2425
+Shuto Machino,Centre-Forward,25.0,5000000.0,Holstein Kiel,2425
+Phil Harres,Centre-Forward,23.0,4000000.0,Holstein Kiel,2425
+Benedikt Pichler,Centre-Forward,27.0,1500000.0,Holstein Kiel,2425
+Steven Skrzybski,Centre-Forward,32.0,1000000.0,Holstein Kiel,2425
+Maarten Vandevoordt,Goalkeeper,23.0,8000000.0,Rb Leipzig,2425
+Péter Gulácsi,Goalkeeper,35.0,2000000.0,Rb Leipzig,2425
+Leopold Zingerle,Goalkeeper,31.0,400000.0,Rb Leipzig,2425
+Fernando Dickes,Goalkeeper,17.0,,Rb Leipzig,2425
+Castello Lukeba,Centre-Back,22.0,40000000.0,Rb Leipzig,2425
+Mohamed Simakan,Centre-Back,25.0,23000000.0,Rb Leipzig,2425
+El Chadaille Bitshiabu,Centre-Back,20.0,18000000.0,Rb Leipzig,2425
+Willi Orbán,Centre-Back,32.0,8000000.0,Rb Leipzig,2425
+Lukas Klostermann,Centre-Back,29.0,8000000.0,Rb Leipzig,2425
+Jonathan Norbye,Centre-Back,18.0,,Rb Leipzig,2425
+David Raum,Left-Back,27.0,20000000.0,Rb Leipzig,2425
+Lionel Voufack,Left-Back,17.0,,Rb Leipzig,2425
+Lutsharel Geertruida,Right-Back,24.0,20000000.0,Rb Leipzig,2425
+Benjamin Henrichs,Right-Back,28.0,15000000.0,Rb Leipzig,2425
+Kosta Nedeljkovic,Right-Back,19.0,10000000.0,Rb Leipzig,2425
+Ridle Baku,Right-Back,27.0,9000000.0,Rb Leipzig,2425
+Leon Koß,Right-Back,18.0,,Rb Leipzig,2425
+Arthur Vermeeren,Defensive Midfield,20.0,22000000.0,Rb Leipzig,2425
+Nicolas Seiwald,Defensive Midfield,24.0,18000000.0,Rb Leipzig,2425
+Amadou Haidara,Central Midfield,27.0,16000000.0,Rb Leipzig,2425
+Xaver Schlager,Central Midfield,27.0,10000000.0,Rb Leipzig,2425
+Assan Ouédraogo,Central Midfield,19.0,7000000.0,Rb Leipzig,2425
+Kevin Kampl,Central Midfield,34.0,2500000.0,Rb Leipzig,2425
+Mika Walther,Central Midfield,17.0,,Rb Leipzig,2425
+Xavi Simons,Attacking Midfield,22.0,70000000.0,Rb Leipzig,2425
+Eljif Elmas,Attacking Midfield,25.0,14000000.0,Rb Leipzig,2425
+Christoph Baumgartner,Attacking Midfield,25.0,12000000.0,Rb Leipzig,2425
+Viggo Gebel,Attacking Midfield,17.0,350000.0,Rb Leipzig,2425
+Nuha Jatta,Attacking Midfield,19.0,250000.0,Rb Leipzig,2425
+Antonio Nusa,Left Winger,20.0,28000000.0,Rb Leipzig,2425
+Tidiam Gomis,Left Winger,18.0,3000000.0,Rb Leipzig,2425
+Faik Sakar,Left Winger,17.0,200000.0,Rb Leipzig,2425
+Benjamin Sesko,Centre-Forward,22.0,70000000.0,Rb Leipzig,2425
+Loïs Openda,Centre-Forward,25.0,50000000.0,Rb Leipzig,2425
+Yussuf Poulsen,Centre-Forward,31.0,5000000.0,Rb Leipzig,2425
+André Silva,Centre-Forward,29.0,4000000.0,Rb Leipzig,2425
+Robert Ramsak,Centre-Forward,18.0,,Rb Leipzig,2425
+Noah Atubolu,Goalkeeper,23.0,18000000.0,Sc Freiburg,2425
+Florian Müller,Goalkeeper,27.0,1200000.0,Sc Freiburg,2425
+Jannik Huth,Goalkeeper,31.0,400000.0,Sc Freiburg,2425
+Philipp Lienhart,Centre-Back,28.0,12000000.0,Sc Freiburg,2425
+Max Rosenfelder,Centre-Back,22.0,8000000.0,Sc Freiburg,2425
+Matthias Ginter,Centre-Back,31.0,7000000.0,Sc Freiburg,2425
+Bruno Ogbus,Centre-Back,19.0,1000000.0,Sc Freiburg,2425
+Kenneth Schmidt,Centre-Back,23.0,800000.0,Sc Freiburg,2425
+Manuel Gulde,Centre-Back,34.0,400000.0,Sc Freiburg,2425
+Jordy Makengo,Left-Back,23.0,6000000.0,Sc Freiburg,2425
+Christian Günter,Left-Back,32.0,3500000.0,Sc Freiburg,2425
+Roland Sallai,Right-Back,28.0,10000000.0,Sc Freiburg,2425
+Kiliann Sildillia,Right-Back,23.0,10000000.0,Sc Freiburg,2425
+Lukas Kübler,Right-Back,32.0,1500000.0,Sc Freiburg,2425
+Patrick Osterhage,Defensive Midfield,25.0,10000000.0,Sc Freiburg,2425
+Nicolas Höfler,Defensive Midfield,35.0,500000.0,Sc Freiburg,2425
+Maximilian Eggestein,Central Midfield,28.0,10000000.0,Sc Freiburg,2425
+Johan Manzambi,Central Midfield,19.0,8000000.0,Sc Freiburg,2425
+Merlin Röhl,Attacking Midfield,22.0,12000000.0,Sc Freiburg,2425
+Daniel-Kofi Kyereh,Attacking Midfield,29.0,800000.0,Sc Freiburg,2425
+Vincenzo Grifo,Left Winger,32.0,6000000.0,Sc Freiburg,2425
+Noah Weißhaupt,Left Winger,23.0,5000000.0,Sc Freiburg,2425
+Florent Muslija,Left Winger,26.0,1800000.0,Sc Freiburg,2425
+Yann Sturm,Left Winger,20.0,500000.0,Sc Freiburg,2425
+Ritsu Doan,Right Winger,27.0,25000000.0,Sc Freiburg,2425
+Eren Dinkçi,Right Winger,23.0,8000000.0,Sc Freiburg,2425
+Niklas Beste,Right Winger,26.0,7000000.0,Sc Freiburg,2425
+Maximilian Philipp,Second Striker,31.0,800000.0,Sc Freiburg,2425
+Junior Adamu,Centre-Forward,24.0,5000000.0,Sc Freiburg,2425
+Lucas Höler,Centre-Forward,30.0,3000000.0,Sc Freiburg,2425
+Michael Gregoritsch,Centre-Forward,31.0,3000000.0,Sc Freiburg,2425
+Michael Zetterer,Goalkeeper,29.0,4500000.0,Sv Werder Bremen,2425
+Mio Backhaus,Goalkeeper,21.0,2000000.0,Sv Werder Bremen,2425
+Markus Kolke,Goalkeeper,34.0,300000.0,Sv Werder Bremen,2425
+Marco Friedl,Centre-Back,27.0,12000000.0,Sv Werder Bremen,2425
+Niklas Stark,Centre-Back,30.0,4000000.0,Sv Werder Bremen,2425
+Amos Pieper,Centre-Back,27.0,3500000.0,Sv Werder Bremen,2425
+Milos Veljkovic,Centre-Back,29.0,3000000.0,Sv Werder Bremen,2425
+Julián Malatini,Centre-Back,24.0,2500000.0,Sv Werder Bremen,2425
+Anthony Jung,Centre-Back,33.0,1000000.0,Sv Werder Bremen,2425
+Mick Schmetgens,Centre-Back,17.0,,Sv Werder Bremen,2425
+Karim Coulibaly,Centre-Back,18.0,,Sv Werder Bremen,2425
+Felix Agu,Left-Back,25.0,8000000.0,Sv Werder Bremen,2425
+Derrick Köhn,Left-Back,26.0,5000000.0,Sv Werder Bremen,2425
+Olivier Deman,Left-Back,25.0,3000000.0,Sv Werder Bremen,2425
+Mitchell Weiser,Right-Back,31.0,5000000.0,Sv Werder Bremen,2425
+Issa Kaboré,Right-Back,24.0,4000000.0,Sv Werder Bremen,2425
+Senne Lynen,Defensive Midfield,26.0,9000000.0,Sv Werder Bremen,2425
+Skelly Alvero,Defensive Midfield,23.0,2500000.0,Sv Werder Bremen,2425
+Wesley Adeh,Defensive Midfield,18.0,,Sv Werder Bremen,2425
+Jens Stage,Central Midfield,28.0,14000000.0,Sv Werder Bremen,2425
+Leonardo Bittencourt,Central Midfield,31.0,1500000.0,Sv Werder Bremen,2425
+Romano Schmid,Attacking Midfield,25.0,17000000.0,Sv Werder Bremen,2425
+Isak Hansen-Aarøen,Attacking Midfield,20.0,1000000.0,Sv Werder Bremen,2425
+Leon Opitz,Attacking Midfield,20.0,600000.0,Sv Werder Bremen,2425
+Patrice Covic,Attacking Midfield,18.0,,Sv Werder Bremen,2425
+Marco Grüll,Left Winger,26.0,4000000.0,Sv Werder Bremen,2425
+Abdenego Nankishi,Left Winger,22.0,450000.0,Sv Werder Bremen,2425
+Justin Njinmah,Right Winger,24.0,7000000.0,Sv Werder Bremen,2425
+Marvin Ducksch,Centre-Forward,31.0,6000000.0,Sv Werder Bremen,2425
+André Silva,Centre-Forward,29.0,4000000.0,Sv Werder Bremen,2425
+Keke Topp,Centre-Forward,21.0,4000000.0,Sv Werder Bremen,2425
+Oliver Burke,Centre-Forward,28.0,3000000.0,Sv Werder Bremen,2425
+Maik Lukowicz,Centre-Forward,30.0,150000.0,Sv Werder Bremen,2425
+Oliver Baumann,Goalkeeper,35.0,3000000.0,Tsg 1899 Hoffenheim,2425
+Luca Philipp,Goalkeeper,24.0,750000.0,Tsg 1899 Hoffenheim,2425
+Jakob Busk,Goalkeeper,31.0,250000.0,Tsg 1899 Hoffenheim,2425
+Lúkas Petersson,Goalkeeper,21.0,250000.0,Tsg 1899 Hoffenheim,2425
+Benjamin Lade,Goalkeeper,19.0,,Tsg 1899 Hoffenheim,2425
+Tim Philipp,Goalkeeper,19.0,,Tsg 1899 Hoffenheim,2425
+Leo Østigård,Centre-Back,25.0,10000000.0,Tsg 1899 Hoffenheim,2425
+Ozan Kabak,Centre-Back,25.0,5000000.0,Tsg 1899 Hoffenheim,2425
+Arthur Chaves,Centre-Back,24.0,5000000.0,Tsg 1899 Hoffenheim,2425
+Robin Hranac,Centre-Back,25.0,3500000.0,Tsg 1899 Hoffenheim,2425
+Tim Drexler,Centre-Back,20.0,3000000.0,Tsg 1899 Hoffenheim,2425
+Kevin Akpoguma,Centre-Back,30.0,2500000.0,Tsg 1899 Hoffenheim,2425
+Stanley Nsoki,Centre-Back,26.0,2500000.0,Tsg 1899 Hoffenheim,2425
+Attila Szalai,Centre-Back,27.0,1700000.0,Tsg 1899 Hoffenheim,2425
+Noah König,Centre-Back,22.0,250000.0,Tsg 1899 Hoffenheim,2425
+David Jurásek,Left-Back,24.0,5000000.0,Tsg 1899 Hoffenheim,2425
+Christopher Lenz,Left-Back,30.0,500000.0,Tsg 1899 Hoffenheim,2425
+Hennes Behrens,Left-Back,20.0,350000.0,Tsg 1899 Hoffenheim,2425
+Valentin Gendrey,Right-Back,25.0,7000000.0,Tsg 1899 Hoffenheim,2425
+Luca Erlein,Right-Back,17.0,300000.0,Tsg 1899 Hoffenheim,2425
+Lars Strobl,Right-Back,20.0,25000.0,Tsg 1899 Hoffenheim,2425
+Anton Stach,Defensive Midfield,26.0,14000000.0,Tsg 1899 Hoffenheim,2425
+Florian Grillitsch,Defensive Midfield,29.0,2000000.0,Tsg 1899 Hoffenheim,2425
+Diadié Samassékou,Defensive Midfield,29.0,1000000.0,Tsg 1899 Hoffenheim,2425
+Tom Bischof,Central Midfield,20.0,30000000.0,Tsg 1899 Hoffenheim,2425
+Umut Tohumcu,Central Midfield,20.0,6000000.0,Tsg 1899 Hoffenheim,2425
+Grischa Prömel,Central Midfield,30.0,3000000.0,Tsg 1899 Hoffenheim,2425
+Dennis Geiger,Central Midfield,27.0,2000000.0,Tsg 1899 Hoffenheim,2425
+Finn Becker,Central Midfield,25.0,2000000.0,Tsg 1899 Hoffenheim,2425
+Luka Duric,Central Midfield,22.0,250000.0,Tsg 1899 Hoffenheim,2425
+Pavel Kaderabek,Right Midfield,33.0,1700000.0,Tsg 1899 Hoffenheim,2425
+Alexander Prass,Left Midfield,24.0,5000000.0,Tsg 1899 Hoffenheim,2425
+Julian Justvan,Attacking Midfield,27.0,2200000.0,Tsg 1899 Hoffenheim,2425
+Florian Micheler,Attacking Midfield,20.0,500000.0,Tsg 1899 Hoffenheim,2425
+Bazoumana Touré,Left Winger,19.0,9000000.0,Tsg 1899 Hoffenheim,2425
+Jacob Bruun Larsen,Left Winger,26.0,5000000.0,Tsg 1899 Hoffenheim,2425
+Marius Bülter,Left Winger,32.0,2500000.0,Tsg 1899 Hoffenheim,2425
+Paul Hennrich,Right Winger,20.0,400000.0,Tsg 1899 Hoffenheim,2425
+Andrej Kramaric,Second Striker,34.0,4000000.0,Tsg 1899 Hoffenheim,2425
+Adam Hlozek,Centre-Forward,22.0,18000000.0,Tsg 1899 Hoffenheim,2425
+Gift Orban,Centre-Forward,22.0,10000000.0,Tsg 1899 Hoffenheim,2425
+Max Moerstedt,Centre-Forward,19.0,7000000.0,Tsg 1899 Hoffenheim,2425
+Mergim Berisha,Centre-Forward,27.0,3500000.0,Tsg 1899 Hoffenheim,2425
+Haris Tabakovic,Centre-Forward,31.0,2500000.0,Tsg 1899 Hoffenheim,2425
+Erencan Yardımcı,Centre-Forward,23.0,2500000.0,Tsg 1899 Hoffenheim,2425
+Ihlas Bebou,Centre-Forward,31.0,1000000.0,Tsg 1899 Hoffenheim,2425
+David Mokwa,Centre-Forward,21.0,1000000.0,Tsg 1899 Hoffenheim,2425
+Simon Kalambayi,Centre-Forward,20.0,175000.0,Tsg 1899 Hoffenheim,2425
+Alexander Nübel,Goalkeeper,28.0,12000000.0,Vfb Stuttgart,2425
+Dennis Seimen,Goalkeeper,19.0,2500000.0,Vfb Stuttgart,2425
+Fabian Bredlow,Goalkeeper,30.0,800000.0,Vfb Stuttgart,2425
+Stefan Drljaca,Goalkeeper,26.0,325000.0,Vfb Stuttgart,2425
+Finn Jeltsch,Centre-Back,18.0,20000000.0,Vfb Stuttgart,2425
+Jeff Chabot,Centre-Back,27.0,12000000.0,Vfb Stuttgart,2425
+Anthony Rouault,Centre-Back,24.0,10000000.0,Vfb Stuttgart,2425
+Ameen Al-Dakhil,Centre-Back,23.0,7500000.0,Vfb Stuttgart,2425
+Luca Jaquez,Centre-Back,22.0,6000000.0,Vfb Stuttgart,2425
+Ramon Hendriks,Centre-Back,23.0,5000000.0,Vfb Stuttgart,2425
+Anrie Chase,Centre-Back,21.0,3000000.0,Vfb Stuttgart,2425
+Dan-Axel Zagadou,Centre-Back,26.0,2000000.0,Vfb Stuttgart,2425
+Maximilian Mittelstädt,Left-Back,28.0,20000000.0,Vfb Stuttgart,2425
+Frans Krätzig,Left-Back,22.0,3500000.0,Vfb Stuttgart,2425
+Josha Vagnoman,Right-Back,24.0,10000000.0,Vfb Stuttgart,2425
+Leonidas Stergiou,Right-Back,23.0,5000000.0,Vfb Stuttgart,2425
+Pascal Stenzel,Right-Back,29.0,2000000.0,Vfb Stuttgart,2425
+Christopher Olivier,Right-Back,19.0,500000.0,Vfb Stuttgart,2425
+Angelo Stiller,Defensive Midfield,24.0,45000000.0,Vfb Stuttgart,2425
+Atakan Karazor,Defensive Midfield,28.0,12000000.0,Vfb Stuttgart,2425
+Yannik Keitel,Defensive Midfield,25.0,3500000.0,Vfb Stuttgart,2425
+Nikolas Nartey,Central Midfield,25.0,400000.0,Vfb Stuttgart,2425
+Enzo Millot,Attacking Midfield,22.0,35000000.0,Vfb Stuttgart,2425
+Fabian Rieder,Attacking Midfield,23.0,6000000.0,Vfb Stuttgart,2425
+El Bilal Touré,Left Winger,23.0,15000000.0,Vfb Stuttgart,2425
+Chris Führich,Left Winger,27.0,15000000.0,Vfb Stuttgart,2425
+Jacob Bruun Larsen,Left Winger,26.0,5000000.0,Vfb Stuttgart,2425
+Justin Diehl,Left Winger,20.0,3000000.0,Vfb Stuttgart,2425
+Jarzinho Malanga,Left Winger,18.0,1700000.0,Vfb Stuttgart,2425
+Benjamin Boakye,Left Winger,20.0,500000.0,Vfb Stuttgart,2425
+Jamie Leweling,Right Winger,24.0,20000000.0,Vfb Stuttgart,2425
+Silas,Right Winger,26.0,7000000.0,Vfb Stuttgart,2425
+Luca Raimund,Right Winger,20.0,400000.0,Vfb Stuttgart,2425
+Nick Woltemade,Centre-Forward,23.0,30000000.0,Vfb Stuttgart,2425
+Ermedin Demirovic,Centre-Forward,27.0,22000000.0,Vfb Stuttgart,2425
+Deniz Undav,Centre-Forward,28.0,20000000.0,Vfb Stuttgart,2425
+Wahid Faghir,Centre-Forward,21.0,700000.0,Vfb Stuttgart,2425
+Eliot Bujupi,Centre-Forward,18.0,500000.0,Vfb Stuttgart,2425
+Thomas Kastanaras,Centre-Forward,22.0,400000.0,Vfb Stuttgart,2425
+Timo Horn,Goalkeeper,32.0,800000.0,Vfl Bochum,2425
+Patrick Drewes,Goalkeeper,32.0,500000.0,Vfl Bochum,2425
+Paul Grave,Goalkeeper,24.0,50000.0,Vfl Bochum,2425
+Tim Oermann,Centre-Back,21.0,5000000.0,Vfl Bochum,2425
+Erhan Masovic,Centre-Back,26.0,2000000.0,Vfl Bochum,2425
+Jakov Medic,Centre-Back,26.0,2000000.0,Vfl Bochum,2425
+Ivan Ordets,Centre-Back,32.0,1000000.0,Vfl Bochum,2425
+Noah Loosli,Centre-Back,28.0,600000.0,Vfl Bochum,2425
+Mohammed Tolba,Centre-Back,20.0,200000.0,Vfl Bochum,2425
+Bernardo,Left-Back,30.0,5500000.0,Vfl Bochum,2425
+Maximilian Wittek,Left-Back,29.0,1500000.0,Vfl Bochum,2425
+Felix Passlack,Right-Back,27.0,2000000.0,Vfl Bochum,2425
+Cristian Gamboa,Right-Back,35.0,500000.0,Vfl Bochum,2425
+Kacper Koscierski,Right-Back,18.0,200000.0,Vfl Bochum,2425
+Ibrahima Sissoko,Defensive Midfield,27.0,6000000.0,Vfl Bochum,2425
+Tom Krauß,Defensive Midfield,24.0,4000000.0,Vfl Bochum,2425
+Anthony Losilla,Defensive Midfield,39.0,500000.0,Vfl Bochum,2425
+Niklas Jahn,Defensive Midfield,20.0,200000.0,Vfl Bochum,2425
+Matus Bero,Central Midfield,29.0,3000000.0,Vfl Bochum,2425
+Mats Pannewig,Central Midfield,20.0,1000000.0,Vfl Bochum,2425
+Agon Elezi,Central Midfield,24.0,650000.0,Vfl Bochum,2425
+Koji Miyoshi,Right Midfield,28.0,1500000.0,Vfl Bochum,2425
+Dani de Wit,Attacking Midfield,27.0,2500000.0,Vfl Bochum,2425
+Moritz-Broni Kwarteng,Attacking Midfield,27.0,1000000.0,Vfl Bochum,2425
+Lukas Daschner,Attacking Midfield,26.0,900000.0,Vfl Bochum,2425
+Lennart Koerdt,Attacking Midfield,20.0,,Vfl Bochum,2425
+Georgios Masouras,Left Winger,31.0,2000000.0,Vfl Bochum,2425
+Aliou Baldé,Left Winger,22.0,800000.0,Vfl Bochum,2425
+Gerrit Holtmann,Left Winger,30.0,700000.0,Vfl Bochum,2425
+Samuel Bamba,Right Winger,21.0,500000.0,Vfl Bochum,2425
+Myron Boadu,Centre-Forward,24.0,7000000.0,Vfl Bochum,2425
+Moritz Broschinski,Centre-Forward,24.0,2000000.0,Vfl Bochum,2425
+Philipp Hofmann,Centre-Forward,32.0,1000000.0,Vfl Bochum,2425
+Kamil Grabara,Goalkeeper,26.0,14000000.0,Vfl Wolfsburg,2425
+Marius Müller,Goalkeeper,31.0,1500000.0,Vfl Wolfsburg,2425
+Pavao Pervan,Goalkeeper,37.0,300000.0,Vfl Wolfsburg,2425
+Niklas Klinger,Goalkeeper,29.0,100000.0,Vfl Wolfsburg,2425
+Maxence Lacroix,Centre-Back,25.0,25000000.0,Vfl Wolfsburg,2425
+Konstantinos Koulierakis,Centre-Back,21.0,25000000.0,Vfl Wolfsburg,2425
+Cédric Zesiger,Centre-Back,27.0,7000000.0,Vfl Wolfsburg,2425
+Denis Vavro,Centre-Back,29.0,7000000.0,Vfl Wolfsburg,2425
+Sebastiaan Bornauw,Centre-Back,26.0,6000000.0,Vfl Wolfsburg,2425
+Moritz Jenz,Centre-Back,26.0,5000000.0,Vfl Wolfsburg,2425
+Nicolas Cozza,Centre-Back,26.0,3500000.0,Vfl Wolfsburg,2425
+David Odogu,Centre-Back,19.0,1500000.0,Vfl Wolfsburg,2425
+Mathys Angély,Centre-Back,18.0,600000.0,Vfl Wolfsburg,2425
+Till Neininger,Centre-Back,18.0,,Vfl Wolfsburg,2425
+Joakim Maehle,Left-Back,28.0,14000000.0,Vfl Wolfsburg,2425
+Rogério,Left-Back,27.0,2500000.0,Vfl Wolfsburg,2425
+Ridle Baku,Right-Back,27.0,9000000.0,Vfl Wolfsburg,2425
+Kilian Fischer,Right-Back,24.0,6000000.0,Vfl Wolfsburg,2425
+Mads Roerslev,Right-Back,26.0,6000000.0,Vfl Wolfsburg,2425
+Jan Bürger,Right-Back,18.0,,Vfl Wolfsburg,2425
+Salih Özcan,Defensive Midfield,27.0,4000000.0,Vfl Wolfsburg,2425
+Mattias Svanberg,Central Midfield,26.0,12000000.0,Vfl Wolfsburg,2425
+Aster Vranckx,Central Midfield,22.0,7000000.0,Vfl Wolfsburg,2425
+Maximilian Arnold,Central Midfield,31.0,5000000.0,Vfl Wolfsburg,2425
+Yannick Gerhardt,Central Midfield,31.0,2500000.0,Vfl Wolfsburg,2425
+Kevin Paredes,Left Midfield,22.0,7500000.0,Vfl Wolfsburg,2425
+Lovro Majer,Attacking Midfield,27.0,17000000.0,Vfl Wolfsburg,2425
+Bence Dárdai,Attacking Midfield,19.0,12000000.0,Vfl Wolfsburg,2425
+Bennit Bröger,Attacking Midfield,18.0,500000.0,Vfl Wolfsburg,2425
+Jakub Kaminski,Left Winger,23.0,5000000.0,Vfl Wolfsburg,2425
+Patrick Wimmer,Right Winger,24.0,15000000.0,Vfl Wolfsburg,2425
+Andreas Skov Olsen,Right Winger,25.0,14000000.0,Vfl Wolfsburg,2425
+Tiago Tomás,Right Winger,23.0,12000000.0,Vfl Wolfsburg,2425
+Mohamed Amoura,Centre-Forward,25.0,32000000.0,Vfl Wolfsburg,2425
+Jonas Wind,Centre-Forward,26.0,12000000.0,Vfl Wolfsburg,2425
+Lukas Nmecha,Centre-Forward,26.0,3000000.0,Vfl Wolfsburg,2425
+Kevin Behrens,Centre-Forward,34.0,1000000.0,Vfl Wolfsburg,2425
+Bartosz Bialek,Centre-Forward,23.0,800000.0,Vfl Wolfsburg,2425
+Jonathan Akaegbobi,Centre-Forward,19.0,,Vfl Wolfsburg,2425

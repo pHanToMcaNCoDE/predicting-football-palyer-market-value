@@ -1,8 +1,32 @@
 import pandas as pd
 import re
 import requests
-
 from bs4 import BeautifulSoup
+
+
+#######################################################################################################################################
+# Raw data
+#######################################################################################################################################
+
+PLAYER_NAME_MAPPING = {
+    "savio": "savinho",
+    "kostas tsimikas": "konstantinos tsimikas",
+    "son heung min": "heung min son",
+    "emi buendia": "emiliano buendia",
+    "andy irving": "andrew irving",
+    "gabriel magalhaes": "gabriel",
+    "igor": "igor julio",
+    "toti gomes": "toti",
+    "nico oreilly": "nico oreilly",
+    "victor bernth kristiansen": "victor kristiansen",
+    "william smallbone": "will smallbone",
+    "yehor yarmoliuk": "yegor yarmolyuk",
+    "yunus emre konak": "yunus konak"
+}
+
+#######################################################################################################################################
+# REUSABLE FUNCTIONS
+#######################################################################################################################################
 
 # All playing positions
 
@@ -264,3 +288,109 @@ def collect_league_squads(clubs_df, season):
         all_squads,
         ignore_index=True
     )
+
+
+# Function to remove symbols or alpha-numeric characters in player names
+
+def clean_player_name(name):
+    """Standardise player names for merging datasets.
+
+        Parameters:
+            name : str
+
+        Returns:
+            str
+    """
+
+    if pd.isna(name):
+        return name
+
+    # Remove accents
+    name = unicodedata.normalize("NFKD", name)
+    name = "".join(
+        c for c in name
+        if not unicodedata.combining(c)
+    )
+
+    # Lowercase
+    name = name.lower()
+
+    # Replace punctuation with spaces
+    name = re.sub(r"[-']", " ", name)
+
+    # Remove non-alphanumeric characters
+    name = re.sub(r"[^a-z0-9 ]", "", name)
+
+    # Remove extra spaces
+    name = re.sub(r"\s+", " ", name)
+
+    return name.strip()
+
+
+
+
+
+#
+
+def merge_fbref_transfermarkt(fbref_df, transfermarkt_df):
+    """Merge FBref performance data with transfermarkt market values.
+
+        Returns:
+            merge (DataFrame): Merged dataset
+    """
+
+    merged = fbref_df.merge(
+        transfermarkt_df,
+        on=[
+            "player_clean",
+            "club",
+            "season"
+        ],
+        how="inner"
+    )
+
+    return merged
+
+
+
+
+# Fix bundesliga clubs
+
+def fix_bundesliga_league(df):
+
+    df = df.reset_index()
+
+    bundesliga_clubs = [
+        "Arminia",
+        "Augsburg",
+        "Bayern Munich",
+        "Bochum",
+        "Dortmund",
+        "Eintracht Frankfurt",
+        "Freiburg",
+        "Gladbach",
+        "Greuther Fürth",
+        "Heidenheim",
+        "Hoffenheim",
+        "Holstein Kiel",
+        "Leverkusen",
+        "Mainz 05",
+        "RB Leipzig",
+        "Schalke 04",
+        "St Pauli",
+        "Stuttgart",
+        "Union Berlin",
+        "Werder Bremen",
+        "Wolfsburg",
+        "Köln",
+        "Hertha BSC",
+        "Darmstadt 98",
+        "Frankfurt"
+    ]
+
+    df.loc[
+        df["team"].isin(bundesliga_clubs),
+        "league"
+    ] = "GER-Bundesliga"
+
+    return df

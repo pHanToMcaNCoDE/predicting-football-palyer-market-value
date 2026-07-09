@@ -1,0 +1,701 @@
+player_name,position,Age,market_value_eur,club,season
+Donovan Léon,Goalkeeper,32.0,1000000.0,Aj Auxerre,2425
+Théo De Percin,Goalkeeper,24.0,300000.0,Aj Auxerre,2425
+Tom Negrel,Goalkeeper,22.0,50000.0,Aj Auxerre,2425
+Raphaël Adiceam,Goalkeeper,34.0,50000.0,Aj Auxerre,2425
+Sinaly Diomandé,Centre-Back,24.0,5000000.0,Aj Auxerre,2425
+Clément Akpa,Centre-Back,23.0,5000000.0,Aj Auxerre,2425
+Gabriel Osho,Centre-Back,26.0,3000000.0,Aj Auxerre,2425
+Jubal,Centre-Back,31.0,2500000.0,Aj Auxerre,2425
+Théo Pellenard,Centre-Back,31.0,700000.0,Aj Auxerre,2425
+Saad Agouzoul,Centre-Back,27.0,500000.0,Aj Auxerre,2425
+Madiou Keita,Centre-Back,20.0,150000.0,Aj Auxerre,2425
+Victor Mayela,Centre-Back,21.0,100000.0,Aj Auxerre,2425
+Telli Siwe,Centre-Back,20.0,,Aj Auxerre,2425
+Marvyn Muzungu,Centre-Back,17.0,,Aj Auxerre,2425
+Alvin Petit Dol,Centre-Back,18.0,,Aj Auxerre,2425
+Gideon Mensah,Left-Back,26.0,4000000.0,Aj Auxerre,2425
+Fredrik Oppegård,Left-Back,22.0,600000.0,Aj Auxerre,2425
+Ki-Jana Hoever,Right-Back,23.0,5000000.0,Aj Auxerre,2425
+Paul Joly,Right-Back,25.0,1800000.0,Aj Auxerre,2425
+Ange Loïc N'Gatta,Right-Back,21.0,100000.0,Aj Auxerre,2425
+Neil Glossoa,Right-Back,20.0,,Aj Auxerre,2425
+Elisha Owusu,Defensive Midfield,27.0,3000000.0,Aj Auxerre,2425
+Rayan Raveloson,Defensive Midfield,28.0,2000000.0,Aj Auxerre,2425
+Assane Dioussé,Defensive Midfield,27.0,700000.0,Aj Auxerre,2425
+Nathan Buayi-Kiala,Defensive Midfield,21.0,100000.0,Aj Auxerre,2425
+Kévin Danois,Central Midfield,21.0,8000000.0,Aj Auxerre,2425
+Han-Noah Massengo,Central Midfield,23.0,5000000.0,Aj Auxerre,2425
+Rudy Matondo,Central Midfield,17.0,300000.0,Aj Auxerre,2425
+Yoann Cissé,Left Midfield,20.0,,Aj Auxerre,2425
+Ben Viadere,Attacking Midfield,19.0,,Aj Auxerre,2425
+Hamed Traoré,Left Winger,25.0,20000000.0,Aj Auxerre,2425
+Aristide Zossou,Left Winger,20.0,100000.0,Aj Auxerre,2425
+Gaëtan Perrin,Right Winger,29.0,8000000.0,Aj Auxerre,2425
+Lasso Coulibaly,Right Winger,22.0,1200000.0,Aj Auxerre,2425
+Eros Maddy,Right Winger,24.0,150000.0,Aj Auxerre,2425
+Lassine Sinayoko,Centre-Forward,25.0,4000000.0,Aj Auxerre,2425
+Theo Bair,Centre-Forward,25.0,1800000.0,Aj Auxerre,2425
+Ado Onaiwu,Centre-Forward,29.0,1500000.0,Aj Auxerre,2425
+Florian Ayé,Centre-Forward,28.0,1200000.0,Aj Auxerre,2425
+Yahia Fofana,Goalkeeper,24.0,7000000.0,Angers Sco,2425
+Melvin Zinga,Goalkeeper,23.0,300000.0,Angers Sco,2425
+Oumar Pona,Goalkeeper,19.0,,Angers Sco,2425
+Emmanuel Biumla,Centre-Back,20.0,4000000.0,Angers Sco,2425
+Jordan Lefort,Centre-Back,31.0,1500000.0,Angers Sco,2425
+Cédric Hountondji,Centre-Back,31.0,1200000.0,Angers Sco,2425
+Ousmane Camara,Centre-Back,22.0,400000.0,Angers Sco,2425
+Abdoulaye Bamba,Centre-Back,35.0,300000.0,Angers Sco,2425
+Yacine Gaya,Centre-Back,20.0,,Angers Sco,2425
+Jacques Ekomié,Left-Back,21.0,800000.0,Angers Sco,2425
+Florent Hanin,Left-Back,35.0,300000.0,Angers Sco,2425
+Carlens Arcus,Right-Back,29.0,1800000.0,Angers Sco,2425
+Lilian Raolisoa,Right-Back,25.0,800000.0,Angers Sco,2425
+Halid Sabanovic,Right-Back,25.0,150000.0,Angers Sco,2425
+Marius Louër,Right-Back,18.0,,Angers Sco,2425
+Jean-Eudes Aholou,Defensive Midfield,31.0,2000000.0,Angers Sco,2425
+Zinédine Ould Khaled,Defensive Midfield,25.0,400000.0,Angers Sco,2425
+Marius Courcoul,Defensive Midfield,18.0,300000.0,Angers Sco,2425
+Enzo Caumont,Defensive Midfield,21.0,50000.0,Angers Sco,2425
+Haris Belkebla,Central Midfield,31.0,2000000.0,Angers Sco,2425
+Yassin Belkhdim,Central Midfield,23.0,1000000.0,Angers Sco,2425
+Joseph Lopy,Central Midfield,33.0,300000.0,Angers Sco,2425
+Pierrick Capelle,Central Midfield,38.0,200000.0,Angers Sco,2425
+Himad Abdelli,Attacking Midfield,25.0,7000000.0,Angers Sco,2425
+Amine Moussaoui,Attacking Midfield,18.0,,Angers Sco,2425
+Farid El Melali,Left Winger,27.0,3500000.0,Angers Sco,2425
+Jim Allevinah,Right Winger,30.0,1500000.0,Angers Sco,2425
+Zinedine Ferhat,Right Winger,32.0,1000000.0,Angers Sco,2425
+Justin Kalumba,Right Winger,20.0,400000.0,Angers Sco,2425
+Willsem Boussaid,Right Winger,19.0,,Angers Sco,2425
+Estéban Lepaul,Centre-Forward,25.0,7000000.0,Angers Sco,2425
+Bamba Dieng,Centre-Forward,25.0,3000000.0,Angers Sco,2425
+Loïs Diony,Centre-Forward,32.0,1200000.0,Angers Sco,2425
+Ibrahima Niane,Centre-Forward,26.0,1000000.0,Angers Sco,2425
+Sidiki Chérif,Centre-Forward,18.0,800000.0,Angers Sco,2425
+Adrien Hunou,Centre-Forward,31.0,400000.0,Angers Sco,2425
+Prosper Peter,Centre-Forward,17.0,50000.0,Angers Sco,2425
+Lanroy Machine,Centre-Forward,19.0,,Angers Sco,2425
+Radoslaw Majecki,Goalkeeper,25.0,6000000.0,As Monaco,2425
+Philipp Köhn,Goalkeeper,27.0,5000000.0,As Monaco,2425
+Jules Stawiecki,Goalkeeper,18.0,200000.0,As Monaco,2425
+Yann Lienard,Goalkeeper,22.0,100000.0,As Monaco,2425
+Thilo Kehrer,Centre-Back,28.0,20000000.0,As Monaco,2425
+Christian Mawissa,Centre-Back,20.0,15000000.0,As Monaco,2425
+Mohammed Salisu,Centre-Back,26.0,12000000.0,As Monaco,2425
+Guillermo Maripán,Centre-Back,31.0,4000000.0,As Monaco,2425
+Bradel Kiwa,Centre-Back,19.0,,As Monaco,2425
+Caio Henrique,Left-Back,27.0,15000000.0,As Monaco,2425
+Ismail Jakobs,Left-Back,25.0,7000000.0,As Monaco,2425
+Kassoum Ouattara,Left-Back,20.0,7000000.0,As Monaco,2425
+Wilfried Singo,Right-Back,24.0,25000000.0,As Monaco,2425
+Vanderson,Right-Back,24.0,20000000.0,As Monaco,2425
+Jordan Teze,Right-Back,25.0,9000000.0,As Monaco,2425
+Denis Zakaria,Defensive Midfield,28.0,30000000.0,As Monaco,2425
+Soungoutou Magassa,Defensive Midfield,21.0,12000000.0,As Monaco,2425
+Moatasem Al-Musrati,Defensive Midfield,29.0,8000000.0,As Monaco,2425
+Aladji Bamba,Defensive Midfield,18.0,,As Monaco,2425
+Samuel Nibombe,Defensive Midfield,17.0,,As Monaco,2425
+Lamine Camara,Central Midfield,21.0,22000000.0,As Monaco,2425
+Eliot Matazo,Central Midfield,23.0,2000000.0,As Monaco,2425
+Edan Diop,Central Midfield,20.0,600000.0,As Monaco,2425
+Mamadou Coulibaly,Central Midfield,21.0,200000.0,As Monaco,2425
+Mayssam Benama,Central Midfield,20.0,150000.0,As Monaco,2425
+Krépin Diatta,Right Midfield,26.0,7000000.0,As Monaco,2425
+Aleksandr Golovin,Attacking Midfield,29.0,20000000.0,As Monaco,2425
+Saïmon Bouabré,Attacking Midfield,19.0,300000.0,As Monaco,2425
+Eliesse Ben Seghir,Left Winger,20.0,28000000.0,As Monaco,2425
+Takumi Minamino,Left Winger,30.0,15000000.0,As Monaco,2425
+Lucas Michal,Left Winger,20.0,500000.0,As Monaco,2425
+Maghnes Akliouche,Right Winger,23.0,45000000.0,As Monaco,2425
+Mika Biereth,Centre-Forward,22.0,30000000.0,As Monaco,2425
+Folarin Balogun,Centre-Forward,23.0,18000000.0,As Monaco,2425
+George Ilenikhena,Centre-Forward,18.0,15000000.0,As Monaco,2425
+Breel Embolo,Centre-Forward,28.0,12000000.0,As Monaco,2425
+Joan Tincres,Centre-Forward,19.0,100000.0,As Monaco,2425
+Gautier Larsonneur,Goalkeeper,28.0,3000000.0,As Saint Etienne,2425
+Brice Maubleu,Goalkeeper,35.0,200000.0,As Saint Etienne,2425
+Boubacar Fall,Goalkeeper,24.0,50000.0,As Saint Etienne,2425
+Issiaka Touré,Goalkeeper,20.0,,As Saint Etienne,2425
+Mickaël Nadé,Centre-Back,26.0,2000000.0,As Saint Etienne,2425
+Maxime Bernauer,Centre-Back,26.0,2000000.0,As Saint Etienne,2425
+Dylan Batubinsika,Centre-Back,29.0,1200000.0,As Saint Etienne,2425
+Léo Pétrot,Centre-Back,28.0,900000.0,As Saint Etienne,2425
+Yunis Abdelhamid,Centre-Back,37.0,400000.0,As Saint Etienne,2425
+Anthony Briançon,Centre-Back,30.0,400000.0,As Saint Etienne,2425
+Beres Owusu,Centre-Back,21.0,350000.0,As Saint Etienne,2425
+Pierre Cornud,Left-Back,28.0,800000.0,As Saint Etienne,2425
+Ben Old,Left-Back,22.0,700000.0,As Saint Etienne,2425
+Maedine Makhloufi,Left-Back,20.0,,As Saint Etienne,2425
+Yvann Maçon,Right-Back,26.0,1800000.0,As Saint Etienne,2425
+Dennis Appiah,Right-Back,33.0,800000.0,As Saint Etienne,2425
+Marwann Nzuzi,Right-Back,21.0,200000.0,As Saint Etienne,2425
+Kévin Pedro,Right-Back,19.0,50000.0,As Saint Etienne,2425
+Pierre Ekwah,Defensive Midfield,23.0,7000000.0,As Saint Etienne,2425
+Lamine Fomba,Defensive Midfield,27.0,600000.0,As Saint Etienne,2425
+Mathis Amougou,Central Midfield,19.0,10000000.0,As Saint Etienne,2425
+Benjamin Bouchouari,Central Midfield,23.0,5000000.0,As Saint Etienne,2425
+Aïmen Moueffek,Central Midfield,24.0,2500000.0,As Saint Etienne,2425
+Florian Tardieu,Central Midfield,33.0,600000.0,As Saint Etienne,2425
+Cheikh Fall,Central Midfield,21.0,50000.0,As Saint Etienne,2425
+Jebryl Sahraoui,Central Midfield,20.0,,As Saint Etienne,2425
+Augustine Boakye,Attacking Midfield,24.0,2500000.0,As Saint Etienne,2425
+Igor Miladinovic,Attacking Midfield,22.0,1000000.0,As Saint Etienne,2425
+Louis Mouton,Attacking Midfield,23.0,700000.0,As Saint Etienne,2425
+Antoine Gauthier,Attacking Midfield,20.0,,As Saint Etienne,2425
+Zuriko Davitashvili,Left Winger,24.0,10000000.0,As Saint Etienne,2425
+Mathieu Cafaro,Right Winger,28.0,2500000.0,As Saint Etienne,2425
+Irvin Cardona,Right Winger,27.0,2500000.0,As Saint Etienne,2425
+Ayman Aiki,Right Winger,20.0,400000.0,As Saint Etienne,2425
+Lucas Stassin,Centre-Forward,20.0,18000000.0,As Saint Etienne,2425
+Ibrahim Sissoko,Centre-Forward,29.0,1800000.0,As Saint Etienne,2425
+Djylian N'Guessan,Centre-Forward,16.0,800000.0,As Saint Etienne,2425
+Ibrahima Wadji,Centre-Forward,30.0,700000.0,As Saint Etienne,2425
+Jibril Othman,Centre-Forward,21.0,100000.0,As Saint Etienne,2425
+Alban Lafont,Goalkeeper,26.0,3000000.0,Fc Nantes,2425
+Anthony Lopes,Goalkeeper,34.0,1200000.0,Fc Nantes,2425
+Patrik Carlgren,Goalkeeper,33.0,600000.0,Fc Nantes,2425
+Hugo Barbet,Goalkeeper,23.0,50000.0,Fc Nantes,2425
+Nathan Zézé,Centre-Back,20.0,15000000.0,Fc Nantes,2425
+Saïdou Sow,Centre-Back,22.0,6000000.0,Fc Nantes,2425
+Nicolas Cozza,Centre-Back,26.0,3500000.0,Fc Nantes,2425
+Jean-Charles Castelletto,Centre-Back,30.0,3500000.0,Fc Nantes,2425
+Jean-Kévin Duverne,Centre-Back,27.0,2500000.0,Fc Nantes,2425
+Jean-Philippe Gbamin,Centre-Back,29.0,2000000.0,Fc Nantes,2425
+Nicolas Pallois,Centre-Back,37.0,400000.0,Fc Nantes,2425
+Sékou Doucouré,Centre-Back,20.0,50000.0,Fc Nantes,2425
+Enzo Mongo,Centre-Back,20.0,,Fc Nantes,2425
+Kelvin Amian,Right-Back,27.0,2500000.0,Fc Nantes,2425
+Fabien Centonze,Right-Back,29.0,1800000.0,Fc Nantes,2425
+Marcus Coco,Right-Back,29.0,1200000.0,Fc Nantes,2425
+Mathieu Acapandié,Right-Back,20.0,,Fc Nantes,2425
+Johann Lepenant,Defensive Midfield,22.0,6000000.0,Fc Nantes,2425
+Pedro Chirivella,Defensive Midfield,28.0,5000000.0,Fc Nantes,2425
+Francis Coquelin,Defensive Midfield,34.0,900000.0,Fc Nantes,2425
+Douglas Augusto,Central Midfield,28.0,6000000.0,Fc Nantes,2425
+Dehmaine Tabibou,Central Midfield,20.0,200000.0,Fc Nantes,2425
+Louis Leroux,Attacking Midfield,19.0,4000000.0,Fc Nantes,2425
+Florent Mollet,Attacking Midfield,33.0,1200000.0,Fc Nantes,2425
+Moses Simon,Left Winger,29.0,12000000.0,Fc Nantes,2425
+Sorba Thomas,Left Winger,26.0,3500000.0,Fc Nantes,2425
+Herba Guirassy,Left Winger,18.0,1000000.0,Fc Nantes,2425
+Adel Mahamoud,Left Winger,22.0,50000.0,Fc Nantes,2425
+Matthis Abline,Centre-Forward,22.0,18000000.0,Fc Nantes,2425
+Mostafa Mohamed,Centre-Forward,27.0,5000000.0,Fc Nantes,2425
+Meschack Elia,Centre-Forward,27.0,4000000.0,Fc Nantes,2425
+Tino Kadewere,Centre-Forward,29.0,2500000.0,Fc Nantes,2425
+Ignatius Ganago,Centre-Forward,26.0,2000000.0,Fc Nantes,2425
+Plamedi Nsingi,Centre-Forward,24.0,,Fc Nantes,2425
+Guillaume Restes,Goalkeeper,20.0,20000000.0,Fc Toulouse,2425
+Kjetil Haug,Goalkeeper,27.0,600000.0,Fc Toulouse,2425
+Álex Domínguez,Goalkeeper,26.0,300000.0,Fc Toulouse,2425
+Justin Lacombe,Goalkeeper,22.0,,Fc Toulouse,2425
+Mathys Niflore,Goalkeeper,18.0,,Fc Toulouse,2425
+Logan Costa,Centre-Back,24.0,18000000.0,Fc Toulouse,2425
+Charlie Cresswell,Centre-Back,22.0,10000000.0,Fc Toulouse,2425
+Mark McKenzie,Centre-Back,26.0,6000000.0,Fc Toulouse,2425
+Rasmus Nicolaisen,Centre-Back,28.0,4500000.0,Fc Toulouse,2425
+Jaydee Canvot,Centre-Back,18.0,4000000.0,Fc Toulouse,2425
+Ümit Akdağ,Centre-Back,21.0,600000.0,Fc Toulouse,2425
+Gabriel Suazo,Left-Back,27.0,4000000.0,Fc Toulouse,2425
+Ylies Aradj,Left-Back,20.0,,Fc Toulouse,2425
+Dayann Methalie,Left-Back,19.0,,Fc Toulouse,2425
+Warren Kamanzi,Right-Back,24.0,2000000.0,Fc Toulouse,2425
+Djibril Sidibé,Right-Back,32.0,1000000.0,Fc Toulouse,2425
+Rafik Messali,Right-Back,22.0,800000.0,Fc Toulouse,2425
+Cristian Cásseres Jr.,Central Midfield,25.0,6000000.0,Fc Toulouse,2425
+Vincent Sierro,Central Midfield,29.0,4000000.0,Fc Toulouse,2425
+Niklas Schmidt,Central Midfield,27.0,1800000.0,Fc Toulouse,2425
+Miha Zajc,Central Midfield,30.0,1500000.0,Fc Toulouse,2425
+Aron Dønnum,Right Midfield,27.0,4000000.0,Fc Toulouse,2425
+Naatan Skyttä,Attacking Midfield,23.0,3000000.0,Fc Toulouse,2425
+Denis Genreau,Attacking Midfield,26.0,800000.0,Fc Toulouse,2425
+Edhy Zuliani,Attacking Midfield,20.0,50000.0,Fc Toulouse,2425
+Mathis Saka,Attacking Midfield,18.0,50000.0,Fc Toulouse,2425
+Yann Gboho,Left Winger,24.0,8000000.0,Fc Toulouse,2425
+Ilyas Azizi,Left Winger,17.0,,Fc Toulouse,2425
+Zakaria Aboukhlal,Right Winger,25.0,12000000.0,Fc Toulouse,2425
+Shavy Babicka,Right Winger,25.0,2500000.0,Fc Toulouse,2425
+Noah Edjouma,Right Winger,19.0,800000.0,Fc Toulouse,2425
+Mamady Bangré,Right Winger,24.0,500000.0,Fc Toulouse,2425
+Frank Magri,Centre-Forward,25.0,3000000.0,Fc Toulouse,2425
+Joshua King,Centre-Forward,33.0,1800000.0,Fc Toulouse,2425
+Arthur Desmas,Goalkeeper,31.0,1200000.0,Le Havre Ac,2425
+Mathieu Gorgelin,Goalkeeper,34.0,300000.0,Le Havre Ac,2425
+Alex Teixeira,Goalkeeper,18.0,,Le Havre Ac,2425
+Gabriel Guri,Goalkeeper,19.0,,Le Havre Ac,2425
+Arouna Sangante,Centre-Back,23.0,8000000.0,Le Havre Ac,2425
+Étienne Youté Kinkoué,Centre-Back,23.0,7000000.0,Le Havre Ac,2425
+Gautier Lloris,Centre-Back,29.0,3000000.0,Le Havre Ac,2425
+Yoann Salmier,Centre-Back,32.0,800000.0,Le Havre Ac,2425
+Stephan Zagadou,Centre-Back,16.0,,Le Havre Ac,2425
+Christopher Operi,Left-Back,28.0,3800000.0,Le Havre Ac,2425
+Fodé Ballo-Touré,Left-Back,28.0,1200000.0,Le Havre Ac,2425
+Yanis Zouaoui,Left-Back,27.0,800000.0,Le Havre Ac,2425
+Timothée Pembélé,Right-Back,22.0,2500000.0,Le Havre Ac,2425
+Loïc Nego,Right-Back,34.0,700000.0,Le Havre Ac,2425
+Oualid El Hajjam,Right-Back,34.0,300000.0,Le Havre Ac,2425
+Junior Mwanga,Defensive Midfield,22.0,6000000.0,Le Havre Ac,2425
+Oussama Targhalline,Defensive Midfield,23.0,4000000.0,Le Havre Ac,2425
+Abdoulaye Touré,Defensive Midfield,31.0,3000000.0,Le Havre Ac,2425
+Aloïs Confais,Defensive Midfield,28.0,150000.0,Le Havre Ac,2425
+Mathéo Bodmer,Defensive Midfield,21.0,50000.0,Le Havre Ac,2425
+Daren Mosengo,Defensive Midfield,18.0,,Le Havre Ac,2425
+Yassine Kechta,Central Midfield,23.0,5000000.0,Le Havre Ac,2425
+Daler Kuzyaev,Central Midfield,32.0,3500000.0,Le Havre Ac,2425
+Rassoul Ndiaye,Central Midfield,23.0,2000000.0,Le Havre Ac,2425
+Mahamadou Diawara,Central Midfield,20.0,2000000.0,Le Havre Ac,2425
+Hernâni Mendes Vaz,Central Midfield,20.0,,Le Havre Ac,2425
+Guy-Noël Zohouri,Central Midfield,18.0,,Le Havre Ac,2425
+Ismaïl Bouneb,Attacking Midfield,19.0,50000.0,Le Havre Ac,2425
+Antoine Joujou,Left Winger,22.0,2000000.0,Le Havre Ac,2425
+Issa Soumaré,Left Winger,24.0,2000000.0,Le Havre Ac,2425
+Kandet Diawara,Left Winger,25.0,400000.0,Le Havre Ac,2425
+Josué Casimir,Right Winger,23.0,4000000.0,Le Havre Ac,2425
+Emmanuel Sabbi,Right Winger,27.0,1500000.0,Le Havre Ac,2425
+Samuel Grandsir,Right Winger,28.0,800000.0,Le Havre Ac,2425
+Ilyes Housni,Centre-Forward,20.0,1500000.0,Le Havre Ac,2425
+Steve Ngoura,Centre-Forward,20.0,800000.0,Le Havre Ac,2425
+Ahmed Hassan,Centre-Forward,32.0,800000.0,Le Havre Ac,2425
+André Ayew,Centre-Forward,35.0,600000.0,Le Havre Ac,2425
+Yann Kitala,Centre-Forward,27.0,400000.0,Le Havre Ac,2425
+Elysée Logbo,Centre-Forward,21.0,400000.0,Le Havre Ac,2425
+Enzo Kana-Biyik,Centre-Forward,18.0,,Le Havre Ac,2425
+Ruben Londja,Centre-Forward,19.0,,Le Havre Ac,2425
+Lucas Chevalier,Goalkeeper,23.0,30000000.0,Losc Lille,2425
+Lisandru Olmeta,Goalkeeper,19.0,150000.0,Losc Lille,2425
+Vito Mannone,Goalkeeper,37.0,150000.0,Losc Lille,2425
+Marc-Aurèle Caillard,Goalkeeper,31.0,100000.0,Losc Lille,2425
+Bafodé Diakité,Centre-Back,24.0,28000000.0,Losc Lille,2425
+Alexsandro,Centre-Back,25.0,20000000.0,Losc Lille,2425
+Samuel Umtiti,Centre-Back,31.0,1500000.0,Losc Lille,2425
+Aïssa Mandi,Centre-Back,33.0,1200000.0,Losc Lille,2425
+Rafael Fernandes,Centre-Back,23.0,1000000.0,Losc Lille,2425
+Ousmane Touré,Centre-Back,20.0,500000.0,Losc Lille,2425
+Isaac Cossier,Centre-Back,18.0,,Losc Lille,2425
+Gabriel Gudmundsson,Left-Back,26.0,7000000.0,Losc Lille,2425
+Ismaily,Left-Back,35.0,1200000.0,Losc Lille,2425
+Morgan Costarelli,Left-Back,20.0,,Losc Lille,2425
+Tiago Santos,Right-Back,22.0,15000000.0,Losc Lille,2425
+Thomas Meunier,Right-Back,33.0,2000000.0,Losc Lille,2425
+Akim Zedadka,Right-Back,30.0,700000.0,Losc Lille,2425
+Ngal'ayel Mukau,Defensive Midfield,20.0,15000000.0,Losc Lille,2425
+Nabil Bentaleb,Defensive Midfield,30.0,6000000.0,Losc Lille,2425
+Benjamin André,Defensive Midfield,34.0,5000000.0,Losc Lille,2425
+Ugo Raghouber,Defensive Midfield,21.0,4000000.0,Losc Lille,2425
+Lilian Baret,Defensive Midfield,19.0,,Losc Lille,2425
+Ayyoub Bouaddi,Central Midfield,17.0,28000000.0,Losc Lille,2425
+André Gomes,Central Midfield,31.0,6000000.0,Losc Lille,2425
+Mitchel Bakker,Left Midfield,25.0,7000000.0,Losc Lille,2425
+Vincent Burlet,Left Midfield,19.0,600000.0,Losc Lille,2425
+Angel Gomes,Attacking Midfield,24.0,20000000.0,Losc Lille,2425
+Hákon Arnar Haraldsson,Attacking Midfield,22.0,18000000.0,Losc Lille,2425
+Rémy Cabella,Attacking Midfield,35.0,2500000.0,Losc Lille,2425
+Osame Sahraoui,Left Winger,24.0,12000000.0,Losc Lille,2425
+Younes Lachaab,Left Winger,20.0,,Losc Lille,2425
+Soriba Diaoune,Left Winger,17.0,,Losc Lille,2425
+Edon Zhegrova,Right Winger,26.0,25000000.0,Losc Lille,2425
+Ethan Mbappé,Right Winger,18.0,5000000.0,Losc Lille,2425
+Aaron Malouda,Right Winger,19.0,150000.0,Losc Lille,2425
+Jonathan David,Centre-Forward,25.0,45000000.0,Losc Lille,2425
+Matias Fernandez-Pardo,Centre-Forward,20.0,15000000.0,Losc Lille,2425
+Chuba Akpom,Centre-Forward,29.0,7000000.0,Losc Lille,2425
+Andrej Ilic,Centre-Forward,25.0,4000000.0,Losc Lille,2425
+Mohamed Bayo,Centre-Forward,27.0,2800000.0,Losc Lille,2425
+Benjamin Lecomte,Goalkeeper,34.0,1500000.0,Montpellier Hsc,2425
+Dimitry Bertaud,Goalkeeper,27.0,1000000.0,Montpellier Hsc,2425
+Belmin Dizdarevic,Goalkeeper,23.0,100000.0,Montpellier Hsc,2425
+Becir Omeragic,Centre-Back,23.0,4500000.0,Montpellier Hsc,2425
+Bamo Meïté,Centre-Back,23.0,4000000.0,Montpellier Hsc,2425
+Kiki Kouyaté,Centre-Back,28.0,3000000.0,Montpellier Hsc,2425
+Modibo Sagnan,Centre-Back,26.0,3000000.0,Montpellier Hsc,2425
+Christopher Jullien,Centre-Back,32.0,1000000.0,Montpellier Hsc,2425
+Yaël Mouanga,Centre-Back,19.0,600000.0,Montpellier Hsc,2425
+Nikola Maksimović,Centre-Back,33.0,300000.0,Montpellier Hsc,2425
+Craig Mamilo,Centre-Back,18.0,,Montpellier Hsc,2425
+Issiaga Sylla,Left-Back,31.0,1500000.0,Montpellier Hsc,2425
+Lucas Mincarelli,Left-Back,21.0,900000.0,Montpellier Hsc,2425
+Théo Sainte-Luce,Left-Back,26.0,800000.0,Montpellier Hsc,2425
+Enzo Tchato,Right-Back,22.0,2500000.0,Montpellier Hsc,2425
+Falaye Sacko,Right-Back,30.0,1500000.0,Montpellier Hsc,2425
+Wilfried Ndollo,Right-Back,19.0,200000.0,Montpellier Hsc,2425
+Joris Chotard,Defensive Midfield,23.0,6000000.0,Montpellier Hsc,2425
+Rabby Nzingoula,Defensive Midfield,19.0,2500000.0,Montpellier Hsc,2425
+Birama Touré,Defensive Midfield,33.0,800000.0,Montpellier Hsc,2425
+Gabriel Barès,Defensive Midfield,24.0,300000.0,Montpellier Hsc,2425
+Abdoulaye Camara,Defensive Midfield,16.0,,Montpellier Hsc,2425
+Khalil Fayad,Central Midfield,21.0,3000000.0,Montpellier Hsc,2425
+Jordan Ferri,Central Midfield,33.0,2000000.0,Montpellier Hsc,2425
+Stefan Dzodic,Central Midfield,20.0,200000.0,Montpellier Hsc,2425
+Théo Chennahi,Central Midfield,20.0,150000.0,Montpellier Hsc,2425
+Téji Savanier,Attacking Midfield,33.0,2500000.0,Montpellier Hsc,2425
+Simon Cara,Attacking Midfield,20.0,50000.0,Montpellier Hsc,2425
+Wahbi Khazri,Left Winger,34.0,1000000.0,Montpellier Hsc,2425
+Yanis Issoufou,Left Winger,18.0,200000.0,Montpellier Hsc,2425
+Mousa Tamari,Right Winger,28.0,6000000.0,Montpellier Hsc,2425
+Arnaud Nordin,Right Winger,27.0,5000000.0,Montpellier Hsc,2425
+Tanguy Coulibaly,Right Winger,24.0,1500000.0,Montpellier Hsc,2425
+Nicolas Pays,Right Winger,21.0,700000.0,Montpellier Hsc,2425
+Othmane Maamma,Right Winger,19.0,600000.0,Montpellier Hsc,2425
+Axel Guéguin,Right Winger,20.0,300000.0,Montpellier Hsc,2425
+Akor Adams,Centre-Forward,25.0,5000000.0,Montpellier Hsc,2425
+Andy Delort,Centre-Forward,33.0,1500000.0,Montpellier Hsc,2425
+Junior Ndiaye,Centre-Forward,20.0,150000.0,Montpellier Hsc,2425
+Glenn Ngosso,Centre-Forward,21.0,,Montpellier Hsc,2425
+Marcin Bulka,Goalkeeper,25.0,20000000.0,Ogc Nice,2425
+Maxime Dupé,Goalkeeper,32.0,900000.0,Ogc Nice,2425
+Teddy Boulhendi,Goalkeeper,24.0,50000.0,Ogc Nice,2425
+Bartosz Zelazowski,Goalkeeper,20.0,,Ogc Nice,2425
+Youssouf Ndayishimiye,Centre-Back,26.0,12000000.0,Ogc Nice,2425
+Moïse Bombito,Centre-Back,25.0,10000000.0,Ogc Nice,2425
+Mohamed Abdelmonem,Centre-Back,26.0,4000000.0,Ogc Nice,2425
+Antoine Mendy,Centre-Back,21.0,2500000.0,Ogc Nice,2425
+Dante,Centre-Back,41.0,500000.0,Ogc Nice,2425
+Amidou Doumbouya,Centre-Back,17.0,200000.0,Ogc Nice,2425
+Laurenzo Monteiro,Centre-Back,21.0,,Ogc Nice,2425
+Melvin Bard,Left-Back,24.0,15000000.0,Ogc Nice,2425
+Ali Abdi,Left-Back,31.0,3000000.0,Ogc Nice,2425
+Yaël Nandjou,Left-Back,19.0,150000.0,Ogc Nice,2425
+Iliesse Salhi,Left-Back,17.0,50000.0,Ogc Nice,2425
+Mousslim Youssouf,Left-Back,19.0,,Ogc Nice,2425
+Jordan Lotomba,Right-Back,26.0,6500000.0,Ogc Nice,2425
+Jonathan Clauss,Right-Back,32.0,5000000.0,Ogc Nice,2425
+Pablo Rosario,Defensive Midfield,28.0,8000000.0,Ogc Nice,2425
+Baptiste Santamaria,Defensive Midfield,30.0,7000000.0,Ogc Nice,2425
+Everton,Defensive Midfield,18.0,,Ogc Nice,2425
+Hicham Boudaoui,Central Midfield,25.0,15000000.0,Ogc Nice,2425
+Tanguy Ndombélé,Central Midfield,28.0,7000000.0,Ogc Nice,2425
+Morgan Sanson,Central Midfield,30.0,5000000.0,Ogc Nice,2425
+Daouda Traoré,Central Midfield,18.0,250000.0,Ogc Nice,2425
+Issiaga Camara,Central Midfield,20.0,200000.0,Ogc Nice,2425
+Djibril Coulibaly,Central Midfield,16.0,,Ogc Nice,2425
+Tom Louchet,Right Midfield,22.0,2500000.0,Ogc Nice,2425
+Rareș Ilie,Attacking Midfield,22.0,1800000.0,Ogc Nice,2425
+Jérémie Boga,Left Winger,28.0,10000000.0,Ogc Nice,2425
+Sofiane Diop,Left Winger,25.0,10000000.0,Ogc Nice,2425
+Evann Guessand,Right Winger,23.0,25000000.0,Ogc Nice,2425
+Mohamed-Ali Cho,Right Winger,21.0,15000000.0,Ogc Nice,2425
+Badredine Bouanani,Right Winger,20.0,7000000.0,Ogc Nice,2425
+Billal Brahimi,Right Winger,25.0,1800000.0,Ogc Nice,2425
+Terem Moffi,Centre-Forward,26.0,15000000.0,Ogc Nice,2425
+Youssoufa Moukoko,Centre-Forward,20.0,10000000.0,Ogc Nice,2425
+Gaëtan Laborde,Centre-Forward,31.0,6000000.0,Ogc Nice,2425
+Victor Orakpo,Centre-Forward,19.0,400000.0,Ogc Nice,2425
+Farès Bousnina,Centre-Forward,19.0,150000.0,Ogc Nice,2425
+Bernard Nguene,Centre-Forward,18.0,100000.0,Ogc Nice,2425
+Lucas Perri,Goalkeeper,27.0,10000000.0,Olympique Lyon,2425
+Anthony Lopes,Goalkeeper,34.0,1200000.0,Olympique Lyon,2425
+Rémy Descamps,Goalkeeper,29.0,1200000.0,Olympique Lyon,2425
+Justin Bengui,Goalkeeper,19.0,400000.0,Olympique Lyon,2425
+Lassine Diarra,Goalkeeper,22.0,50000.0,Olympique Lyon,2425
+Matthias da Silva,Goalkeeper,17.0,,Olympique Lyon,2425
+Moussa Niakhaté,Centre-Back,29.0,15000000.0,Olympique Lyon,2425
+Duje Caleta-Car,Centre-Back,28.0,7000000.0,Olympique Lyon,2425
+Adryelson,Centre-Back,27.0,3500000.0,Olympique Lyon,2425
+Clinton Mata,Centre-Back,32.0,3500000.0,Olympique Lyon,2425
+Warmed Omari,Centre-Back,25.0,3000000.0,Olympique Lyon,2425
+Abner,Left-Back,25.0,7000000.0,Olympique Lyon,2425
+Nicolás Tagliafico,Left-Back,32.0,6000000.0,Olympique Lyon,2425
+Ainsley Maitland-Niles,Right-Back,27.0,12000000.0,Olympique Lyon,2425
+Saël Kumbedi,Right-Back,20.0,7000000.0,Olympique Lyon,2425
+Téo Barišić,Right-Back,20.0,,Olympique Lyon,2425
+Orel Mangala,Defensive Midfield,27.0,18000000.0,Olympique Lyon,2425
+Tanner Tessmann,Defensive Midfield,23.0,6000000.0,Olympique Lyon,2425
+Nemanja Matić,Defensive Midfield,36.0,2000000.0,Olympique Lyon,2425
+Paul Akouokou,Defensive Midfield,27.0,800000.0,Olympique Lyon,2425
+Mathys de Carvalho,Defensive Midfield,20.0,,Olympique Lyon,2425
+Maxence Caqueret,Central Midfield,25.0,16000000.0,Olympique Lyon,2425
+Corentin Tolisso,Central Midfield,30.0,12000000.0,Olympique Lyon,2425
+Jordan Veretout,Central Midfield,32.0,4000000.0,Olympique Lyon,2425
+Mahamadou Diawara,Central Midfield,20.0,2000000.0,Olympique Lyon,2425
+Rayan Cherki,Attacking Midfield,21.0,45000000.0,Olympique Lyon,2425
+Malick Fofana,Left Winger,20.0,30000000.0,Olympique Lyon,2425
+Thiago Almada,Left Winger,24.0,25000000.0,Olympique Lyon,2425
+Saïd Benrahma,Left Winger,29.0,10000000.0,Olympique Lyon,2425
+Wilfried Zaha,Left Winger,32.0,5000000.0,Olympique Lyon,2425
+Ernest Nuamah,Right Winger,21.0,15000000.0,Olympique Lyon,2425
+Georges Mikautadze,Centre-Forward,24.0,22000000.0,Olympique Lyon,2425
+Gift Orban,Centre-Forward,22.0,10000000.0,Olympique Lyon,2425
+Alexandre Lacazette,Centre-Forward,34.0,6000000.0,Olympique Lyon,2425
+Mama Baldé,Centre-Forward,29.0,4000000.0,Olympique Lyon,2425
+Alejandro Gomes Rodríguez,Centre-Forward,17.0,100000.0,Olympique Lyon,2425
+Enzo Molebe,Centre-Forward,17.0,100000.0,Olympique Lyon,2425
+Gerónimo Rulli,Goalkeeper,33.0,8000000.0,Olympique Marseille,2425
+Jeffrey de Lange,Goalkeeper,27.0,2000000.0,Olympique Marseille,2425
+Rubén Blanco,Goalkeeper,29.0,1000000.0,Olympique Marseille,2425
+Jelle Van Neck,Goalkeeper,21.0,50000.0,Olympique Marseille,2425
+Leonardo Balerdi,Centre-Back,26.0,20000000.0,Olympique Marseille,2425
+Lilian Brassier,Centre-Back,25.0,10000000.0,Olympique Marseille,2425
+Luiz Felipe,Centre-Back,28.0,5000000.0,Olympique Marseille,2425
+Derek Cornelius,Centre-Back,27.0,5000000.0,Olympique Marseille,2425
+Bamo Meïté,Centre-Back,23.0,4000000.0,Olympique Marseille,2425
+Chancel Mbemba,Centre-Back,30.0,2000000.0,Olympique Marseille,2425
+Roggerio Nyakossi,Centre-Back,21.0,500000.0,Olympique Marseille,2425
+Rony Mimb Baheng,Centre-Back,20.0,,Olympique Marseille,2425
+Quentin Merlin,Left-Back,23.0,15000000.0,Olympique Marseille,2425
+Ulisses Garcia,Left-Back,29.0,5000000.0,Olympique Marseille,2425
+Alexi Koum,Left-Back,19.0,100000.0,Olympique Marseille,2425
+Amar Dedić,Right-Back,22.0,12000000.0,Olympique Marseille,2425
+Amir Murillo,Right-Back,29.0,10000000.0,Olympique Marseille,2425
+Pol Lirola,Right-Back,27.0,4000000.0,Olympique Marseille,2425
+Pierre-Emile Højbjerg,Defensive Midfield,29.0,20000000.0,Olympique Marseille,2425
+Ismaël Bennacer,Defensive Midfield,27.0,15000000.0,Olympique Marseille,2425
+Geoffrey Kondogbia,Defensive Midfield,32.0,7000000.0,Olympique Marseille,2425
+Adrien Rabiot,Central Midfield,30.0,25000000.0,Olympique Marseille,2425
+Ismaël Koné,Central Midfield,23.0,9000000.0,Olympique Marseille,2425
+Valentin Rongier,Central Midfield,30.0,9000000.0,Olympique Marseille,2425
+Bilal Nadir,Central Midfield,21.0,5000000.0,Olympique Marseille,2425
+Gaël Lafont,Central Midfield,19.0,,Olympique Marseille,2425
+Luis Henrique,Right Midfield,23.0,25000000.0,Olympique Marseille,2425
+Valentín Carboni,Attacking Midfield,20.0,12000000.0,Olympique Marseille,2425
+Enzo Sternal,Attacking Midfield,18.0,1500000.0,Olympique Marseille,2425
+Darryl Bakola,Attacking Midfield,17.0,200000.0,Olympique Marseille,2425
+Jonathan Rowe,Left Winger,22.0,12000000.0,Olympique Marseille,2425
+Amine Harit,Left Winger,28.0,8000000.0,Olympique Marseille,2425
+Salim Ben Seghir,Left Winger,22.0,400000.0,Olympique Marseille,2425
+Mason Greenwood,Right Winger,23.0,40000000.0,Olympique Marseille,2425
+Keyliane Abdallah,Right Winger,19.0,100000.0,Olympique Marseille,2425
+Amine Gouiri,Centre-Forward,25.0,30000000.0,Olympique Marseille,2425
+Elye Wahi,Centre-Forward,22.0,22000000.0,Olympique Marseille,2425
+Neal Maupay,Centre-Forward,28.0,8000000.0,Olympique Marseille,2425
+Faris Moumbagna,Centre-Forward,24.0,5000000.0,Olympique Marseille,2425
+Robinio Vaz,Centre-Forward,18.0,150000.0,Olympique Marseille,2425
+Gianluigi Donnarumma,Goalkeeper,26.0,40000000.0,Paris Saint Germain,2425
+Matvey Safonov,Goalkeeper,26.0,20000000.0,Paris Saint Germain,2425
+Arnau Tenas,Goalkeeper,24.0,3000000.0,Paris Saint Germain,2425
+Louis Mouquet,Goalkeeper,20.0,,Paris Saint Germain,2425
+Willian Pacho,Centre-Back,23.0,65000000.0,Paris Saint Germain,2425
+Marquinhos,Centre-Back,31.0,35000000.0,Paris Saint Germain,2425
+Lucas Beraldo,Centre-Back,21.0,25000000.0,Paris Saint Germain,2425
+Milan Škriniar,Centre-Back,30.0,15000000.0,Paris Saint Germain,2425
+Presnel Kimpembe,Centre-Back,29.0,5000000.0,Paris Saint Germain,2425
+Axel Tape,Centre-Back,17.0,2000000.0,Paris Saint Germain,2425
+Noham Kamara,Centre-Back,18.0,500000.0,Paris Saint Germain,2425
+Nuno Mendes,Left-Back,23.0,70000000.0,Paris Saint Germain,2425
+Lucas Hernández,Left-Back,29.0,25000000.0,Paris Saint Germain,2425
+Achraf Hakimi,Right-Back,26.0,80000000.0,Paris Saint Germain,2425
+Yoram Zague,Right-Back,19.0,2500000.0,Paris Saint Germain,2425
+Naoufel El Hannach,Right-Back,18.0,,Paris Saint Germain,2425
+Vitinha,Defensive Midfield,25.0,80000000.0,Paris Saint Germain,2425
+Gabriel Moscardo,Defensive Midfield,19.0,8000000.0,Paris Saint Germain,2425
+João Neves,Central Midfield,20.0,80000000.0,Paris Saint Germain,2425
+Warren Zaïre-Emery,Central Midfield,19.0,55000000.0,Paris Saint Germain,2425
+Fabián Ruiz,Central Midfield,29.0,40000000.0,Paris Saint Germain,2425
+Carlos Soler,Central Midfield,28.0,18000000.0,Paris Saint Germain,2425
+Senny Mayulu,Central Midfield,19.0,15000000.0,Paris Saint Germain,2425
+Kang-in Lee,Attacking Midfield,24.0,25000000.0,Paris Saint Germain,2425
+Marco Asensio,Attacking Midfield,29.0,20000000.0,Paris Saint Germain,2425
+Wassim Slama,Attacking Midfield,16.0,,Paris Saint Germain,2425
+Khvicha Kvaratskhelia,Left Winger,24.0,90000000.0,Paris Saint Germain,2425
+Bradley Barcola,Left Winger,22.0,70000000.0,Paris Saint Germain,2425
+Quentin Ndjantou,Left Winger,17.0,,Paris Saint Germain,2425
+Désiré Doué,Right Winger,20.0,90000000.0,Paris Saint Germain,2425
+Ibrahim Mbaye,Right Winger,17.0,3000000.0,Paris Saint Germain,2425
+Ousmane Dembélé,Centre-Forward,28.0,90000000.0,Paris Saint Germain,2425
+Gonçalo Ramos,Centre-Forward,24.0,40000000.0,Paris Saint Germain,2425
+Randal Kolo Muani,Centre-Forward,26.0,30000000.0,Paris Saint Germain,2425
+Brice Samba,Goalkeeper,31.0,12000000.0,Rc Lens,2425
+Mathew Ryan,Goalkeeper,33.0,2500000.0,Rc Lens,2425
+Hervé Koffi,Goalkeeper,28.0,1200000.0,Rc Lens,2425
+Denis Petric,Goalkeeper,37.0,100000.0,Rc Lens,2425
+Roman Karolewicz,Goalkeeper,20.0,,Rc Lens,2425
+Adam Delplace,Goalkeeper,18.0,,Rc Lens,2425
+Ilan Jourdren,Goalkeeper,16.0,,Rc Lens,2425
+Abdukodir Khusanov,Centre-Back,21.0,35000000.0,Rc Lens,2425
+Kevin Danso,Centre-Back,26.0,25000000.0,Rc Lens,2425
+Facundo Medina,Centre-Back,26.0,25000000.0,Rc Lens,2425
+Juma Bah,Centre-Back,19.0,6000000.0,Rc Lens,2425
+Malang Sarr,Centre-Back,26.0,5000000.0,Rc Lens,2425
+Jonathan Gradit,Centre-Back,32.0,4000000.0,Rc Lens,2425
+Nidal Celik,Centre-Back,18.0,1800000.0,Rc Lens,2425
+Ismaëlo Ganiou,Centre-Back,20.0,1000000.0,Rc Lens,2425
+Kyllian Antonio,Centre-Back,17.0,300000.0,Rc Lens,2425
+Souleymane Sagnan,Centre-Back,20.0,,Rc Lens,2425
+Jhoanner Chávez,Left-Back,23.0,3500000.0,Rc Lens,2425
+Deiver Machado,Left-Back,31.0,3000000.0,Rc Lens,2425
+Massadio Haïdara,Left-Back,32.0,1500000.0,Rc Lens,2425
+Oscar Lenne,Left-Back,18.0,,Rc Lens,2425
+Przemyslaw Frankowski,Right-Back,30.0,7000000.0,Rc Lens,2425
+Ruben Aguilar,Right-Back,32.0,3500000.0,Rc Lens,2425
+Tom Pouilly,Right-Back,22.0,800000.0,Rc Lens,2425
+Hamzat Ojediran,Defensive Midfield,21.0,1800000.0,Rc Lens,2425
+Nampalys Mendy,Defensive Midfield,33.0,1800000.0,Rc Lens,2425
+Andy Diouf,Central Midfield,22.0,15000000.0,Rc Lens,2425
+Neil El Aynaoui,Central Midfield,23.0,15000000.0,Rc Lens,2425
+Adrien Thomasson,Central Midfield,31.0,5000000.0,Rc Lens,2425
+David Da Costa,Attacking Midfield,24.0,6000000.0,Rc Lens,2425
+Angelo Fulgini,Attacking Midfield,28.0,5000000.0,Rc Lens,2425
+Anass Zaroury,Left Winger,24.0,8000000.0,Rc Lens,2425
+Kembo Diliwidi,Left Winger,19.0,50000.0,Rc Lens,2425
+Jeremy Agbonifo,Right Winger,19.0,5000000.0,Rc Lens,2425
+Hervé Boua Dié,Right Winger,19.0,,Rc Lens,2425
+Wesley Saïd,Second Striker,30.0,3000000.0,Rc Lens,2425
+M'Bala Nzola,Centre-Forward,28.0,6000000.0,Rc Lens,2425
+Martín Satriano,Centre-Forward,24.0,5000000.0,Rc Lens,2425
+Goduine Koyalipou,Centre-Forward,25.0,2500000.0,Rc Lens,2425
+Florian Sotoca,Centre-Forward,34.0,2000000.0,Rc Lens,2425
+Rémy Labeau Lascary,Centre-Forward,22.0,2000000.0,Rc Lens,2425
+Rayan Fofana,Centre-Forward,19.0,50000.0,Rc Lens,2425
+Gabin Capuano,Centre-Forward,19.0,50000.0,Rc Lens,2425
+Djordje Petrovic,Goalkeeper,25.0,20000000.0,Rc Strasbourg Alsace,2425
+Robin Risser,Goalkeeper,20.0,1500000.0,Rc Strasbourg Alsace,2425
+Alaa Bellaarouch,Goalkeeper,23.0,400000.0,Rc Strasbourg Alsace,2425
+Karl-Johan Johnsson,Goalkeeper,35.0,300000.0,Rc Strasbourg Alsace,2425
+Mamadou Sarr,Centre-Back,19.0,20000000.0,Rc Strasbourg Alsace,2425
+Ismaël Doukouré,Centre-Back,21.0,18000000.0,Rc Strasbourg Alsace,2425
+Abakar Sylla,Centre-Back,22.0,10000000.0,Rc Strasbourg Alsace,2425
+Andrew Omobamidele,Centre-Back,23.0,8000000.0,Rc Strasbourg Alsace,2425
+Saïdou Sow,Centre-Back,22.0,6000000.0,Rc Strasbourg Alsace,2425
+Yoni Gomis,Centre-Back,19.0,700000.0,Rc Strasbourg Alsace,2425
+Amadou Cissé,Centre-Back,19.0,,Rc Strasbourg Alsace,2425
+Sacha Lung,Centre-Back,17.0,,Rc Strasbourg Alsace,2425
+Caleb Wiley,Left-Back,20.0,8000000.0,Rc Strasbourg Alsace,2425
+Eduard Sobol,Left-Back,30.0,900000.0,Rc Strasbourg Alsace,2425
+Thomas Delaine,Left-Back,33.0,600000.0,Rc Strasbourg Alsace,2425
+Guéla Doué,Right-Back,22.0,18000000.0,Rc Strasbourg Alsace,2425
+Marvin Senaya,Right-Back,24.0,1800000.0,Rc Strasbourg Alsace,2425
+Abdoul Ouattara,Right-Back,19.0,1200000.0,Rc Strasbourg Alsace,2425
+Karol Fila,Right-Back,27.0,600000.0,Rc Strasbourg Alsace,2425
+Junior Mwanga,Defensive Midfield,22.0,6000000.0,Rc Strasbourg Alsace,2425
+Rabby Nzingoula,Defensive Midfield,19.0,2500000.0,Rc Strasbourg Alsace,2425
+Pape Diong,Defensive Midfield,19.0,800000.0,Rc Strasbourg Alsace,2425
+Andrey Santos,Central Midfield,21.0,35000000.0,Rc Strasbourg Alsace,2425
+Habib Diarra,Central Midfield,21.0,20000000.0,Rc Strasbourg Alsace,2425
+Valentín Barco,Central Midfield,20.0,12000000.0,Rc Strasbourg Alsace,2425
+Samir El Mourabet,Central Midfield,19.0,50000.0,Rc Strasbourg Alsace,2425
+Diego Moreira,Left Midfield,20.0,18000000.0,Rc Strasbourg Alsace,2425
+Félix Lemaréchal,Attacking Midfield,21.0,10000000.0,Rc Strasbourg Alsace,2425
+Tidiane Diallo,Attacking Midfield,19.0,,Rc Strasbourg Alsace,2425
+Sebastian Nanasi,Left Winger,23.0,18000000.0,Rc Strasbourg Alsace,2425
+Óscar Perea,Left Winger,19.0,2000000.0,Rc Strasbourg Alsace,2425
+Nordine Kandil,Left Winger,23.0,1000000.0,Rc Strasbourg Alsace,2425
+Rayane Messi,Left Winger,18.0,800000.0,Rc Strasbourg Alsace,2425
+Dilane Bakwa,Right Winger,22.0,25000000.0,Rc Strasbourg Alsace,2425
+Samuel Amo-Ameyaw,Right Winger,18.0,4000000.0,Rc Strasbourg Alsace,2425
+Ghianny Kodia,Right Winger,17.0,,Rc Strasbourg Alsace,2425
+Emmanuel Emegha,Centre-Forward,22.0,25000000.0,Rc Strasbourg Alsace,2425
+Milos Lukovic,Centre-Forward,19.0,5000000.0,Rc Strasbourg Alsace,2425
+Sékou Mara,Centre-Forward,22.0,5000000.0,Rc Strasbourg Alsace,2425
+Moïse Sahi Dion,Centre-Forward,23.0,1000000.0,Rc Strasbourg Alsace,2425
+Jérémy Sebas,Centre-Forward,22.0,700000.0,Rc Strasbourg Alsace,2425
+Zoumana Diallo,Centre-Forward,20.0,,Rc Strasbourg Alsace,2425
+Marco Bizot,Goalkeeper,34.0,3000000.0,Stade Brestois 29,2425
+Grégoire Coudert,Goalkeeper,26.0,500000.0,Stade Brestois 29,2425
+Noah Jauny,Goalkeeper,20.0,,Stade Brestois 29,2425
+Soumaïla Coulibaly,Centre-Back,21.0,8000000.0,Stade Brestois 29,2425
+Brendan Chardonnet,Centre-Back,30.0,6000000.0,Stade Brestois 29,2425
+Abdoulaye Ndiaye,Centre-Back,23.0,4000000.0,Stade Brestois 29,2425
+Julien Le Cardinal,Centre-Back,27.0,2000000.0,Stade Brestois 29,2425
+Achraf Dari,Centre-Back,26.0,1500000.0,Stade Brestois 29,2425
+Paris Irie,Centre-Back,19.0,,Stade Brestois 29,2425
+Raphaël Le Guen,Centre-Back,18.0,,Stade Brestois 29,2425
+Bradley Locko,Left-Back,23.0,9000000.0,Stade Brestois 29,2425
+Massadio Haïdara,Left-Back,32.0,1500000.0,Stade Brestois 29,2425
+Jordan Amavi,Left-Back,31.0,1500000.0,Stade Brestois 29,2425
+Justin Bourgault,Left-Back,19.0,800000.0,Stade Brestois 29,2425
+Luck Zogbé,Right-Back,20.0,2500000.0,Stade Brestois 29,2425
+Kenny Lala,Right-Back,33.0,2000000.0,Stade Brestois 29,2425
+Pierre Lees-Melou,Defensive Midfield,32.0,6000000.0,Stade Brestois 29,2425
+Edimilson Fernandes,Defensive Midfield,29.0,3000000.0,Stade Brestois 29,2425
+Jonas Martin,Defensive Midfield,35.0,600000.0,Stade Brestois 29,2425
+Hamidou Makalou,Defensive Midfield,18.0,300000.0,Stade Brestois 29,2425
+Mahdi Camara,Central Midfield,27.0,9000000.0,Stade Brestois 29,2425
+Hugo Magnetti,Central Midfield,27.0,6000000.0,Stade Brestois 29,2425
+Hianga'a Mbock,Central Midfield,25.0,400000.0,Stade Brestois 29,2425
+Romain Faivre,Attacking Midfield,26.0,6000000.0,Stade Brestois 29,2425
+Kamory Doumbia,Attacking Midfield,22.0,4000000.0,Stade Brestois 29,2425
+Noan Geraux,Attacking Midfield,19.0,,Stade Brestois 29,2425
+Abdallah Sima,Left Winger,24.0,9000000.0,Stade Brestois 29,2425
+Ibrahim Salah,Left Winger,23.0,3000000.0,Stade Brestois 29,2425
+Mathias Pereira Lage,Left Winger,28.0,2500000.0,Stade Brestois 29,2425
+Léo Botz,Left Winger,20.0,,Stade Brestois 29,2425
+Romain Del Castillo,Right Winger,29.0,7000000.0,Stade Brestois 29,2425
+Axel Camblan,Right Winger,21.0,500000.0,Stade Brestois 29,2425
+Ibrahim Yayiya Kanté,Right Winger,18.0,,Stade Brestois 29,2425
+Mama Baldé,Centre-Forward,29.0,4000000.0,Stade Brestois 29,2425
+Ludovic Ajorque,Centre-Forward,31.0,4000000.0,Stade Brestois 29,2425
+Jérémy Le Douaron,Centre-Forward,27.0,3000000.0,Stade Brestois 29,2425
+Saliou Diop,Centre-Forward,20.0,50000.0,Stade Brestois 29,2425
+Yehvann Diouf,Goalkeeper,25.0,12000000.0,Stade Reims,2425
+Alexandre Olliero,Goalkeeper,29.0,200000.0,Stade Reims,2425
+Ludovic Butelle,Goalkeeper,42.0,100000.0,Stade Reims,2425
+Emmanuel Agbadou,Centre-Back,28.0,20000000.0,Stade Reims,2425
+Joseph Okumu,Centre-Back,28.0,7000000.0,Stade Reims,2425
+Cédric Kipré,Centre-Back,28.0,3000000.0,Stade Reims,2425
+Malcolm Jeng,Centre-Back,20.0,2000000.0,Stade Reims,2425
+Abdoul Koné,Centre-Back,20.0,400000.0,Stade Reims,2425
+Kobi Henry,Centre-Back,21.0,100000.0,Stade Reims,2425
+Mohamed Ali Diadié,Centre-Back,20.0,,Stade Reims,2425
+Sergio Akieme,Left-Back,27.0,7000000.0,Stade Reims,2425
+Thibault De Smet,Left-Back,27.0,2500000.0,Stade Reims,2425
+Nhoa Sangui,Left-Back,19.0,2500000.0,Stade Reims,2425
+Aurélio Buta,Right-Back,28.0,5000000.0,Stade Reims,2425
+Hiroki Sekine,Right-Back,22.0,1200000.0,Stade Reims,2425
+Maxime Busi,Right-Back,25.0,1000000.0,Stade Reims,2425
+Gabriel Moscardo,Defensive Midfield,19.0,8000000.0,Stade Reims,2425
+Mory Gbane,Defensive Midfield,24.0,4000000.0,Stade Reims,2425
+Amadou Koné,Defensive Midfield,20.0,4000000.0,Stade Reims,2425
+Mohamed Bamba,Defensive Midfield,20.0,3000000.0,Stade Reims,2425
+Marshall Munetsi,Central Midfield,29.0,15000000.0,Stade Reims,2425
+Valentin Atangana,Central Midfield,19.0,10000000.0,Stade Reims,2425
+Yaya Fofana,Central Midfield,21.0,4000000.0,Stade Reims,2425
+Teddy Teuma,Central Midfield,31.0,3000000.0,Stade Reims,2425
+John Patrick,Central Midfield,21.0,1200000.0,Stade Reims,2425
+Patrick Zabi,Central Midfield,18.0,100000.0,Stade Reims,2425
+Reda Khadra,Attacking Midfield,23.0,2000000.0,Stade Reims,2425
+Martin Adeline,Attacking Midfield,21.0,700000.0,Stade Reims,2425
+Martial Tia,Attacking Midfield,18.0,300000.0,Stade Reims,2425
+Keito Nakamura,Left Winger,24.0,8000000.0,Stade Reims,2425
+Mohamed Daramy,Left Winger,23.0,4000000.0,Stade Reims,2425
+Mamadou Diakhon,Left Winger,19.0,3000000.0,Stade Reims,2425
+Ike Orazi,Left Winger,18.0,100000.0,Stade Reims,2425
+Junya Ito,Right Winger,32.0,6000000.0,Stade Reims,2425
+Oumar Diakité,Centre-Forward,21.0,6000000.0,Stade Reims,2425
+Jordan,Centre-Forward,29.0,3000000.0,Stade Reims,2425
+Amine Salama,Centre-Forward,24.0,1500000.0,Stade Reims,2425
+Adama Bojang,Centre-Forward,21.0,1000000.0,Stade Reims,2425
+Hafiz Umar Ibrahim,Centre-Forward,19.0,500000.0,Stade Reims,2425
+Pape Sissoko,Centre-Forward,19.0,100000.0,Stade Reims,2425
+Brice Samba,Goalkeeper,31.0,12000000.0,Stade Rennais Fc,2425
+Doğan Alemdar,Goalkeeper,22.0,1500000.0,Stade Rennais Fc,2425
+Gauthier Gallon,Goalkeeper,32.0,800000.0,Stade Rennais Fc,2425
+Steve Mandanda,Goalkeeper,40.0,500000.0,Stade Rennais Fc,2425
+Geoffrey Lembet,Goalkeeper,36.0,100000.0,Stade Rennais Fc,2425
+Leo Østigård,Centre-Back,25.0,10000000.0,Stade Rennais Fc,2425
+Lilian Brassier,Centre-Back,25.0,10000000.0,Stade Rennais Fc,2425
+Anthony Rouault,Centre-Back,24.0,10000000.0,Stade Rennais Fc,2425
+Jérémy Jacquet,Centre-Back,19.0,10000000.0,Stade Rennais Fc,2425
+Alidu Seidu,Centre-Back,25.0,9000000.0,Stade Rennais Fc,2425
+Christopher Wooh,Centre-Back,23.0,6000000.0,Stade Rennais Fc,2425
+Mikayil Faye,Centre-Back,20.0,6000000.0,Stade Rennais Fc,2425
+Warmed Omari,Centre-Back,25.0,3000000.0,Stade Rennais Fc,2425
+Abdelhamid Ait Boudlal,Centre-Back,19.0,500000.0,Stade Rennais Fc,2425
+Adrien Truffert,Left-Back,23.0,15000000.0,Stade Rennais Fc,2425
+Mahamadou Nagida,Left-Back,20.0,800000.0,Stade Rennais Fc,2425
+Lorenz Assignon,Right-Back,25.0,9000000.0,Stade Rennais Fc,2425
+Hans Hateboer,Right-Back,31.0,2500000.0,Stade Rennais Fc,2425
+Azor Matusiwa,Defensive Midfield,27.0,8000000.0,Stade Rennais Fc,2425
+Baptiste Santamaria,Defensive Midfield,30.0,7000000.0,Stade Rennais Fc,2425
+Seko Fofana,Central Midfield,30.0,10000000.0,Stade Rennais Fc,2425
+Ismaël Koné,Central Midfield,23.0,9000000.0,Stade Rennais Fc,2425
+Jordan James,Central Midfield,20.0,8000000.0,Stade Rennais Fc,2425
+Djaoui Cissé,Central Midfield,21.0,8000000.0,Stade Rennais Fc,2425
+Benjamin Bourigeaud,Central Midfield,31.0,7000000.0,Stade Rennais Fc,2425
+Glen Kamara,Central Midfield,29.0,5000000.0,Stade Rennais Fc,2425
+Naouirou Ahamada,Central Midfield,23.0,3500000.0,Stade Rennais Fc,2425
+Joël-Emmanuel Coulibaly,Central Midfield,18.0,,Stade Rennais Fc,2425
+Ludovic Blas,Right Midfield,27.0,18000000.0,Stade Rennais Fc,2425
+Albert Grønbæk,Attacking Midfield,24.0,11000000.0,Stade Rennais Fc,2425
+Ayanda Sishuba,Attacking Midfield,20.0,1500000.0,Stade Rennais Fc,2425
+Henrick Do Marcolino,Attacking Midfield,19.0,,Stade Rennais Fc,2425
+Jota,Left Winger,26.0,8000000.0,Stade Rennais Fc,2425
+Kazeem Olaigbe,Left Winger,22.0,5000000.0,Stade Rennais Fc,2425
+Andrés Gómez,Left Winger,22.0,4000000.0,Stade Rennais Fc,2425
+Mousa Tamari,Right Winger,28.0,6000000.0,Stade Rennais Fc,2425
+Amine Gouiri,Centre-Forward,25.0,30000000.0,Stade Rennais Fc,2425
+Arnaud Kalimuendo,Centre-Forward,23.0,22000000.0,Stade Rennais Fc,2425
+Kyogo Furuhashi,Centre-Forward,30.0,9000000.0,Stade Rennais Fc,2425
+Kader Meïté,Centre-Forward,17.0,5000000.0,Stade Rennais Fc,2425
+Henrik Meister,Centre-Forward,21.0,2800000.0,Stade Rennais Fc,2425
+Alan Do Marcolino,Centre-Forward,23.0,100000.0,Stade Rennais Fc,2425
+Wilson Samaké,Centre-Forward,21.0,100000.0,Stade Rennais Fc,2425
